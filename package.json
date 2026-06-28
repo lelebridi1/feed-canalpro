@@ -1,0 +1,10 @@
+{
+  "name": "feed-canalpro-externo",
+  "version": "1.0.0",
+  "description": "Robo que le os imoveis do site e gera o feed VrSync para o CanalPro (com limite diario e sigla LE).",
+  "type": "module",
+  "scripts": {
+    "start": "node gerar-feed.js",
+    "teste": "TESTE=1 node gerar-feed.js"
+  }
+}
