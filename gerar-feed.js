@@ -81,10 +81,16 @@ async function buscarImoveis() {
     console.log('[TESTE] lendo amostra.json em vez da internet');
     return JSON.parse(fs.readFileSync('amostra.json', 'utf-8'));
   }
+  // Cabecalhos de navegador (o site tem protecao anti-bot que bloqueia requisicoes "cruas")
+  const HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'pt-BR,pt;q=0.9',
+  };
   const todos = [];
   for (let page = 1; page <= 100; page++) {
     const url = `${CONFIG.API}?per_page=100&page=${page}&orderby=date&order=desc`;
-    const r = await fetch(url);
+    const r = await fetch(url, { headers: HEADERS });
     if (r.status === 400) break; // passou da ultima pagina
     if (!r.ok) throw new Error(`Erro HTTP ${r.status} ao ler ${url}`);
     const lote = await r.json();
