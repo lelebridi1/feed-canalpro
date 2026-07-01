@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+  <Header>
+    <Provider>Casa Imobiliaria ES</Provider>
+    <Email>contato@casaimobiliariaes.com.br</Email>
+    <ContactName>Casa Imobiliaria ES</ContactName>
+    <PublishDate>2026-07-01T01:09:53</PublishDate>
+    <Telephone>(27) 3070-4717</Telephone>
+  </Header>
+  <Listings>
+  </Listings>
+</ListingDataFeed>
