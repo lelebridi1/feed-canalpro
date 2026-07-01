@@ -87,13 +87,27 @@ async function buscarImoveis() {
     'Accept': 'application/json, text/plain, */*',
     'Accept-Language': 'pt-BR,pt;q=0.9',
   };
+  // Busca uma pagina com ate 3 tentativas (para driblar bloqueios passageiros do site)
+  async function buscarPagina(page) {
+    const url = `${CONFIG.API}?per_page=100&page=${page}&orderby=date&order=desc`;
+    for (let tentativa = 1; tentativa <= 3; tentativa++) {
+      try {
+        const r = await fetch(url, { headers: HEADERS });
+        if (r.ok) return await r.json();
+        if (r.status === 400) return []; // provavelmente passou da ultima pagina
+        console.log(`  (pagina ${page}: HTTP ${r.status}, tentativa ${tentativa}/3)`);
+      } catch (e) {
+        console.log(`  (pagina ${page}: erro de rede, tentativa ${tentativa}/3)`);
+      }
+      await new Promise((res) => setTimeout(res, 3000));
+    }
+    return null; // falhou apos as tentativas
+  }
+
   const todos = [];
   for (let page = 1; page <= 100; page++) {
-    const url = `${CONFIG.API}?per_page=100&page=${page}&orderby=date&order=desc`;
-    const r = await fetch(url, { headers: HEADERS });
-    if (r.status === 400) break; // passou da ultima pagina
-    if (!r.ok) throw new Error(`Erro HTTP ${r.status} ao ler ${url}`);
-    const lote = await r.json();
+    const lote = await buscarPagina(page);
+    if (lote === null) { console.error(`Falha ao ler a pagina ${page} apos 3 tentativas.`); break; }
     if (!Array.isArray(lote) || lote.length === 0) break;
     todos.push(...lote);
     if (lote.length < 100) break;
@@ -184,6 +198,13 @@ function montarListing(im) {
 async function main() {
   const imoveis = await buscarImoveis();
   console.log(`Imoveis lidos do site: ${imoveis.length}`);
+
+  // PROTECAO: se leu 0 imoveis (site pode ter bloqueado o acesso), aborta SEM
+  // sobrescrever o feed nem o estado. Assim o ultimo feed bom continua no ar.
+  if (imoveis.length === 0) {
+    console.error('ABORTANDO: 0 imoveis lidos do site (possivel bloqueio). Feed atual mantido, nada foi sobrescrito.');
+    process.exit(1);
+  }
 
   const estado = carregarEstado();
   const liberados = estado.liberados || {};
