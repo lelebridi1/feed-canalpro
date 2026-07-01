@@ -1,0 +1,35 @@
+name: Exportar imoveis para Kenlo
+
+# Roda so na mao (botao Run workflow). Gera imoveis-kenlo.xml com TODOS os imoveis.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar a exportacao
+        run: node exportar-kenlo.js
+
+      - name: Salvar o arquivo no repositorio
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add imoveis-kenlo.xml
+          if git diff --staged --quiet; then
+            echo "Sem mudancas."
+          else
+            git commit -m "Exportacao Kenlo"
+            git push
+          fi
