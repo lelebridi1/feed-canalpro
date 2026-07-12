@@ -6,7 +6,7 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-11T10:37:23</PublishDate>
+    <PublishDate>2026-07-12T11:00:15</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
@@ -5747,6 +5747,58 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Costa Bela]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-16246</ListingID>
+      <Title><![CDATA[Casa duplex 3 QUARTOS C/ SUÍTE em Morada de Laranjeiras – Serra/ES - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-3-quartos-c-suite-em-morada-de-laranjeiras-serra-es/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/7061b95f-f778-4901-8d9f-8a1a42cb2b9e.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/db093032-126d-4e22-a82d-e710ee733081.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/3e7dffc3-d8ea-4a83-8638-c2f96ecd404e.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/fc11eeeb-d0bf-4b20-928f-ad90f05f9e9f.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/770d20db-4848-4be9-b71d-d329aa2cc0fe.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/80d0b1a7-cacc-495e-92fd-aacebe5373b5.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/82e28674-4f1e-412e-9ad3-faa746e710be.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/36e2cc64-d0eb-42ef-be3e-fb8e1d8bc9f3.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/2c8aecce-159a-4af4-93b5-8e42e3b4e417.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/1b72ac8e-801a-4628-83f5-4c5765e1033f.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/6c2a3395-cb31-4e62-8192-b2a9cbdb43ca.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/16ed7a50-18d2-4b53-a3fc-d064928529a3.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/125f3e4b-4801-404c-90c9-3a4258796009.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/41f8ee2e-e86d-4ac2-a4ee-3fdeda521440.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/16737e7c-1bff-41fe-a01c-372d328199dd.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/dd4942ff-022a-4ab5-99a7-a91fe5ede485.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/3dfe15c2-c281-4a15-a3cb-62e9fb34811d.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/243041ce-6604-4cd9-a09e-c59d8870e2af.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/7151a8c5-3800-4df5-b555-2d71bd13eb19.jpg</Item>
+        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/38841f7e-e32f-47f6-be26-e20fa6c1934e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Se você busca espaço, conforto e localização privilegiada, essa casa é perfeita para sua família! Localizada no melhor lado de Morada de Laranjeiras, em uma rua tranquila e residencial, oferecendo qualidade de vida e praticidade no dia a dia. Detalhes do imóvel: • 106m² de área construída com excelente distribuição • 3 quartos, sendo 1 suíte • Sala confortável e bem iluminada • Cozinha funcional • Lavabo • Banheiro social • Área de serviço• Garagem coberta para 2 carros Localização estratégica: • Próximo a escolas • Praças • Comércios locais • A poucos minutos de Laranjeiras e das principais praias da Serra Ideal para quem deseja morar em uma região valorizada, tranquila e com tudo perto. Agende sua visita e venha conhecer essa oportunidade! WSS]]></Description>
+        <ListPrice currency="BRL">1020000</ListPrice>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
