@@ -6,10 +6,109 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-17T11:09:42</PublishDate>
+    <PublishDate>2026-07-18T10:46:56</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-20444</ListingID>
+      <Title><![CDATA[Apartamento térreo com quintal privativo de 2 quartos 1 suíte. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-terreo-com-quintal-privativo-de-2-quartos-1-suite/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.44.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.46-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.46-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.48.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.45.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.45-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.46.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.51.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.30.57.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.01.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.02.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.03.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.03-1.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.04.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.16.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.17.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.18-1.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.18-2.jpeg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-16.31.18.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento disponível para locação no Vista de Porto Canoa Condomínio Clube Se você procura um apartamento, novo, amplo, moderno e com excelente infraestrutura de lazer, esta é a oportunidade ideal! O imóvel está localizado no térreo do Vista de Porto Canoa Condomínio Clube e conta com uma planta de 64m² muito bem distribuída, oferecendo conforto e praticidade para o dia a dia. Características do apartamento: &#8211; 2 quartos, sendo 1 suíte; &#8211; Sala ampla; &#8211; Cozinha com área de serviço integrada; &#8211; Quintal privativo; &#8211; Banheiro social; &#8211; Piso em porcelanato; &#8211; Esquadrias em alumínio; &#8211; Box&#8217;s em vidro temperado instalados nos dois banheiros; &#8211; Imóvel novo, pronto para morar. O condomínio oferece uma infraestrutura completa para toda a família, com: &#8211; Portaria 24 horas; &#8211; Piscina; &#8211; Academia; &#8211; Salão de festas; &#8211; 2 churrasqueiras; &#8211; Quadra poliesportiva; &#8211; Playground; &#8211; Espaço Pet; &#8211; Lava-jato. More com segurança, conforto e lazer em um dos condomínios mais completos da região de Porto Canoa. Entre em contato e agende sua visita! BOM]]></Description>
+        <ListPrice currency="BRL">2400</ListPrice>
+        <LivingArea unit="square metres">64</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Porto Canoa]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20406</ListingID>
+      <Title><![CDATA[Apartamento no Via Laranjeiras para locação - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-no-via-laranjeiras-para-locacao/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.09.04.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.55.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.51.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.52.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.48.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.53.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.28.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.33.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.34.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.36.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.37.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.38.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.41.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.42.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.43-2.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.45.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-16-at-14.08.46-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Localizado em um dos melhores bairros da Serra, em Morada de Laranjeiras, Apartamento no Condomínio Via Laranjeiras 📍 3º andar | Sol intermediário | Área edificada: 55 m² Excelente apartamento, pronto para morar, composto por: • 2 quartos; • Sala; • Varanda privativa; • Cozinha com modulados; • Banheiro social; • Lazer completo. 💰 Aluguel: R$ 2.000,00 (condomínio incluso). 🤝 Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . 📍 Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. 📞 Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
+        <ListPrice currency="BRL">2000</ListPrice>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-20370</ListingID>
       <Title><![CDATA[Apartamento 3 Quartos (1 Suíte) na Praia de Santa Helena – Vitória/ES - LE]]></Title>
@@ -6400,7 +6499,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Ampla casa duplex na melhor região de Planicie da Serra. Investimento inteligente! Com energia solar já instalada e funcionando, valorizando o imóvel e garantindo baixo custo operacional. Ideal pra quem busca conforto e tranquilidade, a casa conta com uma sala espaçosa, os 03 quartos sendo 1 suite conta com varanda , mais 2 banheiros, cozinha com planejados e bancada ampla, area de serviço, espaço gourmet com cooktop, churrasqueira, e 2 vagas de garagem . Aceita financiamento e FGTS! Agende uma visita! DS]]></Description>
-        <ListPrice currency="BRL">690000</ListPrice>
+        <ListPrice currency="BRL">650000</ListPrice>
         <LivingArea unit="square metres">160</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>3</Bathrooms>
@@ -11135,57 +11234,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Santa Luzia]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-11047</ListingID>
-      <Title><![CDATA[Apartamento 2 quartos – quintal privativo – Condomínio Vista Do Bosque - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-quintal-privativo-condominio-vista-do-bosque/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/93004018-c3bd-43b4-954a-d218b6dbe68e1772474499472.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/46d7b6a1-4688-44f2-af7e-a44ea925b7071772474499418.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/82e605ab-0479-44f1-907d-7bff5fb17f7f1772474499244.jpg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/74ec80ef-79b6-481b-9513-100a87220d00-11772474499426.jpg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2d7b8647-6f79-416c-9445-2f7cc8945ee61772474499324.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/6aaa05b8-56c6-4c25-a5a0-09d32962f134-11772474499236.jpg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/5584eefc-2b12-44e7-b787-cc464cf1269e1772474499234.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2281ad88-b2a7-44ea-a784-3320fcdf8efb1772474499453.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/85b5626f-28a5-47e0-b960-14d136a94a301772474499387.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/0e70c738-5a55-4975-8640-bf1f6767c7311772474499390.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/4b78e240-3b56-4984-b4d1-0dcdeb0f17e21772474499420.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/4d85a75b-4728-443a-bd78-c916319c92991772474499473.jpg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/7d061339-7325-4594-a62c-0b075315fc441772474499446-1.jpg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/45f68419-6a83-4005-acba-55a56888e5ba1772474499432.jpg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/0374c90e-67bc-493e-8c23-b783f5871f8c-11772474499238.jpg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/533c522b-6a0c-4a4e-90cf-a0ed8ff36cc51772474499438.jpg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/7564c1eb-dab0-4465-87c6-4206a471ad09-11772474499476.jpg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/958243f0-ce2f-4e1c-946f-f9ffa430a6df1772474499383.jpg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2903517b-0347-4efe-8990-26702e7b0a841772474499221.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento com Quintal – Vista do Bosque | Serra/ES Apartamento com 2 quartos aconchegantes, sala, cozinha, banheiro e área de serviço. Conta com excelente ventilação e sol da manhã, garantindo mais conforto no dia a dia. O condomínio oferece lazer completo, com piscinas, área de churrasco, quadras, academia, mini mercado, elevador e monitoramento 24h, trazendo segurança e praticidade. Localização estratégica, próxima a comércios, escolas, supermercados e com fácil acesso às principais vias da região. Valor: R$ 260.000,00 Agende sua visita! FRAN]]></Description>
-        <ListPrice currency="BRL">260000</ListPrice>
-        <LivingArea unit="square metres">56</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
