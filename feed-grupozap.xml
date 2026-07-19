@@ -6,10 +6,53 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-18T10:46:56</PublishDate>
+    <PublishDate>2026-07-19T10:58:53</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-20461</ListingID>
+      <Title><![CDATA[Apartamento 2 quartos dos seus sonhos no Condomínio Modern Life. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-dos-seus-sonhos-no-condominio-modern-life/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/23746042-698e-445d-abd1-daf009e5e56c.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/7d773ad9-4bfe-455e-a3af-52cd214d4edf.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/e40fd2f2-8e5d-4013-a497-5e8a5e265000.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/1d1269b0-7a87-4acc-9e88-467140c1b5c6.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/92c3abaf-4fd4-4fbd-a6eb-4d248634507d.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-18.55.11.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-18.55.11-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/c618f641-00de-4693-a192-94a34f369207.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/5c5611ee-d012-4aa2-af77-f779b5d37af6.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/dc276fdd-bd6b-49e0-8362-864d29e56967.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/781fa8b2-0e68-458e-b121-5b985703ab25.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Se você procura conforto, sofisticação e qualidade de vida, este apartamento é a escolha ideal! 2 quartos, sendo 1 suíte Banheiro social Fino acabamento Cozinha planejada Andar alto, com excelente ventilação e iluminação natural Privacidade total e sem chance de ser perdida. Localizado em uma rua arborizada e tranquila 2 vagas de garagem cobertas e independentes (soltas) O Condomínio Modern Life em um dos melhores bairros de Vitória localizado no Bento Ferreira onde condomínio vem oferecer o lazer completo para toda a família, proporcionando segurança, conforto e praticidade no dia a dia. Apartamento com sol da manhã, garantindo ambientes mais agradáveis e aconchegantes. Agende sua visita e venha conhecer seu novo lar! PES]]></Description>
+        <ListPrice currency="BRL">850000</ListPrice>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vitória]]></City>
+        <Neighborhood><![CDATA[Bento Ferreira]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-20444</ListingID>
       <Title><![CDATA[Apartamento térreo com quintal privativo de 2 quartos 1 suíte. - LE]]></Title>
@@ -4340,45 +4383,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-17617</ListingID>
-      <Title><![CDATA[PAUSA- 2 quartos São Diogo, varanda, elevador, próximo a Arcelor Mittal - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-sao-diogo-varanda-elevador-proximo-a-arcelor-mittal/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.08-scaled.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.10-scaled.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.10-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.11-scaled.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.06-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.05-scaled.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-07-at-15.23.06-scaled.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[2 quartos São Diogo, varanda, elevador, próximo a Arcelor Mittal, Serra &#8211; ES 50 m² 2 quartos bem distribuídos Sol da manhã 1 banheiro social Varanda com fechamento em vidro, integrando o ambiente, Cozinha planejada com armários embutidos. Em uma localização estratégica, próximo da ArcelorMittal e a poucos minutos de Vitória. Edifício com elevadores. Agende sua visita! PES/RNT]]></Description>
-        <ListPrice currency="BRL">290000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[São Diogo I]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-11583</ListingID>
       <Title><![CDATA[Apartamento 2 Quartos/Suíte localizado na 4 quadra do mar! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -4403,62 +4407,6 @@
         <Description><![CDATA[Apartamento em Jardim Camburi, localizado na 4ª quadra do mar – excelente OPORTUNIDADE! Apartamento 2 quarto, 2 banheiros, sendo 1 deles suíte, 1 vaga de garagem (coberta), Apartamento com aproximadamente 64m² andar alto, O imóvel proporciona fácil acesso a comércios, serviços, escolas e áreas de lazer, garantindo praticidade no dia a dia e excelente qualidade de vida, com incidência do sol da tarde. Condomínio aproximadamente R$ 510,000 IPTU aproximadamente R$ 60,00 reais anual Agende sua visita e conheça o imóvel de perto. Estou à disposição para te atender! AND]]></Description>
         <ListPrice currency="BRL">709000</ListPrice>
         <LivingArea unit="square metres">64</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-17568</ListingID>
-      <Title><![CDATA[2 quartos, suíte, lazer completo em Jardim Camburi - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-suite-lazer-completo-em-jardim-camburi/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.09-3.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.10.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.08-5.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.09.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.09-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.09-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.08-4.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.08-2.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.07-4.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.11-1.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.10-4.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.11-2.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.12-3.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.10-3.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.07.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.08.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.10-1.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.10-2.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.12.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.12-1.jpeg</Item>
-        <Item medium="image" caption="img21">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.12-2.jpeg</Item>
-        <Item medium="image" caption="img22">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.11.jpeg</Item>
-        <Item medium="image" caption="img23">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.07-1.jpeg</Item>
-        <Item medium="image" caption="img24">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-28-at-14.06.07-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Recanto Camburi | Jardim Camburi Apartamento moderno, funcional e pronto para morar em uma das localizações mais desejadas de Jardim Camburi! 2 quartos, sendo 1 suíte Ambientes climatizados com ar-condicionado Móveis planejados de excelente qualidade Cozinha montada com eletrodomésticos fixos Varanda com fechamento em vidro Área técnica com possibilidade de ampliação da área de serviço Andar com elevador Lazer completo para toda a família Excelente localização, próximo a comércios, serviços e conveniências Um imóvel que une conforto, praticidade e sofisticação, ideal para quem busca morar bem em Jardim Camburi. Ambientes bem distribuídos, acabamento moderno e excelente aproveitamento dos espaços. Recanto Camburi – Jardim Camburi Pronto para morar More com conforto, segurança e praticidade! PES #JardimCamburi #RecantoCamburi #ApartamentoEmJardimCamburi #ImóveisVitória #ApartamentoAVenda #MorarBem #ApartamentoPlanejado #LazerCompleto #ImóvelDosSonhos #ApartamentoComSuíte #PestanaConsultorImobiliário #OportunidadeEmJardimCamburi]]></Description>
-        <ListPrice currency="BRL">740000</ListPrice>
-        <LivingArea unit="square metres">62</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>2</Bathrooms>
         <Garage type="Parking Space">1</Garage>
@@ -6981,8 +6929,8 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Oportunidade Apartamento novo no térreo Semi mobiliado &#8211; São Patrício- Jacaraipe. Lindo Apartamento 2 quartos no térreo, Condomínio Viva La Serra- São Patrício. O imóvel está localizado no bairro São Patrício com 48 metros quadrados com 2 quartos e 1 banheiro Vai lhe possibilitar curtir os dias mais quentes na piscina. Encontra-se na privacidade de um condomínio fechado. Churrasqueira para você aproveitar nos momentos de descontração. Moveis que vai ficar no apartamento Sofa, Mesa, Cama, Fogão, Microonda, Geladeira, Maquina de lavar. Próximo da Praia, terminal de jacaraípe. Supermercado, Restaurantes da Lagoa do Juara. Aceitamos financiamento. Agende sua visita. RNT]]></Description>
-        <ListPrice currency="BRL">255000</ListPrice>
+        <Description><![CDATA[Oportunidade Apartamento novo no térreo &#8211; São Patrício- Jacaraipe. Lindo Apartamento 2 quartos no térreo, Condomínio Viva La Serra- São Patrício. O imóvel está localizado no bairro São Patrício com 48 metros quadrados com 2 quartos e 1 banheiro Vai lhe possibilitar curtir os dias mais quentes na piscina. Encontra-se na privacidade de um condomínio fechado. Churrasqueira para você aproveitar nos momentos de descontração. Moveis que vai ficar no apartamento Sofa, Mesa, Cama, Fogão, Microonda, Geladeira, Maquina de lavar. Próximo da Praia, terminal de jacaraípe. Supermercado, Restaurantes da Lagoa do Juara. Aceitamos financiamento. Agende sua visita. RNT]]></Description>
+        <ListPrice currency="BRL">240000</ListPrice>
         <LivingArea unit="square metres">48</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -7336,58 +7284,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-14612</ListingID>
-      <Title><![CDATA[Casa com piscina em Jardim Camburi, oportunidade de preço! - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-com-piscina-em-jardim-camburi-oportunidade-de-preco/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-40-00-31763068381776.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-40-00-11763068382918.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-40-00-21763068382303.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-40-001763068382831.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-40-01-21763068381646.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-51-11763068067666.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-51-21763068065828.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-51-31763068067721.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-52-11763068161838.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-52-21763068161870.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-53-11763068162085.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-53-21763068162054.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-53-31763068161877.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-54-11763068162028.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-54-21763068223139.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-55-11763068222995-1.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-55-21763068223066.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-55-31763068223005.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-56-11763068222619.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-11-12-at-18-39-56-21763068223141.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa triplex, esquina em Jardim Camburi Próximo ao comércio em geral, farmácias, escolas, bancos, entre outros Térreo: garagem com portão eletrônico, entrada independente para pedestre, pequena área verde, hall de entrada, sala de jantar, sala de TV, banheiro lavabo, cozinha, área de serviço, 1 quarto. Armários na cozinha, banheiro e área de serviço Segundo andar: 3 quartos com varanda, sendo 1 suíte com estrutura pronta para expansão, banheiro social. Armários nos quartos e banheiros Cobertura: área aberta com piscina e cascata (deck em madeira), chuveiro, lavabo, área coberta com cozinha montada, geladeira, cocktop, churrasqueira (carvão) com forno a lenha. Armários na cozinha e lavabo. Salão gourmet com preparação para ar split A casa está equipada com sistema de captação de energia solar (12 painéis solares com média de geração de 750 KW mês). Crédito de aproximadamente de R$800,00 por mês. A casa dispõe de grades, cerca elétrica e redes de proteção. PES]]></Description>
-        <ListPrice currency="BRL">1600000</ListPrice>
-        <LivingArea unit="square metres">206</LivingArea>
-        <Bedrooms>4</Bedrooms>
-        <Bathrooms>4</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -8367,7 +8263,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento 02 quartos no Ilha de Vitória &#8211; Colina de Laranjeiras, Serra. More com conforto e qualidade de vida em Colina de Laranjeiras! Excelente apartamento à venda em Colina de Laranjeiras, um dos bairros mais valorizados e desejados de Serra. O imóvel possui 2 quartos, banheiro social, sala aconchegante, cozinha funcional, área de serviço e varanda, com uma planta bem distribuída que proporciona conforto e praticidade no dia a dia. O apartamento recebe sol da manhã, garantindo ambientes mais frescos, iluminados e agradáveis. O prédio conta com elevador, trazendo ainda mais comodidade para o seu dia a dia. O condomínio oferece excelente infraestrutura de lazer e segurança para toda a família, com: Piscina adulto e infantil Academia Quadra esportiva Parquinho infantil Salão de festa Churrasqueira Vaga de garagem Tudo isso em localização estratégica, próximo a supermercados, comércios, escolas e com fácil acesso às principais vias da região. Perfeito para quem busca morar bem, com segurança, lazer e praticidade. Agende sua visita! RNT]]></Description>
-        <ListPrice currency="BRL">370000</ListPrice>
+        <ListPrice currency="BRL">345000</ListPrice>
         <LivingArea unit="square metres">52</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
