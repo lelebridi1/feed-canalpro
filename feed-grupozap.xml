@@ -6,10 +6,50 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-21T12:09:32</PublishDate>
+    <PublishDate>2026-07-22T12:13:45</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-20587</ListingID>
+      <Title><![CDATA[Loja Comercial com Mezanino à Venda | Jardim Camburi – Vitória/ES - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/loja-comercial-com-mezanino-a-venda-jardim-camburi-vitoria-es/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_19_31_52.png</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_19_24_06.png</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_04_20.png</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_05_44.png</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_09_25.png</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_16_55.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_18_53.png</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_13_55.png</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_20_de_jul._de_2026_20_33_37.png</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente oportunidade para quem deseja investir ou abrir seu próprio negócio em um dos bairros mais valorizados e movimentados de Vitória! Localizada em uma região de grande fluxo de pessoas e veículos, esta loja oferece estrutura pronta para diversos segmentos comerciais, como escritórios, consultórios, clínicas, estética, lojas, franquias e muito mais. Características 52m² de área total (incluindo o mezanino) Loja de frente para a rua Excelente visibilidade comercial Porta de vidro Porta de enrolar automatizada com controle remoto Mezanino funcional Pavimento térreo Amplo espaço para atendimento 1 lavabo Ar-condicionado de 30.000 BTUs Mezanino Espaço ideal para escritório ou depósito 1 banheiro Copa Ar-condicionado de 18.000 BTUs Diferenciais Excelente localização comercial Grande circulação de pessoas Pronta para uso Estrutura versátil para diversos tipos de negócios Ótima opção para investidores que desejam gerar renda com locação Localização Situada em Jardim Camburi , um dos bairros mais completos e valorizados de Vitória, cercada por comércios, bancos, restaurantes, supermercados, clínicas, academias e serviços, garantindo excelente visibilidade e fácil acesso para clientes. Os proprietários estudam permuta por apartamento de 2 quartos em Jardim Camburi. Se você procura um imóvel comercial bem localizado, pronto para funcionar e com excelente potencial de valorização, esta é uma oportunidade que merece sua atenção. Entre em contato e agende uma visita! AM/KAR]]></Description>
+        <ListPrice currency="BRL">599000</ListPrice>
+        <LivingArea unit="square metres">52</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vitória]]></City>
+        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-20546</ListingID>
       <Title><![CDATA[Apartamento com suíte disponível para locação no Enseada de Manguinhos - LE]]></Title>
@@ -322,6 +362,57 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20370</ListingID>
+      <Title><![CDATA[Apartamento 3 Quartos (1 Suíte) em Santa Helena – Vitória/ES - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-3-quartos-1-suite-na-praia-de-santa-helena-vitoria-es/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_19_55_52.png</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_14_20.png</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_09_06.png</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_03_47.png</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_26_04.png</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_44_45.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_47_16.png</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_51_31.png</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_06_13.png</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_22_30.png</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_24_26.png</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_54_55.png</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_56_45.png</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_15_25.png</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_17_20.png</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_27_15.png</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_29_16.png</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_31_01.png</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_32_43.png</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente apartamento com 124m² de área privativa , localizado em Santa Helena, um bairro estratégico, tranquilo e valorizado de Vitória. O imóvel oferece ambientes amplos, excelente ventilação natural, sol intermediário e uma localização privilegiada, a poucos passos da Praça do Cauê , Shopping Vitória e com fácil acesso à Praia do Canto . Características do imóvel 124m² de área privativa 3 quartos, sendo 1 suíte Sala ampla para dois ambientes Varanda espaçosa com fechamento em vidro Cozinha ampla Área de serviço independente Dependência completa de empregada (quarto e banheiro) Banheiro social 2 vagas de garagem cobertas, soltas e com box privativo Diferenciais Excelente ventilação natural Sol intermediário Ambientes amplos e bem distribuídos Ideal para quem busca conforto, espaço e qualidade de vida 2 elevadores Salão de festas com copa de apoio Churrasqueira Sauna Sinuca e totó Portaria e sistema de segurança Condições Documentação 100% regularizada Aceita financiamento bancário Aceita permuta por apartamento em Jardim Camburi Agende sua visita e conheça um dos melhores apartamentos da Praia de Santa Helena. AM/KAR]]></Description>
+        <ListPrice currency="BRL">860000</ListPrice>
+        <LivingArea unit="square metres">124</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vitória]]></City>
+        <Neighborhood><![CDATA[Santa Helena]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -4465,49 +4556,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-11583</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos/Suíte localizado na 4 quadra do mar! - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-suite-localizado-na-4-quadra-do-mar/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/1-1.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/2-1.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/3-1.jpg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/4-1.jpg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/5-1.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/6-1.jpg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/7-1.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/8-1.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/9.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/10-2.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/11-2.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento em Jardim Camburi, localizado na 4ª quadra do mar – excelente OPORTUNIDADE! Apartamento 2 quarto, 2 banheiros, sendo 1 deles suíte, 1 vaga de garagem (coberta), Apartamento com aproximadamente 64m² andar alto, O imóvel proporciona fácil acesso a comércios, serviços, escolas e áreas de lazer, garantindo praticidade no dia a dia e excelente qualidade de vida, com incidência do sol da tarde. Condomínio aproximadamente R$ 510,000 IPTU aproximadamente R$ 60,00 reais anual Agende sua visita e conheça o imóvel de perto. Estou à disposição para te atender! AND]]></Description>
-        <ListPrice currency="BRL">709000</ListPrice>
-        <LivingArea unit="square metres">64</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-17565</ListingID>
       <Title><![CDATA[Apartamento 2 quartos a 4 quadras da praia no Cond. Solar de Jacaraípe - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -6216,7 +6264,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa à venda em Parque Residencial Mestre Álvaro. Sua nova casa dos sonhos está aqui — conforto, espaço e lazer completo! Imagine viver em um terreno amplo de 450m², com 230m² de área construída, perfeitamente distribuídos para oferecer conforto e funcionalidade no dia a dia. São 3 dormitórios, sendo 1 suíte aconchegante, sala de estar, sala de jantar e banheiro social, criando um ambiente moderno e ideal para receber convidados. A cozinha prática e bem planejada completa o espaço interno com eficiência. Na área externa, o destaque fica por conta da piscina, perfeita para aproveitar os dias de sol, e do quintal gramado, ideal para crianças, pets e momentos de descanso. O imóvel ainda conta com varanda, canil, lavanderia e 2 vagas de garagem cobertas. Uma oportunidade única para quem busca qualidade de vida, conforto e um excelente espaço para viver bons momentos. Agende sua visita e venha se encantar! BOM]]></Description>
+        <Description><![CDATA[Casa à venda em Parque Residencial Mestre Álvaro. Sua nova casa dos sonhos está aqui — conforto, espaço e lazer completo! Imagine viver em um terreno amplo de 450m², com 230m² de área construída, perfeitamente distribuídos para oferecer conforto e funcionalidade no dia a dia. São 3 dormitórios, sendo 1 suíte aconchegante, sala de estar, sala de jantar e banheiro social, criando um ambiente moderno e ideal para receber convidados. A cozinha prática e bem planejada completa o espaço interno com eficiência. Na área externa, o destaque fica por conta da piscina, perfeita para aproveitar os dias de sol, e do quintal gramado, ideal para crianças, pets e momentos de descanso. O imóvel ainda conta com varanda, canil, lavanderia e 2 vagas de garagem cobertas. Uma oportunidade única para quem busca qualidade de vida, conforto e um excelente espaço para viver bons momentos. Agende sua visita e venha se encantar! BOM/RSR]]></Description>
         <ListPrice currency="BRL">739000</ListPrice>
         <LivingArea unit="square metres">450</LivingArea>
         <Bedrooms>3</Bedrooms>
@@ -6843,53 +6891,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Ourimar]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-15172</ListingID>
-      <Title><![CDATA[Casa linear 3Q suíte c/ gourmet e vista Pedra dos Olhos – Fradinhos - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-linear-3q-suite-c-gourmet-e-vista-pedra-dos-olhos-fradinhos/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2495125986333691768833468784-1-1.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2325594765836431768833469041-1-1.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2535964757885651768833469237-1.jpg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2305484793614841768833468819-1.jpg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2415244714743641768833468832-1.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2545737122783601768833469215-1.jpg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2565011156257311768833469211-1.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2485009587271021768833468841-1.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2465942361308221768833469034-1.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2425062393574711768833468595-1.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2405223523424311768833469061-1.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2465282331646531768833469031-1.jpg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2405433517350121768833469059-1.jpg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2335874765267131768833469218-1.jpg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2355631140975851768833469209-1.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Descrição do Imóvel Oportunidade para quem almeja morar em um dos bairros mais charmosos de Vitória, Fradinhos! Linda casa com vista maravilhosa da Pedra dos Olhos. Características do imóvel A casa conta com 3 quartos, sendo 1 suíte, além de dependência completa de empregada (podendo ser utilizada como escritório). Possui ampla sala de estar, sala de jantar, cozinha planejada, lavanderia e energia solar. No pavimento inferior, há garagem com banheiro de apoio. A área externa oferece um excelente espaço gourmet com churrasqueira a carvão e banheiro para atender o ambiente. O imóvel também dispõe de um sótão, atualmente utilizado como escritório. São 175 m² de área construída em um terreno de 323 m². Localização O bairro Fradinhos, localizado na capital capixaba, é conhecido por sua rica história, ambiente residencial tranquilo e forte ligação com a natureza. Considerado o “pulmão de Vitória”, destaca-se por sua vegetação abundante e áreas verdes. A região é vizinha de importantes espaços naturais, como o Parque Estadual da Fonte Grande, e está próxima de locais como a Ilha da Fumaça e a Ilha das Pombas. Essa proximidade proporciona um ambiente tranquilo e saudável, mesmo estando a apenas cinco minutos do centro da cidade. Fradinhos combina história, natureza e qualidade de vida, sendo uma excelente escolha para quem busca tranquilidade sem abrir mão da praticidade urbana. Valor De R$ 1.475.000,00 por R$ 1.290.000,00. Agende a sua visita! Estamos te esperando. FRAN]]></Description>
-        <ListPrice currency="BRL">1290000</ListPrice>
-        <LivingArea unit="square metres">324</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>3</Bathrooms>
-        <Garage type="Parking Space">3</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Fradinhos]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -8597,7 +8598,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Excelente oportunidade! Apartamento bem localizado, com ótima ventilação e mais privacidade por ser virado para a mata. Características do imóvel: 3 quartos, sendo 1 suíte canadense Armários planejados na cozinha, sala e quartos Sala confortável Cozinha funcional Varanda Banheiro social Segundo andar (apenas 1 lance de escada) Imóvel bem ventilado e iluminado Vista para a mata, garantindo mais privacidade e tranquilidade Ideal para quem busca conforto, boa distribuição dos ambientes e um ambiente mais silencioso. LE]]></Description>
-        <ListPrice currency="BRL">395000</ListPrice>
+        <ListPrice currency="BRL">380000</ListPrice>
         <LivingArea unit="square metres">65</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -10744,60 +10745,8 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-10754</ListingID>
-      <Title><![CDATA[Aptos 2Q com lazer no JC Life Residence em Jardim Camburi &#8211; - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/aptos-2q-com-lazer-no-jc-life-residence-em-jardim-camburi/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-59_ff11ce9c-21762369369208.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-58_94a2a796-21762369369389.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-17-01_e0fca63e-21762369369083.jpg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-59_0fbe0368-21762369369093.jpg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-35_852593cd1762369369393.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-35_4782e8ca1762369369007.jpg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-35_4782e8ca-11762369369115.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-34_678a085e1762369369395.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-34_69d91bcb1762369369213.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-34_2a0575351762369369396.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-33_536473f91762369369077.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-33_477825cb1762369369041.jpg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-33_06f114cd1762369369210.jpg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-32_b6753b951762369369042.jpg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-32_721ff3d31762369369122.jpg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-17-35-32_16c8622c1762369369218.jpg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-57_19ccaec5-21762369369221.jpg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-17-00_68caf97a-21762369369208.jpg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-58_81b6d68f-21762369369109.jpg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/imagem-do-whatsapp-de-2025-06-25-as-14-16-57_24b8a205-21762369369085.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[JC Life Residence Viva onde tudo acontece Se você procura um endereço moderno, completo e no bairro que mais cresce em Vitória, o JC Life Residence é o seu lugar. Localizado em Jardim Camburi, próximo à Av. Norte Sul, Praia de Camburi, escolas, supermercados e ao aeroporto, o JC Life traz o equilíbrio perfeito entre praticidade, lazer e conforto. Apartamentos de 2 quartos em um condomínio inteligente, com soluções sustentáveis, espaços funcionais e comodidades que facilitam o dia a dia. Destaque para os studios e apartamentos de 1 quarto entregues mobiliados, prontos para você morar ou investir. Metragem de 2Q com 55,66 m². Com estrutura moderna, aquecimento solar, fechadura digital, bicicletário, pub gourmet, lavanderia OMO pay per use, Vagas de garagem rotativas, segurança completa e um mall de lojas, o JC Life é ideal para quem quer morar bem ou investir em uma das regiões mais valorizadas da cidade. Garanta sua unidade e viva com conforto, tecnologia e mobilidade em um dos bairros mais desejados de Vitória. Pronto para morar! Investimento à partir de R$ 879.999,37. Aceita Financiamento Agende sua visita! FRAN]]></Description>
-        <ListPrice currency="BRL">879999</ListPrice>
-        <LivingArea unit="square metres">56</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-10846</ListingID>
-      <Title><![CDATA[Lançamento alto padrão em Jardim Camburi &#8211; Cidade Camburi - LE]]></Title>
+      <Title><![CDATA[Lançamento alto padrão em Jardim Camburi – Cidade Camburi - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/lancamento-alto-padrao-em-jardim-camburi-cidade-camburi/</DetailViewUrl>
@@ -10827,7 +10776,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[LANÇAMENTO DE ALTO PADRAO EM JARDIM CAMBURI valores e quartos a partir do anunciado! O cidade Camburi será composto por 3 etapas, e lojas e salas comerciais. ILHA CAMBURI &#8211; primeira fase. Previsão de entrega de obra para outubro/2029. HOMES 1 Quarto &#8211; 30 a 32 m² privativos 2Q e Super Studios &#8211; 50 a 67 m² privativos MALL 5 lojas no Boulevard Externo 26 lojas no Mall Interno OFFICES 84 salas comerciais VISTA CAMBURI &#8211; segundo lançamento. HOMES 3 suítes e 3Q suítes &#8211; 87 a 89 m² privativos 4 suítes e 4Q suítes &#8211; 112 a 131 m² privativos MALL 14 lojas no Boulevard Externo MAR CAMBURI &#8211; futuro lançamento HOMES 4Q suíte &#8211; 130 a 135 m² privativos MALL 8 lojas no Boulevard Externo CIDADE OFFICES Com estrutura digna dos principais centros de negócios do país, as salas comerciais oferecem um ambiente perfeito para receber diversas atividades e suas especialidades. Com acesso a partir do Mall, o Cidade Offices possui um Lobby exclusivo e uma recepção dedicada ao atendimento de profissionais e clientes. Ilha Camburi – A primeira fase do Cidade Camburi Um empreendimento moderno em Vitória, que une design inteligente, funcionalidade e lazer em um só lugar. Perfeito para quem busca praticidade, conforto e ótimas oportunidades para morar ou investir. Vista Camburi – A segunda fase do Cidade Camburi Um futuro lançamento que une sofisticação, bem-estar e praticidade em Jardim Camburi. Apartamentos modernos, com design elegante e pensados para quem busca conforto e qualidade de vida em um dos endereços mais desejados de Vitória. FRAN]]></Description>
-        <ListPrice currency="BRL">993061</ListPrice>
+        <ListPrice currency="BRL">999000</ListPrice>
         <LivingArea unit="square metres">100</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -10849,7 +10798,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-10851</ListingID>
-      <Title><![CDATA[Apartamentos de 2 e 3Q com Qualidade &#8211; suíte, em Jardim Camburi! - LE]]></Title>
+      <Title><![CDATA[Apartamentos de 2 e 3Q com Qualidade – suíte, em Jardim Camburi! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamentos-de-2-e-3q-com-qualidade-suite-em-jardim-camburi/</DetailViewUrl>
@@ -10872,7 +10821,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[RZ 25 Residencial Club – Jardim Camburi Imagine viver em um dos bairros mais desejados de Vitória, com natureza, lazer, gastronomia e toda a conveniência ao seu redor. O RZ 25 é mais que um condomínio: é um convite para uma vida com mais conforto, segurança e praticidade. Apartamentos modernos de 2 e 3 quartos (com suíte), com plantas inteligentes e opções com até 3 suítes e até 3 vagas. Unidades Garden com espaços amplos e exclusivos. O condomínio conta com mais de 1.100 m² de lazer completo: piscinas, salão de festas, espaço gourmet, academia, brinquedoteca, playground, quadra, entre outros. Possui também áreas para trabalho e reuniões, lojas no térreo, espaço delivery e áreas comuns equipadas e decoradas. Oferece tecnologia e sustentabilidade, com infraestrutura para automação, Wi-Fi nas áreas comuns, monitoramento por câmeras, energia solar e reaproveitamento de água. Localização estratégica em Jardim Camburi, próximo ao Parque da Fazendinha, Parque Botânico, Shopping Norte Sul, escolas e muito mais. Metragens: 2Q c/ suíte: 63 a 67 m² 3Q c/ suíte: 87 a 89 m² Garden até 138 m² Entrega prevista: maio de 2027. Valores a partir de R$ 923 mil. Agende sua visita e venha conhecer seu novo lar! FRAN]]></Description>
-        <ListPrice currency="BRL">923000</ListPrice>
+        <ListPrice currency="BRL">998865</ListPrice>
         <LivingArea unit="square metres">90</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
