@@ -6,10 +6,145 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-24T11:58:00</PublishDate>
+    <PublishDate>2026-07-25T10:53:41</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-20758</ListingID>
+      <Title><![CDATA[Apartamento 3 Quartos com Suite à Venda – Cond Casa Blanca Valparaíso - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-3-quartos-com-suite-a-venda-cond-casa-blanca-valparaiso/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.25-3.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.25-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.27.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.27-2.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.28-3.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.28-2.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.29.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.28.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.28-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.29-1.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.26.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.26-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.24-1.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.13.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.24.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.25-1.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.25.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-17.13.29-2.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 3 Quartos à Venda – Condomínio Casa Blanca | Valparaíso – Serra/ES Conforto, espaço e excelente localização para sua família! Se você procura um apartamento amplo, bem ventilado e em uma região com toda a infraestrutura ao redor, esta é uma excelente oportunidade. Destaques do imóvel: quartos, sendo 1 suíte Sala ampla e aconchegante Cozinha espaçosa Área de serviço Sol da manhã na cozinha e no quarto do casal Apartamento muito bem ventilado Apenas 2 lances de escada 1 vaga de garagem Infraestrutura do condomínio: Portaria 24 horas Salão de festas Quadra poliesportiva Playground Localização privilegiada O Condomínio Casa Blanca está em Valparaíso, com fácil acesso aos principais serviços da região: Creches e escolas Supermercados Shopping MontSerrat Comércio variado, farmácias e transporte público Um apartamento ideal para quem busca praticidade, segurança e qualidade de vida em uma das regiões mais valorizadas da Serra. Agende sua visita e venha conhecer seu novo lar! LE]]></Description>
+        <ListPrice currency="BRL">360000</ListPrice>
+        <LivingArea unit="square metres">72</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20774</ListingID>
+      <Title><![CDATA[Apartamento 2 Quartos c/Suíte – Cond Quattro Residencial Clube- - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-c-suite-cond-quattro-residencial-clube/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.48.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.49-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.51.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.49-3.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.49-4.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.49.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.50-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.50.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.50-2.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-11.59.50-3.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 2 Quartos c/ Suíte | Sol da Manhã | Condomínio Quattro Residencial Clube Melhor unidade do empreendimento! 52m² de área privativa 2 quartos, sendo 1 suíteVaranda Sala integrada e aconchegante Cozinha funcional Andar alto Sol da manhã Vista livre permanente Excelente ventilação natural 1 vaga de garagem Estrutura de lazer completa: Piscina Quadra poliesportiva Área gourmet com churrasqueira Espaço coworking Salão de jogos Espaços de convivência Portaria 24 horas Localização privilegiada O Quattro Residencial Clube está em uma das melhores regiões de Valparaíso, com tudo o que você precisa no dia a dia a poucos minutos: Escolas Creches Supermercados Farmácias Comércio variado Fácil acesso às principais vias da região Um apartamento moderno, com excelente posição solar, vista livre e lazer completo para proporcionar conforto, praticidade e qualidade de vida para toda a família. Entre em contato e agende sua visita! Essa pode ser a oportunidade que você estava esperando. LE]]></Description>
+        <ListPrice currency="BRL">440000</ListPrice>
+        <LivingArea unit="square metres">52</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20882</ListingID>
+      <Title><![CDATA[A partamento a venda 3 quartos c suite Cond Pacifico Valparaiso - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/a-partamento-a-venda-3-quartos-c-suite-cond-pacifico-valparaiso/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_38_45.png</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_40_32.png</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/24-de-jul.-de-2026-16_01_29.png</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-14.19.23-2.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_59_25.png</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_47_46.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-14.19.23-3.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_39_31.png</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-14.19.22-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-16_04_35.png</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_46_04.png</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente oportunidade no Condomínio Pacífico – Valparaíso! Se você procura conforto, praticidade e qualidade de vida, este apartamento é a escolha ideal! O imóvel conta com 3 quartos, sendo 1 suíte, todos com armários planejados de excelente qualidade, proporcionando organização e melhor aproveitamento dos espaços. Possui ainda banheiro social, também equipado com armário. A cozinha é planejada, com armários que oferecem praticidade e funcionalidade para o dia a dia. A varanda com fechamento em vidro garante mais conforto, segurança e uma vista privilegiada. O apartamento está em andar alto, recebe o agradável sol da manhã e conta com excelente ventilação natural, tornando os ambientes ainda mais confortáveis. O Condomínio Pacífico oferece uma infraestrutura completa de lazer e segurança: Piscina Salão de festas Brinquedoteca Quadra poliesportiva Portaria e segurança Uma excelente opção para quem deseja morar com tranquilidade, conforto e toda a infraestrutura que sua família merece. Agende sua visita e venha conhecer este excelente imóvel. Seu novo lar está esperando por você! LE]]></Description>
+        <ListPrice currency="BRL">569000</ListPrice>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-20837</ListingID>
       <Title><![CDATA[LINDA CASA EM JARDIM CAMBURI - LE]]></Title>
@@ -2024,7 +2159,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[APARTAMENTO À VENDA – PARADISO CLUBE Paradiso Clube é a escolha perfeita para quem deseja viver com qualidade de vida, segurança e lazer completo! Se você busca conforto, sofisticação e praticidade em um só lugar, esse é o imóvel ideal para você! 3 quartos (sendo 1 suíte) – sol da manhã Apartamento totalmente reformado Piso laminado moderno 2 banheiros Armários planejados no banheiro, cozinha, área de serviço e quarto social Condomínio clube COMPLETO: Piscina , Salão de festas (adulto e infantil), Churrasqueira, Playground, Academia, Sauna, Sala de estudos,2 quadras esportivas, Elevador Localização privilegiada: Próximo a supermercados, escolas, creches, farmácias, Avenida Central e Parque da Cidade — tudo para facilitar o seu dia a dia! Entre em contato e agende sua visita! LE]]></Description>
-        <ListPrice currency="BRL">720000</ListPrice>
+        <ListPrice currency="BRL">700000</ListPrice>
         <LivingArea unit="square metres">76</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>2</Bathrooms>
@@ -2856,56 +2991,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-18976</ListingID>
-      <Title><![CDATA[2 Quartos sol da Manhã Cond. São Pedro Colina de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-sol-da-manha-cond-sao-pedro-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.19-4.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.17-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.17-2.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.18-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.18-4.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/ChatGPT-Image-24-de-jun.-de-2026-12_47_58.png</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.19-2.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.17-3.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.16-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.16-4.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.16-2.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.16.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.18-3.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.18-5.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.18-1.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.19-1.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.17.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-11.58.19.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à venda no Condomínio São Pedro uma oportunidade única para quem valoriza conforto, localização . Este apartamento se destaca pela sua posição privilegiada, incidência de sol da Manhã proporcionando ambientes sempre iluminados, frescos e agradáveis. Com planta funcional e bem distribuída, o imóvel fica no segundo andar apenas 2 lances de escada , oferece conforto ideal para morar com qualidade ou investir com segurança, em um condomínio consolidado e valorizado na região. O Condomínio conta com estrutura completa para você e sua família aproveitarem ao máximo: Salão de festas, Piscina, Churrasqueira, Playground, Academia, Minimercado, Áreas de convivência, Ambiente seguro e organizado Localizado em região estratégica, com fácil acesso às principais vias, próximo a supermercados, escolas, farmácias e comércio em geral, o bairro oferece tranquilidade, praticidade e valorização constante . Próximo ao Shopping MountSerrat, Padaria, Supermercados , Faculdade Multivix e ponto de ônibus. Atendimento personalizado, negociação segura e acompanhamento completo em todas as etapas. Ideal para quem busca uma oportunidade e não abre mão de um imóvel bem posicionado e com excelente custo-benefício. LE]]></Description>
-        <ListPrice currency="BRL">275000</ListPrice>
-        <LivingArea unit="square metres">46</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -5231,48 +5316,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-17056</ListingID>
-      <Title><![CDATA[Excelente apartamento no Cond. Florata &#8211; Jardim limoeiro - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-apartamento-no-cond-florata-jardim-limoeiro/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/b7bd0e86-ba4f-4bd9-8c73-c3cb87d65bef.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/5a316cd7-794e-4bb0-85aa-e82cfb18a98c.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/03bd54cb-d145-4815-951e-aaca0d433a30.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/8afea4f8-51a6-43a2-8d1f-d148774eb324.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/ff02f2e0-3041-4bfb-9e18-ab7626533008.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/d8237ca1-ebd7-4750-89df-170338dbaa2f.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/41df5e5d-f072-45e4-b7da-8dfedacb6805.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/9ad670d8-467f-4020-9991-4536e2a6e350.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/9cc464a5-5fd8-4d98-a9e2-152bbecd354e.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/8d8b3d1b-609b-45e2-ac32-21fe9240ce48.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Excelente apartamento no Cond. Florata &#8211; Jardim limoeiro 2 quartos Segundo andar Sol intermediário Valor 235 mil Aceita financiamento! Agende já sua visita! FRAN]]></Description>
-        <ListPrice currency="BRL">235000</ListPrice>
-        <LivingArea unit="square metres">47</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -9755,43 +9798,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-12733</ListingID>
-      <Title><![CDATA[Sala no Essencial Escritórios. - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/sala-no-essencial-escritorios/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/1-6.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2-6.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/3-6.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/4-6.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/5-7.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/6-7.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Essencial Escritórios Excelente oportunidade de investimento! Localizado no renomado Edifício Essencial Escritórios em Colina de Laranjeiras na Serra. Trata-se de um espaço comercial bem localizada, com grande visibilidade e fluxo de pessoas, ideal para diversos tipos de negócios. Atualmente encontra-se desocupada e está dispo nível para venda. AV]]></Description>
-        <ListPrice currency="BRL">330000</ListPrice>
-        <LivingArea unit="square metres">33</LivingArea>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-10640</ListingID>
       <Title><![CDATA[Apartamento Térreo, das Laranjeiras, Jacaraipe, Serra, ES - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -10359,54 +10365,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-12091</ListingID>
-      <Title><![CDATA[Seu novo lar pertinho da praia! 2 quartos em Jardim Camburi. - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/seu-novo-lar-pertinho-da-praia-2-quartos-em-jardim-camburi/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-12-49-581759519098830.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-12-50-541759519098571.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-10-53-321759519098817.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-11-28-451759519098800.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-10-53-33-11759519098603.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-10-53-331759519098355.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-10-53-351759519098816.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-07.57.39.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-12-55-151759519098646.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-12-56-481759519098816.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-30-at-15.30.20.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-30-at-15.30.21.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-30-at-15.30.52.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-30-at-15.31.25.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-30-at-15.32.18.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-10-03-at-10-57-471759519098649.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento aconchegante com 2 quartos, 55m² bem distribuídos, 1 banheiro e vaga de garagem coberta. Condomínio com ótima estrutura: bicicletário, salão de festas com churrasqueira e playground — perfeito para toda a família! Condomínio: R$380,00 IPTU: R$400,00 Localização privilegiada, próximo à Praia de Camburi e com fácil acesso a tudo que você precisa. Ideal para morar ou investir! Agende uma Visita. KAR]]></Description>
-        <ListPrice currency="BRL">620000</ListPrice>
-        <LivingArea unit="square metres">55</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
