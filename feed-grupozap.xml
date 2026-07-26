@@ -6,10 +6,107 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-25T10:53:41</PublishDate>
+    <PublishDate>2026-07-26T11:09:53</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-20929</ListingID>
+      <Title><![CDATA[Oportunidade no Vista de Manguinhos - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-no-vista-de-manguinhos/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-05-13-at-16.37.54-11.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.06-1-scaled.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.06-scaled.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.05-1-scaled.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.05-scaled.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.07-3-scaled.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.05-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.02-scaled.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.07-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-12.27.07-scaled.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-05-13-at-16.37.54-6.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-05-13-at-16.37.54-7.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-05-13-at-16.37.54-9.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-05-13-at-16.37.54-10.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 2 quartos no Vista de Manguinhos Unidade andar alto e sol da manhã Nessa oportunidade você conta com armários modulados nos quartos, cozinha e banheiro! Condomínio com lazer completo com: piscinas, salão de festas, academia, churrasqueira, quadra de esportes e área pet. Valor do investimento R$ 265.000,00 Agende agora mesmo uma visita! DNO]]></Description>
+        <ListPrice currency="BRL">265000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Manguinhos]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20908</ListingID>
+      <Title><![CDATA[Oportunidade Apartamento 2 Quartos Cond. Viver Serra &#8211; Andar alto - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-apartamento-2-quartos-cond-viver-serra-andar-alto/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/cbcd61d0-31d1-4514-b178-328a1130f8911772058008400.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.03.13-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.03.14.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.03.14-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.04.06-2.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.04.06.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.03.13-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.03.13.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.10.17.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.10.16-1.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.10.16.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.04.06-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-25-at-11.04.07.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ba2732e4-b365-4e0b-b636-d3bfa8bab34c1772058008320.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/e428d32f-6872-4bee-bcce-bcd03a8d04111772058008389.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/d5a9e08f-8888-438d-875c-1d1bf0cf87ed1772058008376.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/b72637e0-725f-4805-b679-8e3f06ac952f1772058008358.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/8047e962-1bb6-4ed6-9ea2-75460677b3541772058008328.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/5539c201-f0e7-405c-aff2-dfb352364efb1772058008318.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento padrão com excelente custo-benefício Condomínio Viver Horto da Serra Este apartamento conta com 2 quartos , sala ampla para dois ambientes , cozinha com armários , área de serviço integrada , banheiro e uma varanda super espaçosa . Localizado em andar alto , com sol intermediário , oferece excelente ventilação e iluminação natural. O condomínio possui uma ampla área de lazer, com churrasqueira , academia , 2 piscinas , sauna , sala de jogos , salão de festas , playground , 2 mercados 24 horas e quadra poliesportiva . A localização privilegiada garante fácil acesso a escolas, comércios, atacados, feira e às principais vias de transporte da região. Agende uma visita e venha conhecer de perto este apartamento que reúne conforto, praticidade e excelente custo-benefício. FRAN]]></Description>
+        <ListPrice currency="BRL">295000</ListPrice>
+        <LivingArea unit="square metres">52</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-20758</ListingID>
       <Title><![CDATA[Apartamento 3 Quartos com Suite à Venda – Cond Casa Blanca Valparaíso - LE]]></Title>
@@ -221,7 +318,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento à venda em Colina de Laranjeiras – Conforto, praticidade e excelente localização! Localizado no Condomínio São Pedro! Se você procura um apartamento pronto para morar em um dos bairros mais valorizados da Serra, esta é uma excelente oportunidade. O imóvel conta com: 2 quartos; Cozinha com armários modulados; Bancada em granito; Jogo de jantar; Persianas Destak instaladas; Banheiro com armário e box em vidro temperado (Blindex). O condomínio oferece uma estrutura completa para proporcionar lazer e comodidade para toda a família, com: Piscina; Salão de festas; Churrasqueiras climatizadas. A localização é um dos grandes diferenciais: em Colina de Laranjeiras, próximo ao shopping, supermercados, farmácias, escolas, restaurantes, academias e uma ampla variedade de comércios e serviços, facilitando o seu dia a dia. Agende uma visita e venha conhecer de perto este excelente apartamento. Entre em contato e faça uma simulação sem compromisso! DNO]]></Description>
-        <ListPrice currency="BRL">280000</ListPrice>
+        <ListPrice currency="BRL">299000</ListPrice>
         <LivingArea unit="square metres">45</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -830,57 +927,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-20370</ListingID>
-      <Title><![CDATA[Apartamento 3 Quartos (1 Suíte) em Santa Helena – Vitória/ES - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-3-quartos-1-suite-na-praia-de-santa-helena-vitoria-es/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_19_55_52.png</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_14_20.png</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_09_06.png</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_03_47.png</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_26_04.png</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_44_45.png</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_47_16.png</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_51_31.png</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_06_13.png</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_22_30.png</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_24_26.png</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_54_55.png</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_20_56_45.png</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_15_25.png</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_17_20.png</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_27_15.png</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_29_16.png</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_31_01.png</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_16_de_jul._de_2026_21_32_43.png</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Excelente apartamento com 124m² de área privativa , localizado em Santa Helena, um bairro estratégico, tranquilo e valorizado de Vitória. O imóvel oferece ambientes amplos, excelente ventilação natural, sol intermediário e uma localização privilegiada, a poucos passos da Praça do Cauê , Shopping Vitória e com fácil acesso à Praia do Canto . Características do imóvel 124m² de área privativa 3 quartos, sendo 1 suíte Sala ampla para dois ambientes Varanda espaçosa com fechamento em vidro Cozinha ampla Área de serviço independente Dependência completa de empregada (quarto e banheiro) Banheiro social 2 vagas de garagem cobertas, soltas e com box privativo Diferenciais Excelente ventilação natural Sol intermediário Ambientes amplos e bem distribuídos Ideal para quem busca conforto, espaço e qualidade de vida 2 elevadores Salão de festas com copa de apoio Churrasqueira Sauna Sinuca e totó Portaria e sistema de segurança Condições Documentação 100% regularizada Aceita financiamento bancário Aceita permuta por apartamento em Jardim Camburi Agende sua visita e conheça um dos melhores apartamentos da Praia de Santa Helena. AM/KAR]]></Description>
-        <ListPrice currency="BRL">860000</ListPrice>
-        <LivingArea unit="square metres">124</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>3</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Santa Helena]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -9974,8 +10020,8 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa duplex de alto padrão em planície da serra — sofisticação, espaço e exclusividade Um projeto exclusivo pensado para quem valoriza conforto, elegância e qualidade de vida em cada detalhe. Destaques do imóvel: 133 m² de área construída 3 quartos, sendo 1 suíte com closet Escritório privativo Sala ampla e arejada Cozinha e copa espaçosas 1 vaga coberta + 2 descobertas Casas independentes (não geminadas) Arquitetura moderna, ambientes bem distribuídos e excelente aproveitamento de espaço Localização privilegiada: Loteamento solar do porto – planície da serra, uma região em crescimento e com alto potencial de valorização R$ 840.000 Entrega prevista: Meio de 2026 Um imóvel único para quem busca um padrão de vida elevado Agende sua visita e conheça esse projeto exclusivo JHU-RNT]]></Description>
-        <ListPrice currency="BRL">840000</ListPrice>
+        <Description><![CDATA[Casa duplex de alto padrão em planície da serra — sofisticação, espaço e exclusividade Um projeto exclusivo pensado para quem valoriza conforto, elegância e qualidade de vida em cada detalhe. Destaques do imóvel: 133 m² de área construída 3 quartos, sendo 1 suíte com closet Escritório privativo Sala ampla e arejada Cozinha e copa espaçosas 1 vaga coberta + 2 descobertas Casas independentes (não geminadas) Arquitetura moderna, ambientes bem distribuídos e excelente aproveitamento de espaço Localização privilegiada: Loteamento solar do porto – planície da serra, uma região em crescimento e com alto potencial de valorização casa esta pronta Um imóvel único para quem busca um padrão de vida elevado Agende sua visita e conheça esse projeto exclusivo JHU-RNT]]></Description>
+        <ListPrice currency="BRL">800000</ListPrice>
         <LivingArea unit="square metres">150</LivingArea>
         <Bedrooms>4</Bedrooms>
         <Bathrooms>3</Bathrooms>
