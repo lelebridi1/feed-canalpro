@@ -6,10 +6,142 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-07-31T08:48:44</PublishDate>
+    <PublishDate>2026-08-02T08:23:09</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-21208</ListingID>
+      <Title><![CDATA[oportunidade em Ponta da Fruta: Terreno murado com 1.050 metros - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-em-ponta-da-fruta-terreno-murado-com-1-050-metros/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/2d9f4c5d-c619-4c50-ae0f-13a9e2b34e36.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/b8c6ac7b-7faf-4647-895f-1dbd348b1132.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/c1f47b6f-1776-4df3-beb4-10e2d341b3fe.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/afedece7-fbca-4a8f-a716-723c58d8792f.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/27bd3ee5-54cd-4233-b69c-7644d6124e3e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Terreno a poucos minutos da praia em PONTA DA FRUTA! Proximo da Avenida principal e com facil acesso ao mar. Região em grande valorização. Detalhes: * Area 720 m * Situação: Murado e escriturado * Porta de correr + portão Social * Localização:Próximo da praia e do comércio local Terreno plano e pronto para construir sua casa e veraneio ou moradia fixa. Ponta da Fruta é um dos bairros que mais valorizam em vila velha. Agenda agora mesmo sua visita! JH/BOM]]></Description>
+        <ListPrice currency="BRL">599999</ListPrice>
+        <LivingArea unit="square metres">1050</LivingArea>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Ponta da Fruta]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-21200</ListingID>
+      <Title><![CDATA[TERRENO 720 METROS MURADO EM BALNEÁRIO PONTA DA FRUTA – VILA VELHA - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/terreno-720-metros-murado-em-balneario-ponta-da-fruta-vila-velha/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/f8170a5d-3d9c-4e46-a883-c7ce278986ca.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/5c208c8e-e39b-4880-8a12-78f8f8a1fb71.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/14bb8a96-89b5-4223-9f6f-dd21d77cdca3.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/01f0c13e-50c1-4b83-803d-0e705b3dca29.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/7a762b98-3259-4161-9e97-aefc7bfbdde6.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Oportunidade única em Ponta da Fruta! Terreno localizado proximo da Avenida princiapal. Localização excelente, de fácil acesso e valorização garantida. há pouco minutos da Praia. Caracteristica do terreno: * Área total: 720m *Documentação: esciturado * Estrutura: Já murado * Acessos: Portão de correr + Portão Social terreno Plano, pronto para construir, ideal para casa, galpão ou investimento. JH/BOM]]></Description>
+        <ListPrice currency="BRL">399990</ListPrice>
+        <LivingArea unit="square metres">720</LivingArea>
+        <Bedrooms>1</Bedrooms>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Balneário Ponta da Fruta]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-21171</ListingID>
+      <Title><![CDATA[O terreno ideal para construir o seu futuro por apenas R$ 120 Mil. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/o-terreno-ideal-para-construir-o-seu-futuro-por-apenas-120-mil/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-13.57.31tt.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-13.57.31.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[O lugar certo para construir o seu próximo projeto Mais do que um terreno, esta é uma oportunidade de investir em uma das regiões que mais crescem na Serra. Localizado no Loteamento Colina da Serra , em Campinho da Serra, este lote de 250 m² está inserido em um bairro em constante desenvolvimento, cercado por novas construções, infraestrutura em expansão e excelente potencial de valorização. Seja para morar ou investir, este terreno oferece inúmeras possibilidades para transformar seu projeto em realidade. Ideal para construir: Uma casa linear moderna com amplo quintal Uma casa duplex com área gourmet e piscina Duas casas para investimento e geração de renda Um imóvel para revenda em uma região de alta procura Diferenciais 250 m² de área total Excelente aproveitamento do terreno Região tranquila e em plena expansão imobiliária Cercado por novos empreendimentos e residências modernas Grande potencial de valorização nos próximos anos Fácil acesso aos principais bairros da Serra R$ 120.000,00 Este é o tipo de investimento que une baixo custo de entrada, alto potencial de valorização e liberdade para construir exatamente o que você deseja . Garanta seu terreno hoje e comece a construir o seu futuro em uma das regiões mais promissoras da Serra. Entre em contato para mais informações e agende uma visita. JHU-JBL]]></Description>
+        <ListPrice currency="BRL">120000</ListPrice>
+        <LivingArea unit="square metres">120</LivingArea>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Campinho da Serra I]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-21178</ListingID>
+      <Title><![CDATA[Oportunidade terreno por apenas R$ 85.000,00 - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-terreno-por-apenas-r-85-00000/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-14.19.52.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-14.19.52-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-14.19.53.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[A oportunidade que você esperava para construir ou investir Nem sempre surge um terreno com excelente localização, ótimo potencial de valorização e um preço tão atrativo . Este lote de 208 m² , localizado no Loteamento Colina da Serra , em Campinho da Serra, é ideal para quem deseja construir a casa dos sonhos ou fazer um investimento inteligente em uma região que cresce a cada dia. O grande diferencial é a topografia favorável , que facilita a execução do projeto, reduz custos com terraplenagem e oferece um excelente aproveitamento da área para construções modernas. Destaques do lote 208 m² de área total Loteamento Colina da Serra – Campinho da Serra Excelente para casa linear ou duplex Topografia com ótimo potencial para implantação do projeto Região cercada por novas construções e em constante desenvolvimento Alto potencial de valorização Fácil acesso aos principais bairros da Serra Apenas R$ 85.000,00 Uma oportunidade rara para adquirir um terreno com excelente custo-benefício em uma das regiões que mais cresce na Serra. Invista hoje e construa amanhã. O momento certo é agora. Entre em contato e agende uma visita! JHU-JBL]]></Description>
+        <ListPrice currency="BRL">85000</ListPrice>
+        <LivingArea unit="square metres">208</LivingArea>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Campinho da Serra I]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-21165</ListingID>
       <Title><![CDATA[Casa linear moderna em Campinho da Serra | lançamento - LE]]></Title>
@@ -5862,44 +5994,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Campinho da Serra I]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-16509</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos Sol da Manhã em Colina de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-sol-da-manha-em-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.48.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.48-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.47.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.48-4.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.48-3.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-09.13.48-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à Venda – Condomínio São Pedro | Colina de Laranjeiras – Serra/ES Excelente oportunidade para morar com conforto, segurança e qualidade de vida! Localizado em Colina de Laranjeiras, um dos bairros mais valorizados da Serra/ES. 2 quartos, Sol da manhã, Sala ampla e bem ventilada, Cozinha funcional, Banheiro social, Vaga de garagem, Condomínio com área de lazer completa. Lazer completo para toda a família: Piscina, Churrasqueira, Salão de festas, Quadra esportiva, Playground, academia, Área de convivência, Portaria e segurança Ótima opção para morar ou investir! Entre em contato para mais informações e agende sua visita. FM]]></Description>
-        <ListPrice currency="BRL">275000</ListPrice>
-        <LivingArea unit="square metres">47</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
