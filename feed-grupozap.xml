@@ -6,10 +6,54 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-08-02T08:23:09</PublishDate>
+    <PublishDate>2026-08-03T09:43:04</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-21261</ListingID>
+      <Title><![CDATA[Arquitetura contemporânea e sofisticação casa em Vila Velha - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/arquitetura-contemporanea-e-sofisticacao-casa-em-vila-velha/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.51.54-1.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.51.55.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-14.02.53KKK.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.51.56.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-14.02.54JJJ.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-14.02.54RR.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.51.57.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.52.14.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.52.01.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-13.52.18.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-14.02.51.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-14.02.52LL.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[arquitetura contemporânea, sofisticação e um investimento inteligente Mais do que uma casa, uma residência projetada para quem valoriza qualidade, exclusividade e um imóvel preparado para o futuro. Localizada em Morada do Sol / Interlagos , uma das regiões com maior potencial de valorização de Vila Velha, esta casa impressiona pelo projeto moderno, acabamento premium e espaços amplos, pensados para oferecer conforto e funcionalidade em cada detalhe. Com 135 m² de área construída , pé-direito duplo e uma planta inteligente, o imóvel proporciona ambientes integrados, elegantes e com excelente iluminação natural. O sol da manhã torna os espaços ainda mais agradáveis, valorizando o bem-estar da família. Destaques do imóvel 135 m² de área construída 3 quartos, sendo 2 suítes Banheiro canadense + banheiro social Sala ampla com pé-direito duplo Cozinha integrada à área gourmet Churrasqueira Amplo espaço para construção de piscina Área de serviço independente 4 vagas de garagem , sendo 2 cobertas Cerca elétrica e interfone Sol da manhã Acabamento que impressiona Cada detalhe foi pensado para entregar um padrão superior de qualidade. Porcelanato premium 1,20 x 1,20 de primeira linha Rodapés embutidos Projeto estrutural preparado para construção de um segundo pavimento Projetos estrutural, elétrico e hidrossanitário desenvolvidos conforme as normas da ABNT Além de uma residência pronta para morar, você adquire um imóvel com potencial de expansão, agregando ainda mais valor ao seu patrimônio. Uma localização que cresce junto com o seu investimento A região de Morada do Sol / Interlagos vem recebendo importantes investimentos em infraestrutura, incluindo a implantação da Ciclovia Monumental Vila Velha–Guarapari , um projeto que promete impulsionar ainda mais a valorização imobiliária da região. O entorno é formado por casas novas e de alto padrão , proporcionando um ambiente moderno, tranquilo e altamente valorizado. Imóvel com Habite-se e Registro de Imóveis, pronto para financiamento. Preço promocional: R$ 1.270.000,00 Uma oportunidade para quem deseja unir arquitetura contemporânea, acabamento de alto nível e excelente perspectiva de valorização. Agende sua visita e conheça um imóvel que reúne elegância, qualidade construtiva e um futuro promissor. JHU-IT]]></Description>
+        <ListPrice currency="BRL">1270000</ListPrice>
+        <LivingArea unit="square metres">135</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Garage type="Parking Space">4</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Morada do Sol]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-21208</ListingID>
       <Title><![CDATA[oportunidade em Ponta da Fruta: Terreno murado com 1.050 metros - LE]]></Title>
