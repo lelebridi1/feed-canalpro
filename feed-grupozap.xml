@@ -6,10 +6,93 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-08-14T07:23:25</PublishDate>
+    <PublishDate>2026-08-15T06:36:17</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-22076</ListingID>
+      <Title><![CDATA[Excelente casa linear 2 quartos em Planicie da Serra! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-casa-linear-2-quartos-em-planicie-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/wmremove-transformed-1.webp</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/d8d1e433-e999-499d-81de-d12f6bc11aa3.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/wmremove-transformed.webp</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/wmremove-transformedd.webp</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/wmremove-transformed-2.webp</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/d4251074-0c27-4871-8fec-2f4e4deb459c.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/f20c4abe-6555-4096-8a4d-cbb8232a076f.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/wmremove-transformed-3.webp</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Village House</PropertyType>
+        <Description><![CDATA[Excelente casa linear 2 quartos, com sala de estar e jantar integradas, cozinha americana, area de serviço externa e 2 vagas de garagem. O imóvel possui 50,05 m² de área construída em terreno de 100 m², com acabamento de rebaixamento de gesso, porcelanato, bancadas em granito, laje e telha colonial. Localização estratégica ao lado de Porto Canoa, com fácil acesso a todo comércio da região Valor da aquisição: R$ 390.000,00 Agende já sua visita! JL/FR]]></Description>
+        <ListPrice currency="BRL">390000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22064</ListingID>
+      <Title><![CDATA[Apartamento 2 quartos com suíte no Top Life Mallorca - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-suite-no-top-life-mallorca/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.44.03-rotated.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.44.04-rotated.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.43.58-rotated.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.44.01-rotated.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.43.50-rotated.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.42.39-rotated.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.42.40-rotated.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.42.41-rotated.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.43.49-rotated.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.43.52-rotated.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-15.43.59-rotated.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Lindissímo Apartamento 2 quartos com suíte &#8211; 54 mts ² &#8211; 5º andar &#8211; Porcelanato &#8211; teto rebaixado em gesso &#8211; Totalmente reformado.Top Life Mallorca- São Diogo/ Serra- es Conforto, segurança e praticidade Apartamento com 2 quartos, sendo um suíte, bem arejados, sala ampla para dois ambientes, cozinha, banheiro e área de serviço. Unidade com sol da manhã e excelente ventilação, proporcionando mais conforto e abundante iluminação natural em todos os ambientes. Condomínio com lazer completo Piscina adulto e infantil, playground, minimercado, salão de festas, portaria 24 horas, câmeras de videomonitoramento. Excelente localização! O condomínio possui fácil acesso à BR-101, com ótima mobilidade para Vitória e outras regiões da Grande Vitória. Está próximo a comércios, escolas, posto de saúde e serviços essenciais, proporcionando praticidade para toda a família. Valor: R$ 265.000 Um apartamento completo, em condomínio com ótima estrutura e uma localização estratégica! Aceita financiamento. KTH]]></Description>
+        <ListPrice currency="BRL">265000</ListPrice>
+        <LivingArea unit="square metres">54</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[São Diogo II]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-21999</ListingID>
       <Title><![CDATA[Apartamento 3 quartos | 1 suíte | 2 vagas em Itapoã – Ed. Golden Beach - LE]]></Title>
@@ -1052,46 +1135,6 @@
         <City><![CDATA[Vila Velha]]></City>
         <Neighborhood><![CDATA[Glória]]></Neighborhood>
         <PostalCode>29100-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-21092</ListingID>
-      <Title><![CDATA[Galpão para Aluguel em Jardim Tropical - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/galpao-para-aluguel-em-jardim-tropical/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.29-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.25.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.24.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.25-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.26.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.29.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.26-2.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.26-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.28-3.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Galpão para Aluguel em Jardim Tropical &#8211; Serra/ES Galpão novo &#8211; primeira locação. Excelente oportunidade para empresas que buscam um espaço amplo, estruturado e bem localizado para instalação ou expansão de suas atividades. Galpão com área total do terreno em 800 m2, sendo 400m2 de galpão (livre), 200m2 de áreas administrativas anexas ao galpão no mesmo terreno (02 andares com 100m2 cada) e 300m2 de área interna de estacionamento/logística. O imóvel possui uma estrutura completa e funcional, projetada para atender às necessidades de produção, armazenamento e logística, proporcionando praticidade e organização no dia a dia da operação. Entre os principais diferenciais do espaço estão: &#8211; Área interna do galpão de 400m2 (livre), telhado novo, piso reforçado para cargas e caminhões, pé direito de 07m, 02 portões grandes de acesso; &#8211; Área de logística de 300m2 &#8211; excelente espaço para circulação, carga e descarga de mercadorias, estacionamento de veículos e organização em sua área interna do terreno; &#8211; Marquise de 4m na frente do galpão permitindo operações com proteção de intempéries; &#8211; Áreas administrativas com 100m2: 01 sala diretoria/administrativa com copa e banheiro privativo, 01 refeitório, 01 banheiro feminino completo com chuveiro e acessibilidade, 01 banheiro masculino completo (02 chuveiros, 02 bacias sanitárias, mictório, pia e espaço para vestiário), 01 cozinha/depósito de serviços gerais; &#8211; Andar superior em cima do Administrativo coberto, com 100 m2 incluindo janelas, banheiro, que pode ser usado para reuniões, atividades administrativas ou mesmo depósito/almoxarifado; &#8211; Muros altos de cercamento em seu todo entorno, permitindo privacidade, segurança nas operações, aos usuários e ao imóvel; &#8211; Iluminação completa no galpão (refletores) e demais dependências, rede elétrica com tomadas 127V e 220V devidamente distribuídos; A localização é estratégica, de fácil acesso, próxima à BR 101 e a lojas e comércios, o que facilita o acesso de fornecedores, colaboradores e clientes. Rua frontal do galpão com facilidade de estacionamentos de veículos de pequeno e grande porte. Se você procura um galpão com estrutura pronta para sua operação, essa é uma excelente oportunidade. Entre em contato e agende já sua visita. LU]]></Description>
-        <ListPrice currency="BRL">13000</ListPrice>
-        <LivingArea unit="square metres">800</LivingArea>
-        <Bathrooms>3</Bathrooms>
-        <Garage type="Parking Space">5</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Jardim Tropical]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Casa Imobiliaria ES</Name>
@@ -7666,6 +7709,55 @@
       </ContactInfo>
     </Listing>
     <Listing>
+      <ListingID>LE-14641</ListingID>
+      <Title><![CDATA[Casa Duplex NOVA ótimo acabamento Res. Centro da Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-nova-otimo-acabamento-res-centro-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-9.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-3.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-4.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-5.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05-6.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.05.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-2.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-3.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-4.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-5.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-6.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-7.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06-8.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-15.43.06.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casas Duplex Novas no Residencial Centro da Serra | Acabamento de ótimo padrão Excelente oportunidade para morar ou investir em uma das regiões que mais crescem na Serra! Casas duplex novas, com ótimo padrão de acabamento, plantas inteligentes e ambientes bem distribuídos, proporcionando conforto, funcionalidade e valorização. Detalhes dos imóveis: 67m² de área construída Plantas idênticas e bem aproveitadas Ambientes modernos e bem ventilados Acabamento de qualidade Opções disponíveis: Casa 1 – Terreno com 105m² R$ 447.000 Casa 2 – Terreno com 104m² R$ 447.000 Casa 3 – Vendida Casa 4 – Vendida Localização estratégica no Residencial Centro da Serra, com fácil acesso a comércios, serviços, escolas e principais vias da região. Ideal para quem busca um imóvel novo, com excelente custo-benefício e pronto para morar. DNO]]></Description>
+        <ListPrice currency="BRL">350000</ListPrice>
+        <LivingArea unit="square metres">172</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
       <ListingID>LE-14588</ListingID>
       <Title><![CDATA[Oportunidade em Colina de Laranjeiras - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -7749,56 +7841,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-14529</ListingID>
-      <Title><![CDATA[Apartamento 4 quartos e Varanda Gourmet no Cond. Reserva Verde - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-4-quartos-e-varanda-gourmet-no-cond-reserva-verde/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.14-2.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.15.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.14-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.14.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.23-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.22-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.22-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.22.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.21.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.20.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.19-1.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.19.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.18.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.17-1.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.17.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.16-3.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.16-2.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-11.40.16.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Se você busca espaço, conforto e um condomínio completo , esse imóvel é simplesmente ideal para sua família! Destaques do imóvel: &#8211; 109m² muito bem distribuídos &#8211; Apartamento reformado e todo no porcelanato &#8211; 4 quartos, sendo 1 suíte &#8211; Lavabo &#8211; Sala ampla &#8211; Cozinha planejada &#8211; Dependência completa de empregada &#8211; Lavanderia ampla &#8211; Varanda gourmet com churrasqueira a carvão &#8211; 2 vagas de garagem Condomínio Reserva Verde Um verdadeiro clube para você e sua família: Lazer completo: &#8211; Piscina adulto e piscina infantil &#8211; Academia &#8211; Sauna e espaço spa/massagem &#8211; Boliche &#8211; Sala de cinema &#8211; Salão de festas (adulto e infantil) &#8211; 02 Churrasqueiras com forno de pizza &#8211; Quadra poliesportiva &#8211; Playground e brinquedoteca &#8211; Home work &#8211; Pracinha com mesa de xadrez, mirante e redário &#8211; Mercadinho Extrabom Investimento: R$ 925.000,00 Ideal para quem quer morar com qualidade de vida, segurança e uma estrutura completa sem sair de casa. Entre em contato agora e agende sua visita! Esse tipo de imóvel não fica disponível por muito tempo! LU]]></Description>
-        <ListPrice currency="BRL">925000</ListPrice>
-        <LivingArea unit="square metres">109</LivingArea>
-        <Bedrooms>4</Bedrooms>
-        <Bathrooms>3</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Santa Luzia]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -9969,50 +10011,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-10981</ListingID>
-      <Title><![CDATA[Apartamento dois quartos com quintal &#8211; Condomínio Vista Do Bosque - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-dois-quartos-com-quintal-condominio-vista-do-bosque/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/sla-sofa.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/sal-2-ed.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/sala-ed.jpg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/cozi-ed.jpg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/coz2-edt.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/qt-sol-edt.jpg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/quarto-edt.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/quarto-oked.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/ban-edt.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/quinta-edt.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/quintal-eddt.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/qut-edit.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento com Quintal – Vista do Bosque | Serra/ES Apartamento com 2 quartos aconchegantes, sala, cozinha, banheiro e área de serviço externa. Conta com dois quintais, excelente ventilação e sol da manhã, proporcionando mais conforto no dia a dia. O condomínio oferece lazer completo, com piscinas, área de churrasco, quadras, academia, mini mercado, elevador e monitoramento 24h, garantindo segurança e praticidade. Localização estratégica, próxima a comércios, escolas, supermercados e com fácil acesso às principais vias da região. Valor: R$ 280.000,00 Agende sua visita! FRAN/PES]]></Description>
-        <ListPrice currency="BRL">280000</ListPrice>
-        <LivingArea unit="square metres">60</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
