@@ -6,10 +6,56 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-08-20T06:43:22</PublishDate>
+    <PublishDate>2026-08-21T06:43:41</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-22405</ListingID>
+      <Title><![CDATA[Oportunidade 2 quartos no coração de Colina de Laranjeiras - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-2-quartos-no-coracao-de-colina-de-laranjeiras/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-8.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.32-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.32.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.32-2.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.32-3.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-2.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-5.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-6.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-3.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-4.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-11.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-9.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-16.08.33-7.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento à venda no Parque Esquadra – Colina de Laranjeiras Excelente oportunidade para quem busca conforto, praticidade e uma ótima localização! Este apartamento conta com 2 quartos com armários modulados , banheiro social com bancada moderna e ventilação natural, além de uma sala ampla com dois ambientes e piso em laminado de madeira, proporcionando um ambiente aconchegante e elegante. A cozinha possui bancada em granito e armários modulados , unindo funcionalidade e bom aproveitamento dos espaços. O imóvel está localizado no Condomínio Parque Esquadra , em Colina de Laranjeiras, condomínio com lazer completo , ideal para toda a família. A localização é outro grande diferencial, estando próximo a supermercados, shopping, comércio, serviços e diversas facilidades para o seu dia a dia . Uma excelente opção para morar com conforto, praticidade e qualidade de vida em uma das regiões mais valorizadas da Serra. Agende sua visita e venha conhecer este imóvel! RSR]]></Description>
+        <ListPrice currency="BRL">350000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-22337</ListingID>
       <Title><![CDATA[Apartamento 3 quartos com suíte no Ed. Martinica em Jardim Camburi. - LE]]></Title>
@@ -3518,49 +3564,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-19910</ListingID>
-      <Title><![CDATA[Casa 2 quartos em Vista da Serra II, Serra-ES - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-2-quartos-em-vista-da-serra-ii-serra-es-2/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_13_28.png</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_15_30.png</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_29_53.png</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_45_59.png</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_33_53.png</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_12_41_54.png</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_13_47_21.png</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_14_08_08.png</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_13_56_32.png</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_14_32_30.png</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/ChatGPT_Image_7_de_jul._de_2026_14_15_56.png</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Se você busca uma casa prática e bem distribuída, essa é uma excelente oportunidade! Localizada em Vista da Serra, bairro com boa oferta de comércios locais, essa casa entrega um bom custo-benefício para quem deseja sair do aluguel ou investir. Características da Casa • 56 m² muito bem aproveitados • 2 quartos • Sala • Cozinha com armários modulado • Banheiro social • Área de serviço • 2 vagas de garagem Localização estratégica: com acesso rápido ao transporte, BR 101, comércios, mercados e serviços essenciais. Agende sua visita agora mesmo. AM]]></Description>
-        <ListPrice currency="BRL">245000</ListPrice>
-        <LivingArea unit="square metres">56</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Vista da Serra II]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
