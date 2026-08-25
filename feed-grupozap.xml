@@ -6,10 +6,377 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-08-24T06:56:23</PublishDate>
+    <PublishDate>2026-08-25T06:44:51</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-22603</ListingID>
+      <Title><![CDATA[Apartamento 2 quartos com Suíte em Colina De Laranjeiras - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-suite-em-colina-de-laranjeiras/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/ea680fd3-24f6-43bf-8ca2-cde00eefa2b1.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c8126f60-aa90-4bf7-8128-484513ca6f83.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/d02d35b6-e2cb-46d3-bf01-3112fe324e84.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/2d1952e3-064d-41aa-ba36-3c980f8d9395.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/366f8cbf-e99d-4c52-b81d-9df312fa40ac.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/0ac71b66-bcd6-4034-89c0-6dec8a1bd097.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/0e480f9f-1762-4881-bc01-32642500fbc2.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/b4098fc3-b0f6-468f-b138-9576fa711b3a.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/52068266-97dd-4cfd-ae67-54c3f7fd25ef.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c2721b7c-5f01-401d-8629-1dc5112967ce.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/26873ac6-ba7a-4cfe-ba41-a4b85ab99cc1.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/44e7fe1c-3110-44e5-a83d-aa2b4da31f8c.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/56441513-c2ae-4bdb-bae1-2f7cdf93fdd8.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Condomínio Recreio das Palmeiras – Colinas de Laranjeiras Apartamento com ambientes bem distribuídos e boa localização. O imóvel possui 2 quartos com ar-condicionado sendo 1 suíte, sala ampla e aconchegante possui painel planejado e ar-condicionado, Cozinha com armários planejados, área de serviço, banheiro social, varanda com fechamento em vidro e uma vaga de garagem. O apartamento possui sol intermediário, garantindo boa iluminação natural e excelente ventilação. O imóvel também conta com rebaixamento em gesso e piso porcelanato que proporciona um acabamento mais moderno aos ambientes. Varanda possui fechamento em vidro, oferecendo um espaço mais protegido e integrado ao apartamento. O condomínio oferece área de lazer completa, com academia, piscina, salão de festas, churrasqueira, playground e muito mais, proporcionando conforto, segurança e qualidade de vida para toda a família. A localização em Colinas de Laranjeiras oferece fácil acesso a comércios, serviços e às principais vias da Serra. Destaques do Imóvel; -2 quartos, sendo 1 suíte, com ar-condicionado em ambos; -Sala com painel e móveis planejados, além de ar-condicionado; -Sol intermediário, com boa iluminação natural; -Rebaixamento em gesso e porcelanato; -Varanda com fechamento em vidro; -Ambientes bem distribuídos e confortáveis; -Excelente localização em Colinas de Laranjeiras. Agende sua visita agora mesmo e venha conhecer esse excelente investimento! VIK]]></Description>
+        <ListPrice currency="BRL">390000</ListPrice>
+        <LivingArea unit="square metres">53</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22563</ListingID>
+      <Title><![CDATA[CHÁCARA COM PLATÔ EM CONDOMÍNIO &#8211; SANTA LEOPOLDINA - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/chacara-com-plato-em-condominio-santa-leopoldina/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/7bb5efb0-40fb-47da-bc7b-7a4fb719c017.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/15623bd0-7d13-4b93-b3fc-6ebe4f7443fe.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/5f3a54b6-f321-4930-9c1f-6a8d492d6d62.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/54253ecf-ebda-4d1e-9cda-df3fa3e636a5.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/75db7ac0-0252-4453-bcc8-312b324c9d74.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/e3a8583d-978b-4227-9566-4bfe369edee9.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/875b48db-7a51-4185-b8b2-7e208a637b4b.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/8c944c62-6297-46ce-96ba-e8fb9e14cd5d.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/84de51e4-331e-4131-aae2-b285f45fc8a7.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/4ebc4f01-ef2b-4e23-93f0-8a07e5808f5d.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/deca396e-d394-4507-85df-45b296419c1f.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/71e467e3-9f83-487b-98f3-e646f1ca5da2.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/9605311e-56b9-44bb-b127-fc27b0809e93.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/d830f9a9-e533-4fb2-9b01-ff26820cbf87.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c90525d6-9845-4b6d-b613-1dff56affa4a.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/35dc2633-0e4f-4273-908f-7e979dd4747c.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/a64c6c11-52c5-49b6-b98e-d16748916f04.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/93da59b1-a8f7-4f56-a992-c97e95483fba.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/4727258f-5c3a-4169-8361-6ae9709987cf.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Realize o sonho da chácara na região mais valorizada das montanhas capixabas! Lotes dentro de condomínio fechado, natureza e acesso ao Rio Santa Maria. OPÇÕES DISPONÍVEIS: LOTE 1 &#8211; A PARTIR DE R$149.000,00 &#8211; 1.000m² &#8211; Platô 100% pronto &#8211; é só construir &#8211; Água disponível &#8211; Pronto para construir sua casa de campo LOTE 2 &#8211; 1.500m² &#8211; R$ 220.000,00MAIS PROCURADO &#8211; 1.500m² &#8211; Platô pronto &#8211; Água &#8211; Fundo com o Rio Santa Maria &#8211; lazer e pesca &#8211; Mais privacidade e espaço para pomar, piscina e área gourmet LOTE 3 &#8211; 2.000m² &#8211; R$ 229.000,00 &#8211; 2.000m² &#8211; Platô pronto &#8211; Lagoa provativa &#8211; lazer e pesca &#8211; Mais privacidade e espaço para pomar, piscina e área gourmet O CONDOMÍNIO RECANTO VERDE OFERECE: &#8211; Condomínio fechado e organizado &#8211; Ruas internas &#8211; Contato direto com a natureza &#8211; Cercado pelo encanto do Rio Santa Maria &#8211; Água &#8211; Região de clima ameno, a poucos minutos do centro de Santa Leopoldina, proximo ao Pesqueiro do Chico &#8211; Fácil acesso por estrada Obs. Condomínio vai disponibilizar, Campo, Playgroud, e todos os condômininos terão acesso ao Rio Santa Maria para passar o dia com a familia e amigos. Santa Leopoldina é a cidade mais europeia do ES, com cachoeiras, rios e ar puro. Ideal para casa de veraneio, moradia ou investimento que só valoriza. Documentação: Recibo de compra e venda &#8211; pronta para financiar diretamento com Proprietário. Aceitamos proposta! Agende sua visita e conheça o Recanto Verde!]]></Description>
+        <ListPrice currency="BRL">149000</ListPrice>
+        <LivingArea unit="square metres">1000</LivingArea>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Santa Luzia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22584</ListingID>
+      <Title><![CDATA[Apartamento 2 quartos &#8211; Sol da Manha em Chácara Parreiral - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-sol-da-manha-em-chacara-parreiral/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/020136cf-b920-498f-b208-a730d8915770.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/fca322ec-9b09-4904-a825-863ae8aa3550.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/692ffd81-58a9-4761-8d8e-f8c5d9d62302.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/5979e87f-025e-4fcf-a8de-27bb40878a72.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/72247714-887c-42b4-8d51-98cdd2979022.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/f21adf6f-5ef9-4b28-b3ac-0f5b2973257b.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/3f077fa7-ae1f-4f6b-8a19-77dac4c34501.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/9ff79d6e-939c-4351-9e10-646af6b4d9c7.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/09e99ebf-8f60-4bb3-879c-9751968d1ae0.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c4b5f880-f42d-4f2e-a7e5-a3351fd77fd0.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/409cb068-2d31-44c3-8fd1-692151372c5b.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/9700c084-d630-4f1f-bf60-732d12b48b3f.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/b67fe1aa-f10a-4d74-ae74-9f5f7e237b06.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/2849445b-eea8-4c30-a0a6-e8a019cb0640.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/0f08b56a-48d9-41f8-ad2f-ce49d6df29fa.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/2455515d-0bf1-4da8-9219-711a6e495d16.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento à Venda no Condomínio Vila das Orquídeas – Guaraciaba/Chácara Parreiral | Serra/ES Uma excelente oportunidade para quem busca um novo lar com conforto, segurança e praticidade! Apartamento com 47 m², 2 quartos, sala ampla e aconchegante, cozinha funcional, área de serviço, banheiro social e 1 vaga de garagem. Condomínio: piscina adulto e infantil, salão de festas, churrasqueiras, portaria 24 horas e ambiente familiar e seguro. Localização: Condomínio Vila das Orquídeas, em Guaraciaba, Serra/ES, com fácil acesso à ES-010 e à região de Laranjeiras. Próximo a supermercados, escolas, farmácias, academias e diversos comércios, proporcionando praticidade e comodidade para o seu dia a dia. ✨ Uma ótima opção para quem deseja sair do aluguel e conquistar o próprio apartamento! Entre em contato para mais informações, agende sua visita e venha conhecer seu novo lar! FRAN]]></Description>
+        <ListPrice currency="BRL">270000</ListPrice>
+        <LivingArea unit="square metres">47</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Chácara Parreiral]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22539</ListingID>
+      <Title><![CDATA[Espaço de Festa Com 6 Quartos em Nova Almeida &#8211; Perto da Praia - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/espaco-de-festa-com-6-quartos-em-nova-almeida-perto-da-praia/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/bc757bd5-a3dc-466b-83fb-10e4ab6938f3.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/6ea43e0d-f833-4d24-9a0e-bed5741a7712-1.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/97a6e300-4d0f-4e0a-a2cf-ddcaa5bb82f8.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/eb87660b-b57f-412b-9b3f-cb89cee5af5e.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/6eae2507-4cf4-49a4-9345-319bff9c3f11.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c9c97369-a011-4620-9a36-6f4f387aeaba.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/fce76fe0-9229-4079-9883-6352ff23ccd3.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/01db3428-c2d4-4782-8784-2d53eefc5562.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/e69fd61a-ff8b-4d86-a2d4-e370db5ec6cb.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/6ea43e0d-f833-4d24-9a0e-bed5741a7712.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/38d8ba9f-52a7-45ce-9ea2-e1e4c6618c78.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/93015dda-2cb8-4a8b-8ea1-74e14431fccc.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/bd5561aa-e034-4ace-9a36-57d4b3a82bbe.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/79810a8f-bfbe-4cc4-86dd-be2d9195080b.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/e3076f06-da01-4af7-b917-9bc66a6ab4a5.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/74dbeac5-bf21-4433-96ce-21238d6ed79c.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/84513d64-8a8e-4498-9756-78aa7c8f3602.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/0d5c4627-259a-4521-bb94-ebfeaaa3b146.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/605d94bb-7b7a-435c-b84f-c896c3e33918.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[OPORTUNIDADE ÚNICA EM NOVA ALMEIDA &#8211; ESPAÇO DE FESTAS COM 6 QUARTOS &#8211; 5 MINUTOS DA PRAIA &#8211; SERRA ES Invista no segmento que mais cresce na região! Espaço de festas completo e pronto para lucrar, localizado no coração de Nova Almeida, a apenas 5 minutos da praia. Ideal para festas, temporada e locação por aplicativo (Airbnb). Renda o ano inteiro! 1º ANDAR &#8211; ÁREA DE FESTA COMPLETA: &#8211; Piscina privativa &#8211; Salão de festa amplo e arejado &#8211; Área de churrasco &#8211; Cozinha equipada &#8211; Banheiro Masculino e Banheiro Feminino 2º ANDAR &#8211; ÁREA HOSPEDAGEM: &#8211; 6 quartos espaçosos, todos com ar-condicionado &#8211; Banheiro Masculino e Feminino no andar &#8211; Varanda com vista &#8211; Capacidade total para hospedar 20+ pessoas INFORMAÇÕES TÉCNICAS: Área Total: 300m² Área Construída: 204m² Localização: Nova Almeida, Serra &#8211; ES NÃO ACEITA FINANCIAMENTO NO BANCO POR QUE INVESTIR AQUI? Nova Almeida é um dos balneários mais procurados do ES. Espaço já pronto, sem precisar investir em obra. Perfeito para aniversários, casamentos, confraternizações e aluguel de temporada. Alta demanda, retorno rápido. JH]]></Description>
+        <ListPrice currency="BRL">700000</ListPrice>
+        <LivingArea unit="square metres">300</LivingArea>
+        <Bedrooms>6</Bedrooms>
+        <Bathrooms>4</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Nova Almeida]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22521</ListingID>
+      <Title><![CDATA[Apartamento 2 Quartos Reformado no Parque dos Pinhos III - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-reformado-no-parque-dos-pinhos-iii/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4031.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4032.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4033.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4034.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4035.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4036.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4037.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4038.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4039.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4040.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4041.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4042.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4043.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4044.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente oportunidade com preço atrativo e alto custo-benefício na Serra, ES. Este ótimo apartamento de 2 quartos no Condomínio Parque dos Pinhos III possui planta muito bem distribuída, destacando-se por ser inteiramente reformado, contar com acabamento em piso laminado, armários planejados na cozinha, quarto e banheiro, além de estar posicionado no segundo andar (apenas 1 lance de escada). A opção perfeita para quem busca o primeiro imóvel, praticidade e conforto pronto para morar com baixo investimento. Ficha Técnico-Funcional do Imóvel: Posição e Acesso: Segundo andar com apenas 1 lance de escada, garantindo fácil acesso diário e boa privacidade. Acabamento: Reformado com piso laminado elegante nas áreas quentes e excelente iluminação natural. Quartos: 2 dormitórios confortáveis, já equipados com armários planejados sob medida. Área Social: Sala ampla, ideal para criar um espaço aconchegante de estar e jantar. Cozinha e Serviços: Cozinha prática montada com armários planejados e área de serviço integrada. Banheiro: 1 banheiro social completo com armário e bom padrão de acabamento. Vaga de Garagem: 1 vaga de garagem garantida. Infraestrutura e Conveniência do Condomínio: O Condomínio Parque dos Pinhos III oferece uma área de lazer completa e funcional para toda a família, contando com quadra poliesportiva, salão de jogos, salão de festas para celebrações e playground. O grande diferencial fica por conta do minimercado interno para as compras rápidas do dia a dia. Localização Estratégica: O condomínio conta com localização prática na Serra, oferecendo rápido acesso a linhas de transporte público, escolas, farmácias, supermercados e aos principais eixos viários e polos comerciais da região. Informações Comerciais: Valor de Venda: R$ 250.000,00 Condições: Imóvel reformado, montado e pronto para morar, com documentação regularizada e perfeitamente apto para financiamento bancário e uso de FGTS. Conquiste o seu imóvel próprio reformado com planejados e o conforto que a sua família merece. Entre em contato para simulação de crédito e agende sua visita personalizada! LG]]></Description>
+        <ListPrice currency="BRL">250000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-21862</ListingID>
+      <Title><![CDATA[Casa no Vila dos Pássaros: 3Q c/ Suíte, Quintal, 2vagas de garagem. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-no-vila-dos-passaros-3q-c-suite-quintal-2vagas-de-garagem/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17-3.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17-4.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-6.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-5.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-4.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-3.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/94f9114f-b6e8-4648-9aa7-5180de3f8c9e-720x640-1.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-2.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.18-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17-5.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-14.22.17-1.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/1000813787-1.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/1000813788-1.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/31af4474-f682-4b10-85de-5f3b2194817f-720x640-1.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/52c0d51d-1411-4479-94b3-3ac5cdae19a6-720x640-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa Linda no Vila dos Pássaros | 3 Quartos c/ Suíte + Lazer Completo. Com tudo que você precisa no dia a dia: hospital, padaria, supermercado e academia pertinho de casa. E ainda voltar para um condomínio fechado que parece um paraíso. Conheça a casa: Ela é bonita, confortável e muito bem distribuída. 3 quartos, sendo 1 suíte com closet, os quartos já com guarda-roupa, 3 banheiros, Sala de estar e sala de jantar integradas, Cozinha, perfeitas para receber família e amigos. Quintal com luz natural, pronto para virar sua área gourmet dos sonhos . Um lar aconchegante para viver com tranquilidade. E o condomínio Vila dos Pássaros, É um diferencial. Aqui você tem qualidade e lazer completo para toda família: Piscina, Academia, Spa, Sauna, Salão de Festas, Brinquedoteca, Quadra Esportiva e estacionamento para visitantes. E para você: 2 vagas de garagem na casa. Localização Estratégica: Morada de Laranjeiras, Serra. Um bairro nobre, completo e valorizado. Perto de Laranjeiras, perto da praia e com toda infraestrutura ao redor. Essa é a chance de unir conforto, segurança e qualidade de vida no mesmo lugar. Agende sua visita. Venha sentir a energia dessa casa e desse condomínio. Re]]></Description>
+        <ListPrice currency="BRL">999000</ListPrice>
+        <LivingArea unit="square metres">145</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22448</ListingID>
+      <Title><![CDATA[Excelente Casa Duplex 3 Quartos/varanda em Colina de laranjeiras - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-casa-duplex-3-quartos-varanda-em-colina-de-laranjeiras/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-23-at-20.27.26.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-23-at-20.27.21.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-11.31.41.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-11.33.11.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-23-at-20.14.18.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-11.31.40.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/12-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Village House</PropertyType>
+        <Description><![CDATA[Excelente Casa Duplex à venda em Colina de Laranjeiras -Serra Se você está procurando uma casa confortável para chamar de lar, vale a pena conhecer essa oportunidade! O imóvel conta com 3 quartos espaçosos , 2 banheiros bem equipados , além de uma sala agradável, cozinha, varanda e uma área nos fundos, e 2 vagas de garagem perfeita para aproveitar com a família ou criar aquele espaço que você sempre quis. Com sua localização privilegiada em Colina de Laranjeiras, uma região que oferece praticidade para o dia a dia, com comércio e serviços por perto. Uma casa com espaços bem distribuídos e tudo o que você precisa para viver com conforto. Aceita financiamento! Agende uma visita! DS /JL /JBL]]></Description>
+        <ListPrice currency="BRL">785000</ListPrice>
+        <LivingArea unit="square metres">110</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-22469</ListingID>
+      <Title><![CDATA[Casa duplex 2 quartos em Alterosa &#8211; Condomínio Aldeia 350 - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-2-quartos-em-alterosa-condominio-aldeia-350/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4655-scaled.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4651-scaled.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4652-scaled.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4649-scaled.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/IMG_4650-scaled.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/686b13b1-c612-4610-8862-c2063ed50b1b.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/c03d858c-7590-4ae3-b937-4176cc78fb77.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Venha viver com muito estilo e conforto neste exclusivo conjunto de 6 casas duplex de 2 quartos em Alterosas, Serra/ES. Cada unidade foi planejada para oferecer praticidade, privacidade e um excelente aproveitamento de espaço. Localização privilegiada, perto de tudo o que você precisa: comércios, escolas, transporte e acesso rápido às principais vias. Plantas contam com área privativa de 47,56 m² e quintal de 9 m² Um projeto moderno, perfeito para quem busca qualidade de vida e um ótimo investimento. Última unidade! R$ 299.000,00 Agende já sua visita! JL/FR]]></Description>
+        <ListPrice currency="BRL">299000</ListPrice>
+        <LivingArea unit="square metres">56</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Alterosas]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-22426</ListingID>
       <Title><![CDATA[Casa 3 Quartos com Suite com 3 Varandas em Jacaraipe. - LE]]></Title>
@@ -2683,7 +3050,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Excelente oportunidade para morar ou investir em uma das regiões que mais crescem e valorizam na Serra! Localizado no Condomínio Via Parque , este apartamento reúne conforto, segurança e praticidade, com ambientes bem distribuídos, andar alto e excelente ventilação natural. Características do imóvel 47m² de área privativa 2 quartos Sala para dois ambientes Varanda Cozinha com armário planejado Banheiro social Excelente iluminação natural Ventilação cruzada Andar alto 1 vaga de garagem privativa Condomínio Portaria 24 horas Controle de acesso por reconhecimento facial Piscina Salão de festas equipado com geladeira e fogão Churrasqueira Playground Ambiente familiar, seguro e organizado Localização Em Morada de Laranjeiras , com fácil acesso à ES-010. Próximo a faculdade, escolas, academias, farmácias, restaurantes, comércio em local e a poucos minutos da Praia de Manguinhos e do polo comercial de Laranjeiras. Diferenciais Andar alto Excelente ventilação e iluminação natural Condomínio com lazer completo Ótima opção para morar ou investir Região com grande potencial de valorização Aceita financiamento bancário. Agende sua visita e venha aproveitar essa oportunidade! WSS/AM]]></Description>
-        <ListPrice currency="BRL">335000</ListPrice>
+        <ListPrice currency="BRL">350000</ListPrice>
         <LivingArea unit="square metres">47</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -2870,49 +3237,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Vitória]]></City>
         <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-20527</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos Vila das Orquideas - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-vila-das-orquideas/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.22-4.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.21.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.21-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.21-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.22.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.22-3.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.22-2.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.22-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.23-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.23.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.23-3.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-14.10.23-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à Venda no Condomínio Vila das Orquídeas – Guaraciaba | Serra/ES Chegou a oportunidade de conquistar o seu apartamento próprio em um condomínio completo, com conforto, segurança e excelente localização! 2 quartos, Sala ampla e aconchegante, Cozinha funcional, Banheiro social e 1 vaga de garagem Piscina adulto e infantil, Salão de festas, Churrasqueiras, Portaria 24 horas, Ambiente familiar e seguro Localizado no Condomínio Vila das Orquídeas , em Guaraciaba, Serra/ES, com fácil acesso à ES-010 e à região de Laranjeiras. Próximo a supermercados, escolas, farmácias, academias e diversos comércios, oferecendo praticidade para o seu dia a dia. As informações sobre a infraestrutura e localização do condomínio são compatíveis com anúncios recentes do empreendimento. Entre em contato para mais informações, agende sua visita e venha conhecer seu novo lar! FM]]></Description>
-        <ListPrice currency="BRL">270000</ListPrice>
-        <LivingArea unit="square metres">47</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Guaraciaba]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -4553,51 +4877,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-18809</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos com Suíte em Jardim Limoeiro - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-suite-em-jardim-limoeiro/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.51-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.51.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.48.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.49.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.51-3.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.51-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.51-4.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.52.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.52-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.52-2.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.52-3.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.53.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.52-4.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.15.53-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO 2 QUARTOS COM SUÍTE À VENDA – VILA DA COSTA | JARDIM LIMOEIRO Excelente oportunidade para morar com conforto, segurança e lazer completo! 2 quartos, sendo 1 suíte, Sala ampla e bem ventilada, Cozinha funcional, Banheiro social, Área de serviço, 1 vaga de garagem. Sol da manhã, proporcionando mais conforto térmico e iluminação natural! Condomínio com área de lazer completa: Piscina, Churrasqueira, Salão de festas, Playground e Portaria e segurança Localizado no Condomínio Vila da Costa, em Jardim Limoeiro, uma região com fácil acesso às principais vias, comércios, escolas e serviços da Serra. O condomínio conta com opções de lazer como piscina, churrasqueira e salão de festas. Agende sua visita e venha conhecer seu novo lar! FM]]></Description>
-        <ListPrice currency="BRL">290000</ListPrice>
-        <LivingArea unit="square metres">54</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-18787</ListingID>
       <Title><![CDATA[2 quartos com suíte em Colina de Laranjeiras – Buritis Clube - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -4687,56 +4966,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-18720</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos com quintal Privativo em Planicie da Serra - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-quintal-privativo-em-planicie-da-serra/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.09-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.09.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.10.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.09-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.08.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.07-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.10-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.10-2.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.10-3.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.11.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.12-2.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.12-1.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.12.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.11-1.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.11-2.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.12-3.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.13-1.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.13.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-12.37.07.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO COM QUINTAL PRIVATIVO – CONDOMÍNIO MONTI PARIOLI | PLANÍCIE DA SERRA Excelente oportunidade para quem busca conforto, espaço e qualidade de vida! Apartamento localizado no Condomínio Monti Parioli, em Planície da Serra, com um diferencial raro: quintal privativo de 46 m², com área gourmet e churrasqueira, espaço para pets, jardim ou ambiente de lazer exclusivo para sua família. Destaques do imóvel: Quintal privativo com 46 m², Ambientes bem distribuídos, Ótima ventilação e iluminação natural, Vaga de garagem, Condomínio seguro e organizado. Área de lazer completa! Localizado em Planície da Serra, com fácil acesso a comércios, escolas, transporte público e serviços da região. Agende sua visita e venha conhecer este imóvel que une conforto, praticidade e um espaço externo exclusivo para você aproveitar todos os dias! Entre em contato para mais informações. GAR]]></Description>
-        <ListPrice currency="BRL">430000</ListPrice>
-        <LivingArea unit="square metres">98</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -5336,103 +5565,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-18016</ListingID>
-      <Title><![CDATA[2 quartos, elevadores, lazer completo em Colina de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-elevadores-lazer-completo-em-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/varanda.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/sala-2.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/sala-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/cozinha-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/cozinha-3.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/cozinha-4.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/quarto-casal.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/area-de-servico.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/banheiro.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/quarto-solteiro.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/vista.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-03-at-11.59.23.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-03-at-11.59.24-1.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-03-at-11.59.24.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à venda em Colina de Laranjeiras ! Se você busca conforto, privacidade, ventilação natural e uma localização valorizada, este imóvel merece sua atenção. 2 quartos Sol da manhã Vista livre e eterna Piso laminado Armários embutidos Elevadores Ótima posiçao de vaga de garagem Além disso, o condomínio oferece uma infraestrutura completa de lazer e conveniência: Piscina aquecida Academia equipada Churrasqueiras Salões de festas Salão de jogos Mercado 24h Espaço Kids Quadra poliesportiva E ainda conta com diferenciais sustentáveis: Energia Solar Fotovoltaica e Poço Artesiano Entre em contato para mais informações e agende sua visita. PES #ColinaDeLaranjeiras #SerraES #ImóveisES #ApartamentoAVenda #MercadoImobiliário #InvestimentoImobiliário #PestanaImóveis #VistaLivre #SolDaManhã]]></Description>
-        <ListPrice currency="BRL">390000</ListPrice>
-        <LivingArea unit="square metres">55</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-18001</ListingID>
-      <Title><![CDATA[Casa Triplex 6 Quartos em Feu Rosa - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-triplex-6-quartos-em-feu-rosa/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.32-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.33-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.33.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.29.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.30-2.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.30.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.31.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.32.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.34-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.36-1.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.45-1.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.46-1.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.41-1.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.35.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.36.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.34-3.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.41.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.39-1.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.46-2.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-02-at-14.02.47.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[CASA TRIPLEX À VENDA – FEU ROSA, SERRA/ES Excelente oportunidade para quem busca espaço, conforto e praticidade! Localizada em Feu Rosa, Serra/ES. Sendo: 6 quartos, 4 banheiros, 3 vagas de garagem, Casa triplex ampla e bem distribuída! Ideal para famílias grandes para quem deseja mais espaço e conforto e para empresa. O imóvel oferece ambientes amplos, boa ventilação e excelente aproveitamento dos espaços. Localização estratégica, próxima a comércios, escolas, supermercados e transporte público. Informações e agendamento de visitas: (inserir telefone) Entre em contato e venha conhecer esta excelente oportunidade em Feu Rosa! GAR/BRL]]></Description>
-        <ListPrice currency="BRL">800000</ListPrice>
-        <Bedrooms>6</Bedrooms>
-        <Bathrooms>4</Bathrooms>
-        <Garage type="Parking Space">3</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Feu Rosa]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-17736</ListingID>
       <Title><![CDATA[Excelente casa linear em São Patricio 4 qts 2 suites - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -5625,59 +5757,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-17627</ListingID>
-      <Title><![CDATA[Excelente 2 quartos no Cond Naturale &#8211; Morada de laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-elevador-e-lazer-completo-em-morada-de-laranjeiras-naturalle/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/1.2-scaled.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/1.1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.10-scaled.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.11-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.11-2-scaled.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.11-scaled.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.12.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.14.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.15-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.15-scaled.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.20-scaled.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.40-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.40-scaled.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.41-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.41-scaled.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.42-scaled.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.43.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.43-2.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.42-1.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.42-2.jpeg</Item>
-        <Item medium="image" caption="img21">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2025-10-01-at-22.32.43-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à venda – 2 quartos – Lazer completo Este lindo apartamento de 50m², totalmente planejado e muito bem conservado, é perfeito para quem busca conforto, praticidade e um lar moderno. Condomínio com elevador Características do apartamento • 2 quartos, ambos com móveis planejados • Sala integrada ampla, com painel para TV e iluminação moderna • Sala de jantar com parede 3D decorativa e pendente sofisticado • Cozinha planejada, bancada funcional e bastante armazenamento • Área de serviço separada • Banheiro moderno com acabamento de qualidade • Porcelanato em todos os cômodos • Móveis planejados laqueados, em perfeito estado • Escritório planejado no quarto, ideal para home office Vaga de garagem • 1 vaga descoberta Lazer completo O condomínio oferece estrutura completa para toda a família (listando de forma genérica, caso queira posso detalhar) Piscina • Churrasqueira • Salão de festas • Quadras ou playground • Academia Destaques • Apartamento muito bem cuidado, moderno e funcional • Ideal para quem quer entrar e morar sem precisar reformar • Ambientes claros, planejados e bem distribuídos. RNT]]></Description>
-        <ListPrice currency="BRL">430000</ListPrice>
-        <LivingArea unit="square metres">50</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -5943,7 +6022,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa Espetacular em Jacaraipe– Serra/ES Excelente oportunidade para quem busca conforto, espaço e lazer! Localizada em Jacaraípe – Serra/ES Sendo: 5 quartos amplos, 3 banheiros, Área gourmet perfeita para reunir família e amigos, Quintal enorme , Casa espaçosa e bem ventilada! Ideal para famílias grandes ou investimento Espaço de sobra para garagem, lazer e até futuras ampliações! Entre em contato para mais informações e agendar uma visita. Não perca essa oportunidade de morar com conforto e muito espaço em uma ótima localização! GAR]]></Description>
+        <Description><![CDATA[Casa Espetacular em Jacaraipe– Serra/ES Excelente oportunidade para quem busca conforto, espaço e lazer! Localizada em Jacaraípe – Serra/ES Sendo: 5 quartos amplos, 3 banheiros, Área gourmet perfeita para reunir família e amigos, Quintal enorme , Casa espaçosa e bem ventilada! Ideal para famílias grandes ou investimento Espaço de sobra para garagem, lazer e até futuras ampliações! Entre em contato para mais informações e agendar uma visita. Não perca essa oportunidade de morar com conforto e muito espaço em uma ótima localização! FM / RNT]]></Description>
         <ListPrice currency="BRL">600000</ListPrice>
         <LivingArea unit="square metres">360</LivingArea>
         <Bedrooms>5</Bedrooms>
@@ -6452,50 +6531,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Campinho da Serra I]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-16499</ListingID>
-      <Title><![CDATA[Casa Duplex 2 Quartos com Suíte Enseada Jacaraipe - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-2-quartos-com-suite-enseada-jacaraipe/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.07-4.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.08.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.08-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.07-3.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.07-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.07-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.10-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.10.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.09-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.07.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.09.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.08-3.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.08-2.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-15.12.09-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Duplex moderno em Enseada de Jacaraípe 75m² de área construída 2 quartos, 2 banheiros, Ampla sala de TV, Sala de jantar integrada com a cozinha, Acabamento de qualidade, Porcelanato, Rebaixamento em gesso, Vaga para 2 carros, Espaço nos fundos para futura piscina e área gourmet Entrega em 10 meses Localizado em Enseada de Jacaraípe, no bairro que mais cresce da região. Apenas 5 minutos da praia. Aproveite o preço de lançamento e garanta seu imóvel com excelente potencial de valorização. Um imóvel pensado para quem busca conforto, qualidade de vida e investimento seguro. FM]]></Description>
-        <ListPrice currency="BRL">299000</ListPrice>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Enseada de Jacaraípe]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -7286,133 +7321,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-15215</ListingID>
-      <Title><![CDATA[Excelente Casa duplex 2 quartos em Alterosa - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-casa-duplex-2-quartos-em-alterosa/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2724-scaled.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2720-scaled.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2717-scaled.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2715-scaled.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2714-scaled.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2711-scaled.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2707-scaled.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2702-scaled.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2700-scaled.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/IMG_2698-scaled.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa duplex 02 quartos , 2 banheiros, 2 lavabos, área de serviço, cozinha ,sala e varanda espaçosa, vaga de garagem. Muito bem localizado na região de Alterosa, com vários empreendimentos na redondeza, acesso á varias vias principais da região da Serra. Agende uma visita! DS]]></Description>
-        <ListPrice currency="BRL">265000</ListPrice>
-        <LivingArea unit="square metres">70</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Alterosas]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-15414</ListingID>
-      <Title><![CDATA[PORTEIRA FECHADA 2 quartos em COLINA DE LARANJEIRAS - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/porteira-fechada-2-quartos-em-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-15-41772662315962.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-16-11772662315960.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-16-21772662315969.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-17-11772662315970.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-141772662315979.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-151772662315970.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-161772662315874.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-171772662315920.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-15-11772662315871.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-15-21772662315962.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-03-04-at-19-05-15-31772662315950.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[PORTEIRA FECHADA em Colina de Laranjeiras, Serra, ES Condomínio Parque Pelicano Preço Venda R$ 290.000 Aceita financiamento &#8211; Sim 2 Dormitórios,1 Banheiro, 1 Vaga de garagem, Mobiliado PORTEIRA FECHADA 2 quartos em COLINA DE LARANJEIRAS Excelente oportunidade para morar ou investir! apenas 50 metros da Faculdade Multivix, este apartamento oferece praticidade, valorização e alta demanda para locação. O imóvel conta com 2 quartos, sala, cozinha, ótima ventilação e privacidade. Condomínio com área de lazer. Localização estratégica Forte potencial para locação (estudantes e professores) Excelente custo x benefício Ótima opção de investimento com liquidez Uma oportunidade inteligente em uma das regiões que mais crescem na Serra. PES]]></Description>
-        <ListPrice currency="BRL">290000</ListPrice>
-        <LivingArea unit="square metres">50</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-15319</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos Vista para o Mar, Vista de Manguinhos - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-vista-para-o-mar-vista-de-manguinhos/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.47-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.47.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.48-2.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.48.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.48-3.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-09.41.48-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-11.56.49-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-11.56.49.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-11.57.10.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-11.57.35.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 2 Quartos – Sol da Manhã com Vista para o Mar no Condomínio Vista de Manguinhos! Excelente oportunidade para quem busca conforto e qualidade de vida! 2 quartos bem ventilados, Sala aconchegante, linda vista para o mar, Posição sol da manhã (ambiente mais fresco e iluminado), Cozinha prática, Banheiro social, uma vaga de garagem. Condomínio: Elevador, Área de lazer completa, Piscina adulto e infantil, Churrasqueira, Salão de festas, academia, quadra, área pet. Entre em contato e agende sua visita! GAR]]></Description>
-        <ListPrice currency="BRL">245000</ListPrice>
-        <LivingArea unit="square metres">44</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Ourimar]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-15106</ListingID>
       <Title><![CDATA[Oportunidade de apartamento 2 quartos e varanda no Cond Viver Serra ES - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -7780,7 +7688,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento EXCLUSIVO à venda no Condomínio Parque Cabral — uma oportunidade única para quem valoriza conforto, localização e um imóvel diferenciado. Este apartamento se destaca pela sua posição privilegiada: são apenas 2 lances de escada , garantindo praticidade no dia a dia, aliado a uma incidência de 100% sol da manhã e ventilação nordeste , proporcionando ambientes sempre iluminados, frescos e agradáveis. Com planta funcional e bem distribuída, o imóvel oferece conforto ideal para morar com qualidade ou investir com segurança, em um condomínio consolidado e valorizado na região. O Condomínio Parque Cabral conta com estrutura completa para você e sua família aproveitarem ao máximo: Salão de festas Churrasqueira Playground Áreas de convivência Ambiente seguro e organizado Localizado em região estratégica, com fácil acesso às principais vias, próximo a supermercados, escolas, farmácias e comércio em geral, o bairro oferece tranquilidade, praticidade e valorização constante . Próximo a Faculdade Multivix, Shopping MountSerrat, Padaria Monza, Supermercados BH, Extrabom e Atacadão. Imóvel de exclusividade — atendimento personalizado, negociação segura e acompanhamento completo em todas as etapas. Ideal para quem busca uma oportunidade diferenciada e não abre mão de um imóvel bem posicionado e com excelente custo-benefício. PES]]></Description>
-        <ListPrice currency="BRL">260000</ListPrice>
+        <ListPrice currency="BRL">275000</ListPrice>
         <LivingArea unit="square metres">45</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -9962,139 +9870,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-11270</ListingID>
-      <Title><![CDATA[Apartamento à venda, Colina de LaranjeirasEd.Albatroz, Serra, ES - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-a-venda-colina-de-laranjeirased-albatroz-serra-es/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/1-Photoroom-1.png</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/11-Photoroom-1.png</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/5-Photoroom-1.png</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/2-Photoroom-1.png</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/4-5-scaled.jpg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/8-Photoroom-1.png</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/10-4-scaled.jpg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/12-4.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/13-Photoroom-1.png</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à Venda em Colina de Laranjeiras – 2 Quartos com Varanda Excelente oportunidade para morar em um dos bairros mais valorizados da Serra! 2 quartos bem ventilados, Sala ampla, Varanda aconchegante, Banheiro social, cozinha e Área de serviço. 1 vaga de garagem. Localização privilegiada, próximo a supermercados, padarias, escolas, farmácias e com fácil acesso à avenida principal. Ótima opção para morar ou investir! Entre em contato para mais informações e agende sua visita. FM]]></Description>
-        <ListPrice currency="BRL">350000</ListPrice>
-        <LivingArea unit="square metres">48</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-11238</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos no Mirante de Jacaraipe Serra ES - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-no-mirante-de-jacaraipe-serra-es/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.10-4.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.10.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.10-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.09.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.23.54.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.10-2.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.10-3.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11-3.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11-5.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11-4.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11-2.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.12-1.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.12.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2025-12-12-at-16.31.11-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO – JACARAÍPE | 2 QUARTOS | SOL DA MANHÃ | VISTA PARA O MAR Se você busca conforto, praticidade e uma localização privilegiada, este é o apartamento ideal! • 2 quartos amplos, Sol da manhã – muito mais ventilação e iluminação natural, Vista incrível para o mar, Varanda aconchegante, Prédio com elevador, Área de lazer completa para toda a família. Localização privilegiada: Situado em Jacaraípe, na melhor região da Serra, perto de comércios, praias, restaurantes, escolas e tudo o que você precisa para viver bem. Entre em contato e agende sua visita! FM]]></Description>
-        <ListPrice currency="BRL">320000</ListPrice>
-        <LivingArea unit="square metres">49</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Castelândia]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-11206</ListingID>
-      <Title><![CDATA[Apartamento de 2 Quartos com Suíte e Closet em Colina de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-de-2-quartos-com-suite-e-closet-em-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.09-scaled.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.07-scaled.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.08-scaled.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.09-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.09-2-scaled.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.10-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.10-2-scaled.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.10-3-scaled.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.10-scaled.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.11-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.11-scaled.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.12-1-scaled.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.12-scaled.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.13-scaled.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2024-09-11-at-11.17.12-2-scaled.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento de 2 Quartos com Suíte e Closet à Venda no Condomínio Itaúna Aldeia Parque, Colina de Laranjeiras, Serra, ES. Este apartamento no condomínio Itaúna Aldeia Parque é ideal para quem busca conforto e qualidade de vida. Com suíte, closet e uma área de lazer completa, ele oferece o que há de melhor em um dos bairros mais valorizados da Serra. Apartamento 2 Quartos com suíte com modulados em todos os ambientes e Quarto principal espaçoso, com suíte e closet, proporcionando conforto e praticidade. Área de Lazer Completa: O condomínio oferece piscina, academia, salão de festas, churrasqueira, playground, quadra esportiva e muito mais, garantindo diversão para toda a família. Condomínio Seguro: Portaria 24 horas com controle de acesso, garantindo total segurança e tranquilidade. Com vaga de garagem coberta. Localização Estratégica: Próximo a escolas, supermercados, farmácias, shoppings e diversos comércios, facilitando seu dia a dia em Colina de Laranjeiras. Agende sua Visita! Não perca a chance de conhecer este incrível apartamento no Condomínio Itaúna Aldeia Parque! Entre em contato agora mesmo e agende sua visita. Sua nova vida com conforto, estilo e segurança começa aqui, em Colina de Laranjeiras, Serra, ES! FM]]></Description>
-        <ListPrice currency="BRL">580000</ListPrice>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
