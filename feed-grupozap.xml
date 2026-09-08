@@ -6,10 +6,54 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-07T11:41:19</PublishDate>
+    <PublishDate>2026-09-08T10:40:10</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-23582</ListingID>
+      <Title><![CDATA[Apartamento 2qtos Porteira Fechada &#8211; Cond. Vila Itacaré - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2qtos-porteira-fechada-cond-vila-itacare/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/sala-1.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/sala22.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/sala-varanda.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/varanda.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/cozinha-1.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/cozinha1-1.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/quarto66.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/quarto.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/quarto2-1.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/banheiro-1.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/piscina-1.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/parquinho.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 2 quartos, com varanda, Porteira Fechada &#8211; Condomínio Vila Itacaré Excelente apartamento de 2 quartos, com modulados, cozinha com armários planejados, varanda e 1 banheiro. O imóvel conta ainda com 1 vaga de garagem e será vendido em porteira fechada, proporcionando praticidade para quem deseja entrar e morar. Área de lazer completa: espaço para as crianças, churrasqueira, quadra e salão de festas, oferecendo opções de lazer para toda a família sem precisar sair do condomínio. Localizado em uma região tranquila e com fácil acesso às praias da região, além de contar com comércio e serviços para facilitar o dia a dia. Uma ótima opção para quem busca qualidade de vida, lazer e praticidade, seja para morar ou investir. Entre em contato para mais informações e agende sua visita! VIK / WSS]]></Description>
+        <ListPrice currency="BRL">298000</ListPrice>
+        <LivingArea unit="square metres">52</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-23564</ListingID>
       <Title><![CDATA[CASA À VENDA 3 QUARTOS EM JARDIM ATLÂNTICO – JACARAÍPE – SERRA - LE]]></Title>
@@ -3927,57 +3971,6 @@
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Campinho da Serra I]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-21049</ListingID>
-      <Title><![CDATA[Apartamento 2+1 à Venda – Vista de Vila Velha Condomínio Clube - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-21-a-venda-vista-de-vila-velha-condominio-clube/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.38-1-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.17.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.17-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.16.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.16-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.18.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.19-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.19.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.21.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.20.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.21-1.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-17.09.22.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.37-1.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.38-2.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.39-1.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.40-1.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.45-1.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.59-1.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-04-23-at-14.11.35-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 2+1 à venda no Vista de Vila Velha Condomínio Clube &#8211; Ataíde! Modalidade porteira fechada! Excelente oportunidade para quem busca conforto, segurança e qualidade de vida! O apartamento conta com uma planta funcional de 54m², composta por: &#8211; Sala ampla e bem iluminada pelo sol da manhã; &#8211; Cozinha americana/área de serviço; &#8211; 2 quartos + 1 quarto adicional, ideal para escritório, closet ou quarto infantil; &#8211; Banheiro social; &#8211; 1 vaga de garagem. Localizado no Vista de Vila Velha Condomínio Clube, o imóvel oferece uma infraestrutura completa para toda a família, com: &#8211; Portaria e segurança 24hrs; &#8211; Piscina adulto e infantil; &#8211; Academia; &#8211; Salão de festas; &#8211; Playground; &#8211; Quadra poliesportiva; &#8211; Churrasqueiras; &#8211; Bicicletário; &#8211; Mercado autônomo 24 horas, proporcionando muito mais praticidade no dia a dia. Uma excelente opção para quem deseja morar com conforto, lazer e comodidade, em um condomínio completo e bem localizado. Entre em contato para mais informações e agende sua visita! BOM]]></Description>
-        <ListPrice currency="BRL">380000</ListPrice>
-        <LivingArea unit="square metres">54</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vila Velha]]></City>
-        <Neighborhood><![CDATA[Ataide]]></Neighborhood>
-        <PostalCode>29100-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Casa Imobiliaria ES</Name>
