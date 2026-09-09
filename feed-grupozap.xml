@@ -6,10 +6,56 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-08T10:40:10</PublishDate>
+    <PublishDate>2026-09-09T10:49:38</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-23606</ListingID>
+      <Title><![CDATA[Lindíssima casa com 3 suítes em Jardim Atlântico - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/lindissima-casa-com-3-suites-em-jardim-atlantico/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-3.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-4.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-3.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-4.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-6.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-9.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-8.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-6.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.44-7.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-2.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-5.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-13.20.45-7.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[CASA DUPLEX DE ALTO PADRÃO COM 3 SUÍTES PRÓXIMA À PRAIA EM JARDIM ATLÂNTICO – JACARAÍPE Excelente oportunidade para quem busca conforto, espaço e qualidade de acabamento em uma das regiões mais desejadas de Jacaraípe. Esta casa duplex conta com 150 m² de área construída, implantada em um terreno de 180 m², oferecendo ambientes amplos, modernos e planejados para proporcionar praticidade e conforto para toda a família. O imóvel possui 3 quartos, todos com suítes, garantindo mais privacidade e comodidade aos moradores. O projeto apresenta fino acabamento, com piso em porcelanato e bancadas em granito, além de uma área gourmet pronta, ideal para receber familiares e amigos. Localizada no bairro Jardim Atlântico, em Jacaraípe, a casa está próxima à praia e conta com fácil acesso ao comércio, serviços e demais conveniências da região. O imóvel encontra-se atualmente em execução de obra, possibilitando acompanhar a evolução do projeto. A previsão de entrega é de aproximadamente 3 meses. Destaques do imóvel: • Casa duplex • 150 m² de área construída • Terreno de 180 m² • 3 quartos • 3 suítes • Fino acabamento • Piso em porcelanato • Bancadas em granito • Área gourmet pronta • Próxima à praia • Localização privilegiada em Jardim Atlântico – Jacaraípe • Imóvel em execução de obra • Previsão de entrega em aproximadamente 3 meses VALOR DE VENDA: R$ 1.100.000,00 Uma excelente oportunidade para adquirir uma casa nova, moderna e com alto padrão de acabamento, em uma localização privilegiada e próxima ao mar. DNO/FR]]></Description>
+        <ListPrice currency="BRL">1100000</ListPrice>
+        <LivingArea unit="square metres">180</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Jardim Atlântico]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-23582</ListingID>
       <Title><![CDATA[Apartamento 2qtos Porteira Fechada &#8211; Cond. Vila Itacaré - LE]]></Title>
@@ -1668,7 +1714,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Alto padrão também é aquilo que você não vê. Imagine morar em uma casa totalmente térrea, com 291,42m² construídos em um terreno de 613m², onde arquitetura, tecnologia e engenharia foram planejadas juntas desde a construção. São 4 suítes, ambientes integrados e um verdadeiro complexo de lazer privativo. O que você vê: • 4 suítes • Sala e cozinha integradas • Piscina de aproximadamente 35 mil litros • Spa com 8 jatos de hidromassagem • Sauna a vapor • Acabamentos contemporâneos de alto padrão • Porcelanato de grande formato • Cozinha com bancada em granito Preto São Gabriel Escovado • Iluminação indireta nos cortineiros O que torna essa casa diferente: A piscina e o spa estão integrados à automação residencial. O tratamento da piscina, inclusive o sistema complementar de ozônio, pode ser programado, e o spa pode ser acionado por comando de voz. A casa também possui aquecimento solar com boiler, rede Wi-Fi Mesh cabeada, sistema hidráulico por manifold e infraestrutura elétrica dimensionada para os equipamentos da residência. São detalhes que talvez você não perceba em uma fotografia, mas que fazem diferença durante anos de uso. Uma residência para quem não procura apenas uma casa bonita, mas um imóvel onde conforto, tecnologia e engenharia foram pensados em cada detalhe. Quer conhecer essa casa pessoalmente? Agende uma visita e venha se surpreender! WSS]]></Description>
-        <ListPrice currency="BRL">2999000</ListPrice>
+        <ListPrice currency="BRL">4200000</ListPrice>
         <LivingArea unit="square metres">613</LivingArea>
         <Bedrooms>4</Bedrooms>
         <Bathrooms>6</Bathrooms>
@@ -7243,7 +7289,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Linda casa linear com três quartos, sendo uma suíte. Banheiro social, Sala espaçosa, cozinha americana, varanda extensa, área de serviço, garagem coberta e quintal. Vista privilegiada, forte ventilção natural, cinco minutos da praia, telhado colonial, perto de supermercados, padarias, praças, ponto de ônibus e comécio em geral. Pagamento somente em dinheiro. LNC]]></Description>
-        <ListPrice currency="BRL">500000</ListPrice>
+        <ListPrice currency="BRL">450000</ListPrice>
         <LivingArea unit="square metres">300</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>2</Bathrooms>
@@ -8660,50 +8706,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Manguinhos]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-14387</ListingID>
-      <Title><![CDATA[Lindíssimo apartamento 2 quartos no Vista do Limoeiro - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/lindissimo-apartamento-2-quartos-no-vista-do-limoeiro/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-15.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-8-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-11-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-13-1.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-14-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-6-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-3-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-9-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-1-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-7-1.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-10-1.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-11.37.18-2-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento dos seus sonhos no Condomínio Vista do Limoeiro Encante-se com este lindo apartamento de 2 quartos, perfeito para quem busca conforto, praticidade e qualidade de vida. O imóvel conta com cozinha moderna, equipada com bancadas em granito e armários modulados de excelente qualidade, ideal para quem valoriza funcionalidade e bom gosto. O piso em porcelanato traz sofisticação e fácil manutenção a todos os ambientes. O banheiro é um destaque à parte, com cuba externa e bancada em granito, unindo design contemporâneo e elegância. Localizado no Condomínio Vista do Limoeiro, você e sua família poderão desfrutar de um lazer completo, com áreas pensadas para relaxar, se divertir e viver bem, tudo com segurança e comodidade. IMÓVEL APTO A FINANCIAMENTO BANCÁRIO Uma excelente oportunidade para morar ou investir! Agende sua visita e venha se apaixonar! DNO]]></Description>
-        <ListPrice currency="BRL">295000</ListPrice>
-        <LivingArea unit="square metres">45</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
