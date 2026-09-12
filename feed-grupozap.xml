@@ -6,10 +6,101 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-11T10:41:07</PublishDate>
+    <PublishDate>2026-09-12T10:10:19</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-23887</ListingID>
+      <Title><![CDATA[Apartamento 2 Quartos – Sol da Manhã em Jardim Camburi - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-sol-da-manha-em-jardim-camburi/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4150.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4144.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4146.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4147.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4148.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4151.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4152.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4145.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4153.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4156.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_4142.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente oportunidade com preço atrativo e alto custo-benefício em Vitória, ES. Este ótimo apartamento de 2 quartos no Edifício Solar da Praia, localizado no cobiçado bairro Jardim Camburi, possui planta bem distribuída e aconchegante, destacando-se por ser Sol da Manhã, contar com armários planejados nos quartos e na cozinha, climatização por ar-condicionado e a praticidade da fechadura eletrônica. A opção perfeita para quem busca morar no bairro mais completo e desejado da capital com conforto e baixo custo de manutenção. Ficha Técnico-Funcional do Imóvel: Posição Solar Iluminação: Sol da manhã, garantindo ambientes mais frescos, iluminados e bem ventilados ao longo de todo o dia. Posição e Acesso: Segundo andar (apenas 2 lances de escada), oferecendo boa privacidade e praticidade no dia a dia. Diferenciais Exclusivos: Equipado com fechadura eletrônica para maior segurança e ar-condicionado instalado. Quartos: 2 dormitórios confortáveis e bem distribuídos, ambos com armários planejados sob medida. Área Social: Sala ampla para dois ambientes, perfeita para criar um espaço agradável de estar e jantar. Cozinha e Serviços: Cozinha funcional montada com armários planejados e área de serviço integrada. Vaga de Garagem: 1 vaga de garagem. Vantagens do Condomínio: O Edifício Solar da Praia oferece um ambiente residencial familiar, seguro e tranquilo, com uma taxa de condomínio (R$ 400,00/mês). Localização Estratégica: Jardim Camburi é um dos bairros mais valorizados e autossuficientes de Vitória. A localização permite fazer tudo a pé: próximo a supermercados, farmácias, padarias, academias, praças gastronômicas, escolas, bancos e a poucos minutos do calçadão e da praia de Camburi. Informações Comerciais: Valor de Venda: R$ 535.000,00 Condomínio: R$ 400,00/mês Condições: Imóvel montado e pronto para morar, com documentação regularizada, perfeitamente apto para financiamento bancário e uso de FGTS. Conquiste o seu apartamento próprio sol da manhã no coração de Jardim Camburi. Entre em contato para simulação de crédito e agende sua visita personalizada! LG]]></Description>
+        <ListPrice currency="BRL">535000</ListPrice>
+        <LivingArea unit="square metres">55</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vitória]]></City>
+        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-23870</ListingID>
+      <Title><![CDATA[Apartamento à venda de 2 quartos sendo 1 suíte em Ataíde. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-a-venda-de-2-quartos-sendo-1-suite-em-ataide/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.20-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.43-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.43.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.42.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.21.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.20-3.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.20-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.19-2.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.19-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.19.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.18-1.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.18-2.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.18.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.17.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.44-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-04-22-at-10.31.44.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[APARTAMENTO À VENDA DE 2 QUARTOS SENDO 1 SUÍTE – 54 M² – ATAÍDE ( CONDOMÍNIO RESIDENCIAL ULISSES ÁLVARES ) | VILA VELHA! Excelente oportunidade para quem busca um apartamento confortável, bem distribuído e com ótima estrutura de condomínio. O imóvel possui 54 m², distribuídos em: &#8211; 2 quartos, sendo 1 suíte &#8211; Sala &#8211; Cozinha americana/área de serviço &#8211; Varanda &#8211; Banheiro social &#8211; Sol da manhã &#8211; 1 vaga de garagem Condomínio com excelente estrutura, oferecendo elevadores, hall de entrada, salão de festas, piscina, churrasqueira e playground. Um apartamento ideal para morar com conforto e praticidade, em uma região valorizada de Ataíde, Vila Velha. Entre em contato e agende uma visita. BOM]]></Description>
+        <ListPrice currency="BRL">410000</ListPrice>
+        <LivingArea unit="square metres">54</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Ataide]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-23849</ListingID>
       <Title><![CDATA[Apartamento 2 Quartos em Morada de Laranjeiras-Condomínio Porto Fino. - LE]]></Title>
@@ -787,58 +878,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Lagoa de Jacaraípe]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-23321</ListingID>
-      <Title><![CDATA[Excelente apartamento andar alto no Edifício Caiobás - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-apartamento-andar-alto-no-edificio-caiobas/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/26.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/31.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/18.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/17.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/19.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/6-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-16.07.30-7.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/5-3.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/4-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/3-2.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/25-2.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/16.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/10-2.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/7-2.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/12-3.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/9-2.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/8-2.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/27.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/28.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/08/11-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Espaçoso, Iluminado e Pronto para Morar: 128m² com Sol da Manhã e Andar Alto! Se você busca conforto, privacidade e uma vista privilegiada, este apartamento é a escolha perfeita. Localizado em andar alto, o imóvel recebe a agradável iluminação do sol da manhã , garantindo ambientes frescos e arejados durante todo o dia. Destaques do Imóvel: Área Privativa: 128 m² muito bem distribuídos. Dormitórios: 3 quartos espaçosos, sendo 2 suítes que oferecem total privacidade para a família. Climatização: Ar-condicionado instalado em todos os quartos para o seu máximo conforto. Praticidade: Armários planejados de excelente qualidade nos ambientes, otimizando cada espaço. Vagas de Garagem: 2 vagas cobertas e de fácil manobra. Um apartamento completo, com acabamento impecável e pronto para receber sua história. Agende sua visita e venha se encantar! AL]]></Description>
-        <ListPrice currency="BRL">1115000</ListPrice>
-        <LivingArea unit="square metres">128</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Parque Residencial Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -1782,7 +1821,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Oportunidade para sair do aluguel! Apartamento de 2 quartos, com sala ampla para dois ambientes e iluminação em LED, proporcionando um ambiente moderno e aconchegante. A cozinha conta com área de serviço integrada, modulados e acabamento em porcelanato. O imóvel possui rebaixamento em gesso, banheiro com box e uma vaga de garagem. Além disso, oferece vista livre e possibilidade de instalação de varanda, agregando ainda mais conforto e valorização ao imóvel. O Condomínio Vila da Costa oferece uma ampla área verde, proporcionando contato direto com a natureza, além de salão de festas, churrasqueira e piscina. Excelente localização, com fácil acesso à ES-010, que liga às melhores praias da região, e também à antiga BR-101, facilitando a mobilidade para outras áreas. Uma ótima oportunidade para quem busca conforto, lazer e praticidade! CAR]]></Description>
-        <ListPrice currency="BRL">250000</ListPrice>
+        <ListPrice currency="BRL">225000</ListPrice>
         <LivingArea unit="square metres">45</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -6878,45 +6917,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Camará]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-17219</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos em Jardim Camburi com Excelente Localização! - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-em-jardim-camburi-com-excelente-localizacao/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/2.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/3.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/4.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/5.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/6.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/7.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 2 Quartos em Jardim Camburi com Excelente Localização &#8211; OPORTUNIDADE! Imóvel localizado em Jardim Camburi, próximo a todas as facilidades do bairro, como supermercados, padarias, academias, farmácias, escolas, praças e comércios em geral. • 2 Quartos • 1 Banheiro social • 1 Vaga de garagem coberta • Aproximadamente 54m² O condomínio oferece: • Churrasqueira • Salão de festas • Elevador Diferenciais do imóvel: • Sol da manhã • Ambientes claros • Ventilação cruzada • Armários na cozinha e banheiro • Vista livre Condomínio: R$ 350,00 AND]]></Description>
-        <ListPrice currency="BRL">570000</ListPrice>
-        <LivingArea unit="square metres">54</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vitória]]></City>
-        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
