@@ -6,10 +6,52 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-16T10:54:55</PublishDate>
+    <PublishDate>2026-09-17T11:03:04</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-23762</ListingID>
+      <Title><![CDATA[Oportunidade de casa 02 quartos em Enseada de Jacaraipe-Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-de-casa-02-quartos-em-enseada-de-jacaraipe-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/013c538f-5966-40ed-b1e0-a54017c0348a.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/11493a6e-9c2c-45f8-b114-25c5d5ac1062.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/b9c88a88-921a-4aae-8008-c4f408c69648.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/c30a2a0f-0f11-4568-a76a-21067caba557.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/68bbfade-4126-44f5-9124-aeb4837ee284.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/64caeb43-bab1-4496-89d4-db68aa059e6f.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/9739d78f-6dfd-43fd-8d05-d60d3ad725c1.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/7dff5a28-c2a9-4f81-ad80-a6f981d39b71.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/9ce3e3e0-f76c-436d-ae39-58ce176170a3.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/459a8b0d-f013-4695-87bf-d66c8d33f4e4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa em Enseada de Jacaraípe – Serra – Oportunidade a poucos minutos da praia! Sua casa pronta para morar em uma das regiões que mais crescem na Serra! Localizada no bairro Enseada de Jacaraípe, a poucos minutos da Praia de Capuba, conhecida pelos campeonatos de surfe e por sua orla valorizada, esta casa é uma excelente oportunidade para quem busca conforto, espaço e praticidade. O imóvel conta com 2 quartos amplos e arejados, sala de estar e jantar integradas, cozinha funcional, banheiro social e área de serviço. Possui ainda um quintal amplo, garagem com portão de correr e espaço para 2 carros. A casa é bem arejada e oferece um ambiente agradável para toda a família. O bairro é tranquilo e familiar, com comércio, padaria, mercado, ponto de ônibus e fácil acesso à Avenida Abido Saad e à ES-010. É uma ótima opção tanto para moradia quanto para veraneio ou investimento em aluguel, especialmente por estar em uma região com alta procura durante o verão por moradores do Espírito Santo e turistas de Minas Gerais. A documentação está em dia e o imóvel aceita financiamento. Agende sua visita e venha conhecer essa oportunidade de perto! MG.]]></Description>
+        <ListPrice currency="BRL">330000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Enseada de Jacaraípe]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-24008</ListingID>
       <Title><![CDATA[Oportunidade no Edifício Caiobás - LE]]></Title>
@@ -98,7 +140,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Jardim Atlântico]]></Neighborhood>
+        <Neighborhood><![CDATA[Chácara Parreiral]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -5120,20 +5162,23 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-2-quartos-c-suite-varanda-e-52m%c2%b2-cond-vista-do-atlantico/</DetailViewUrl>
       <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.33.21.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.33.14.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34-4.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.33.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.33-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34-5.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34-3.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.31.34.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-2.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-3.jpeg</Item>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-5.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-3.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-7.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-9.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-8.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.04-3.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.04-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.04-2.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.05-6.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-14.33.21.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-2.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-14.38.38-3.jpeg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -7361,7 +7406,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[O apartamento perfeito para quem busca espaço, conforto, privacidade e sofisticação! Se você procura um imóvel amplo, aconchegante e em uma localização valorizada, acabou de encontrar. Destaques do imóvel: 3 quartos amplos, sendo 1 suíte com ar-condicionado Dependência completa de serviço Sala ampla integrada para até 3 ambientes Varanda com fechamento em vidro Cozinha com armários planejados Área de serviço funcional Fechadura digital 2 acessos independentes Vaga de garagem coberta Um apartamento ideal para quem ama receber amigos e família sem abrir mão do conforto e da privacidade. Localização estratégica em Jardim da Penha: Aproximadamente 450 metros da praia Próximo à UFES Perto de supermercados, farmácias, escolas, praças e muito mais Região com grande potencial de valorização Outro diferencial é a proximidade com o Canal de Camburi, que está sendo revitalizado e trazendo ainda mais qualidade de vida e valorização para a região. Condomínio exclusivo com apenas 7 apartamentos, oferecendo muito mais tranquilidade, segurança e silêncio. Entre em contato e agende sua visita. JHU-KAR]]></Description>
+        <Description><![CDATA[Apartamento no Ed. Baden Baden em Jardim da Penha uma das regiões mais valorizadas de Vitoria O apartamento perfeito para quem busca espaço, conforto, privacidade e sofisticação! Se você procura um imóvel amplo, aconchegante e em uma localização valorizada, acabou de encontrar. Destaques do imóvel: 3 quartos amplos, sendo 1 suíte com ar-condicionado Dependência completa de serviço Sala ampla integrada para até 3 ambientes Varanda com fechamento em vidro Cozinha com armários planejados Área de serviço funcional Fechadura digital 2 acessos independentes Vaga de garagem coberta Um apartamento ideal para quem ama receber amigos e família sem abrir mão do conforto e da privacidade. Localização estratégica em Jardim da Penha: Aproximadamente 450 metros da praia Próximo à UFES Perto de supermercados, farmácias, escolas, praças e muito mais Região com grande potencial de valorização Outro diferencial é a proximidade com o Canal de Camburi, que está sendo revitalizado e trazendo ainda mais qualidade de vida e valorização para a região. Condomínio exclusivo com apenas 7 apartamentos, oferecendo muito mais tranquilidade, segurança e silêncio. Entre em contato e agende sua visita. JHU-KAR]]></Description>
         <ListPrice currency="BRL">1315000</ListPrice>
         <LivingArea unit="square metres">140</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -9063,57 +9108,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-14224</ListingID>
-      <Title><![CDATA[Apartamento 2 Quartos Cond. Viva Laguna- Praia da Baleia - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-cond-viva-laguna-praia-da-baleia/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/0d401aaa-d3c7-486e-bc4e-4e6523dc2ada.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/b1dcb2af-f4e8-4a89-8e91-878c0541ef59.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/76396557-7c38-4fba-b406-e7b8cc247915.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/1f2e2b2e-a8a5-4705-b8ab-8afeeceb6516.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/3b1b6cdb-bf3d-4e34-bd2f-fcbff36322a7.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/7dd5e7a3-4bb7-4726-a5c4-08e65c61d9ec.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/3df3543a-a1c8-4cf6-80b5-bbc2c8f4047a.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/223ddd3b-8533-4ff5-a012-2213f0e1e9b1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/159d4377-db6d-4df6-b884-e481400a55c6.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/594eb329-6e2c-440f-b7e1-2ff291645794.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/acd8ca34-6f56-4f18-bfc6-6f521ad07b98.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/d657ea6a-85f7-4704-96cd-9c5a921cbd52.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/09e6d0da-b535-430b-afc9-bb8230c11b5b.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/0feb44f9-fca3-4de6-b3de-5f077e74a6dc.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/6dfa72fd-b528-48ea-98b6-4616c9b41ce8.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/7b992085-8869-484c-8e38-6487790488f6.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/99a91d40-768e-4619-bd12-fdaa870412d1.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/611b00c9-826b-4327-beb7-36828cb0a09b.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/fe61bd17-3091-43b4-846c-0578415e93dc.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 2 quartos no Condominio Viva Laguna, localizado no bairro Praia da Baleia, ao lado do balneário de Manguinhos, as margens da ES 010, que possibilita facil deslocamento para Vitória, região de Laranjeiras e as demais praias do municipio da Serra. Com ótima localização, próximo a padaria, farmacia, pet shop, supermercado e a todo comércio da região. Apartamento com incidência de sol da manhã, janelas dos quartos com vista livre para o mar. O condominio conta com portaria 24 horas e área de lazer com piscina adulto e infantil, brinquedoteca, quadra poliesportiva, playground, sala de jogos, salão de festas e churrasqueira. 1 vaga de garagem. Torre com elevador. Imóvel apto a financiamento bancário e uso de FGTS. Agende sua visita! Af]]></Description>
-        <ListPrice currency="BRL">230000</ListPrice>
-        <LivingArea unit="square metres">45</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
