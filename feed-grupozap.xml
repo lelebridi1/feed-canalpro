@@ -6,10 +6,175 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-17T11:03:04</PublishDate>
+    <PublishDate>2026-09-18T10:38:53</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-24124</ListingID>
+      <Title><![CDATA[Lindo 2 quartos em Morada de Laranjeiras &#8211; Spazio Vila de Regência - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/lindo-2-quartos-em-morada-de-laranjeiras-spazio-vila-de-regencia/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/3fbd6bb4-c2ba-4a2f-9e74-856644ff0713.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/9be82cf2-4706-432e-b67a-9a1e885df579.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/df7fd566-48f4-4c53-875f-70c87205a72f.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/2cb9944c-5d47-4524-a8e5-c2faa5e3ab05.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/37593f21-a68c-447b-b018-b5849f42bdfd.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/840626c3-a270-4722-9bc2-d168dd6e0253.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/99e0bec8-2f46-4d2c-940f-374f2622da49.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/7ad02eac-e4ae-4971-bca4-340d7be85d61.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/121e51c4-b94d-4a55-86da-ef0a341d7deb.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/3b9a5cdf-5fd9-43c6-b99b-d40b84675b60.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/9d1f01ef-fc00-4043-88d4-2c1e19a6e39b.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/cc717f1e-2175-411a-9c78-f4f59be07e6e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento em Morada de Laranjeiras – Spazio Vila de Regência | Lazer completo! Se você busca praticidade, conforto e uma excelente localização, este apartamento no Spazio Vila de Regência é uma ótima oportunidade para morar ou investir! O imóvel conta com 02 quartos , sala de estar e jantar integradas, cozinha, banheiro social, área de serviço e 01 vaga de garagem . Localizado em andar intermediário, possui ventilação cruzada e excelente circulação de ar , proporcionando ambientes mais agradáveis e arejados. Além disso, conta com ótimo acabamento e está pronto para morar. O condomínio oferece uma estrutura completa de lazer e comodidade para toda a família, com piscina, academia, sauna, salão de festas, salão de jogos, churrasqueira e playground . Localizado em Morada de Laranjeiras , uma região valorizada e com ótima infraestrutura, o imóvel está próximo a comércios, serviços e tudo o que você precisa para facilitar o seu dia a dia. Uma excelente opção para quem deseja morar bem ou investir em uma região que oferece praticidade e qualidade de vida! Agende sua visita e venha conhecer de perto essa oportunidade. FRAN]]></Description>
+        <ListPrice currency="BRL">350000</ListPrice>
+        <LivingArea unit="square metres">44</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-24095</ListingID>
+      <Title><![CDATA[Apartamento 2 quartos com planejados no Cond. Boa Esperança - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-planejados-no-cond-boa-esperanca/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.44.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.44-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.44-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.45-2.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.45-1.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.45.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.21.44-4.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 2 Quartos no Cond. Boa Esperança no coração de Colina de Laranjeiras Apartamento com 50 m², bem distribuídos em 2 quartos com móveis planejados no quarto, sala de estar e jantar integrada, cozinha funcional, área de serviço e banheiro social. O imóvel conta ainda com 1 vaga de garagem. Ideal para quem busca praticidade, acessibilidade e conforto para toda a família. O Condomínio Boa Esperança oferece um ambiente tranquilo, familiar e seguro, com portaria e segurança 24 horas. Conta com área de lazer equipada com espaço gourmet e churrasqueira, piscina e playground, além de um ambiente silencioso e agradável. Localização estratégica no coração de Colina e com fácil acesso a Faculdade, Multivix, Carone, Shopping Mont Serra, farmácias, supermercados etc. proporcionando praticidade para o dia a dia e comodidade para toda a família. Venha conhecer de perto este apartamento e descobrir tudo o que ele pode oferecer para você e sua família! LU]]></Description>
+        <ListPrice currency="BRL">380000</ListPrice>
+        <LivingArea unit="square metres">50</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-24105</ListingID>
+      <Title><![CDATA[Casa com quintal em Enseada de Jacaraipe 380 mil - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-com-quintal-em-enseada-de-jacaraipe-380-mil/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.35.57sss.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.35.57kkklll.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.35.55.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/hhh.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/kkk.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.35.56kkk.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.35.56.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casas Enseada Jacaraípe Duplex novo Pavimento térreo: Sala de estar/jantar e cozinha integradas; ⁠Lavabo; ⁠Lavanderia Pavimento superior: 2 quartos, ⁠2 suítes; Informações Gerais: ⁠72m quadrados de área construídos; Valor: R$ 380.000,00 JHU]]></Description>
+        <ListPrice currency="BRL">380000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Enseada de Jacaraípe]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-24082</ListingID>
+      <Title><![CDATA[Aluguel &#8211; Apartamento 2 quartos &#8211; Cond. Parque Albatroz - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/aluguel-apartamento-2-quartos-cond-parque-albatroz/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/SALA1.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/SALA-3.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/SALA11.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/COZINHA-3.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/COZINHA1-3.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/QUARTO-3.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/QUARTO1-2.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/BANHEIRO-3.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/PISCINA-3.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/PARQUE-2.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/COZINHA2.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Condomínio Parque Albatroz Apartamento de 2 quartos, com sala equipada com sofá e painel, cozinha com móveis planejados e quartos com camas e armários, oferecendo praticidade e conforto para o dia a dia. Sol intermediário e ótima ventilação, proporcionando ambientes bem arejados e agradáveis. Localizado em Colina de Laranjeiras, uma região com fácil acesso a comércios, supermercados, escolas, serviços e principais vias da Serra. O Condomínio Albatroz é uma ótima opção para quem busca praticidade e comodidade em uma das regiões mais procuradas de Colina. Aluguel : R$ 1700,00 Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Agende já sua visita! VIK]]></Description>
+        <ListPrice currency="BRL">1700</ListPrice>
+        <LivingArea unit="square metres">47</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-23762</ListingID>
       <Title><![CDATA[Oportunidade de casa 02 quartos em Enseada de Jacaraipe-Serra - LE]]></Title>
@@ -869,7 +1034,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa Duplex com Quintal em Balneário de Carapebus – Reserva dos Colibris Características do imóvel: Sala ampla, cozinha, 2 quartos, 1 banheiro, quintal com área de serviço integrada, garagem, piscina, salão de festas e churrasqueiras. Casa duplex com ótima distribuição dos ambientes, quintal privativo, sol da manhã com área de lazer e garagem, ideal para quem busca conforto, praticidade e espaço para a família. Localizada em Balneário de Carapebus, a casa fica próxima a escolas, creches, supermercados, padarias, comércios e serviços essenciais, facilitando a rotina do dia a dia. A região também conta com fácil acesso a algumas praias e opções de lazer. Uma excelente oportunidade para quem deseja morar ou investir em uma região tranquila, com boa localização e praticidade. Agende sua visita e venha conhecer! VIK]]></Description>
-        <ListPrice currency="BRL">330000</ListPrice>
+        <ListPrice currency="BRL">350000</ListPrice>
         <LivingArea unit="square metres">50</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -972,6 +1137,55 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[São Francisco]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-23361</ListingID>
+      <Title><![CDATA[Aluguel, Apartamento 3 Quartos no Ilha de Vitoria! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/aluguel-apartamento-3-quartos-no-ilha-de-vitoria/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.30-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.32-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.29-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.32-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.29-3.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.30.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.31-2.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.31-3.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.32-3.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.32.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.31.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.28.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.33.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.31-1.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.30-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.29-2.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-12.23.29.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Localizado em um dos melhores bairros da Serra &#8211; COLINA DE LARANJEIRAS, Apartamento no COND. ILHA DE VITÓRIA Excelente apartamento, pronto para morar! * 3 quartos; * ⁠1 Banheiro social; * Sala; * Varanda; * ⁠Armários na cozinha, banheiros e quarto; * Lazer completo. Aluguel: R$ 2.600,00 com condomínio incluso Excelente localização, próximo a: * Farmácias; * Supermercados; * Pracinhas; * Escolas; * Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! AND]]></Description>
+        <ListPrice currency="BRL">2600</ListPrice>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
