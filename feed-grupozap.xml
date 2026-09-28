@@ -6,10 +6,197 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-09-26T10:53:02</PublishDate>
+    <PublishDate>2026-09-28T13:01:22</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-25243</ListingID>
+      <Title><![CDATA[CASA DUPLEX DE ALTO PADRÃO EM JARDIM CAMBURI – VITÓRIA/ES - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-de-alto-padrao-em-jardim-camburi-vitoria-es/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20160301_155902510_HDR-scaled.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20160301_160053405-scaled.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105553327_HDR-scaled.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_110642295-scaled.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105541263_HDR-scaled.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105613443_HDR-scaled.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105632814-scaled.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105603215-scaled.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105720938-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105449721_HDR-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105229840-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105254806-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105406680-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105339324-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105245842-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20160301_160406723-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105328834-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105415149-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_20170829_105424534_HDR-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[CASA DUPLEX DE ALTO PADRÃO EM JARDIM CAMBURI – VITÓRIA/ES Excelente casa duplex de alto padrão , com 220 m² de área construída , localizada em uma das regiões mais desejadas de Jardim Camburi, a uma quadra da praia em Vitória/ES. O imóvel oferece uma planta ampla, confortável e muito bem distribuída, ideal para quem busca espaço, sofisticação e qualidade de vida . Destaques do imóvel: 4 quartos, sendo 2 suítes ; Sala ampla para 2 ambientes ; Cozinha conceito aberto; Lavabo; Sala íntima no pavimento superior , proporcionando mais privacidade e conforto para a família; Alto padrão de acabamento; Quintal privativo com espaço para churrasqueira , perfeito para momentos de lazer e confraternização; Garagem para 4 carros , sendo 2 vagas cobertas ; Ambientes amplos e bem planejados; Excelente aproveitamento dos espaços. Uma residência que reúne elegância, conforto e funcionalidade , ideal para famílias que valorizam ambientes espaçosos e um imóvel diferenciado. Valor de venda: R$ 1.950.000,00 Jardim Camburi – Vitória/ES LC]]></Description>
+        <ListPrice currency="BRL">1950000</ListPrice>
+        <LivingArea unit="square metres">220</LivingArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>4</Bathrooms>
+        <Garage type="Parking Space">4</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vitória]]></City>
+        <Neighborhood><![CDATA[Jardim Camburi]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-24592</ListingID>
+      <Title><![CDATA[CASA DUPLEX GEMINADA DE ALTO PADRÃO EM NOVA ITAPARICA – VV - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-geminada-de-alto-padrao-em-nova-itaparica-vv/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_100745-scaled.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_101020-scaled.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_101220-scaled.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_100435-scaled.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_100533-scaled.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150228-scaled.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150237-scaled.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150253-scaled.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150500-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150509-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150611-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150625-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260320_101410-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150315-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150533-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260512_150405-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[CASA DUPLEX GEMINADA DE ALTO PADRÃO EM NOVA ITAPARICA – VILA VELHA/ES Conforto, sofisticação e qualidade de vida em um só lugar! Apresentamos esta linda casa duplex geminada com 140 m², cuidadosamente projetada para oferecer ambientes modernos, espaçosos e aconchegantes. Com 2 pavimentos, a propriedade combina praticidade e elegância para toda a família. 3 quartos, sendo 2 suítes 3 banheiros 1 vaga de garagem 140 m² de área total Acabamento de alto padrão Ofurô para momentos de relaxamento Piscina Solário Varanda gourmet Varanda com churrasqueira Cozinha americana Área de serviço Portão eletrônico Box blindex Aceita animais de estimação IPTU anual: R$ 850,00 Sem taxa de condomínio Localização privilegiada em Nova Itaparica, Vila Velha – ES Um imóvel pensado para proporcionar praticidade no dia a dia e momentos especiais com a família. Rua Manoel de Abreu, 300 – Nova Itaparica, Vila Velha/ES Valor: R$ 790.000,00 Entre em contato para mais informações e agende uma visita! LC]]></Description>
+        <ListPrice currency="BRL">790000</ListPrice>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Nova Itaparica]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-25201</ListingID>
+      <Title><![CDATA[Apartamento 2Q à venda – Cond. Res Praia dos Arrecifes - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2q-a-venda-cond-res-praia-dos-arrecifes/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.48.15.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-266-at-10.48.17.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.48.18.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.488.19.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-20266-09-26-at-10.48.22.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-100.48.20.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.48.200.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.448.21.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-22026-09-26-at-10.48.23.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.48.330.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-20226-09-26-at-10.48.29.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente oportunidade para quem busca praticidade, segurança e lazer em um condomínio residencial completo! O imóvel conta com um condomínio com ótima estrutura para toda a família: Portaria 24 horas Playground para as crianças 2 churrasqueiras para momentos de lazer e confraternização Quadra poliesportiva 1 vaga de garagem Condomínio próximo a praia Facilidades na compra Aceita financiamento bancário Pode utilizar o FGTS , conforme as regras da instituição financeira Excelente opção para quem deseja sair do aluguel e conquistar o imóvel próprio! Condomínio Residencial Praia dos Arrecifes Valor de venda: R$ 190.000,00 Valor de Condomínio R$ 350,00 Entre em contato para mais informações e agende sua visita! BOM / FM]]></Description>
+        <ListPrice currency="BRL">190000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Ulisses Guimarães]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-25185</ListingID>
+      <Title><![CDATA[Apartamento 2Q sol da manhã para locação no Enseada de Manguinhos - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2q-sol-da-manha-para-locacao-no-enseada-de-manguinhos/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_090254-scaled.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_090013-scaled.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_090142-scaled.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_090212-scaled.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_090238-scaled.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_085523-scaled.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_085548-scaled.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_085722-scaled.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_085734-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260926_085935-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260709_072615-scaled-1.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260709_072557-scaled-1.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260709_072719-scaled-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[APARTAMENTO 2 QUARTOS PARA LOCAÇÃO – ENSEADA DE MANGUINHOS Apartamento de 2 quartos , com varanda e sol da manhã , proporcionando ambientes agradáveis, iluminados e bem ventilados. Lazer e estrutura completa para toda a família: Piscina Sauna Academia Biblioteca Coworking Salão de festas Churrasqueira Espaços para atividades esportivas Área de lazer infantil Espaço para as crianças Áreas de convivência Estacionamento Condomínio fechado Além de morar em um ambiente completo de lazer, você ainda conta com biblioteca e coworking , oferecendo praticidade tanto para os momentos de descanso quanto para estudo e trabalho. VALOR DA LOCAÇÃO: R$ 2.200,00 CONDIÇÕES DE LOCAÇÃO: 3 meses de caução ou Seguro-fiança, sujeito à análise e aprovação. FM]]></Description>
+        <ListPrice currency="BRL">2200</ListPrice>
+        <LivingArea unit="square metres">48</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Manguinhos]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-25162</ListingID>
       <Title><![CDATA[Excelente ponto comercial, Loja em Laranjeiras em ótima localização! - LE]]></Title>
@@ -179,7 +366,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento de Alto Padrão com Vista para o Mar em Itapoã – Vila Velha/ES Exclusividade, conforto e uma vista privilegiada para o mar! Apresentamos este sofisticado apartamento de 4 quartos, sendo 3 suítes , localizado em uma das regiões mais desejadas de Itapoã, Vila Velha . Com vista para o mar e posição frente, com sol da manhã , o imóvel proporciona ambientes iluminados, ventilados e uma atmosfera agradável em todos os momentos do dia. O apartamento conta com 4 quartos, sendo 3 suítes , excelente distribuição dos ambientes e 3 vagas de garagem , oferecendo espaço e praticidade para toda a família. O condomínio dispõe de lazer completo , proporcionando comodidade e opções de entretenimento sem sair de casa. Destaques do imóvel: • 4 quartos • 3 suítes • 3 vagas de garagem • Vista para o mar • Frente • Sol da manhã • Lazer completo • Localização privilegiada em Itapoã Valor de venda: R$ 3.890.000,00 Condomínio: R$ 1.200.000,00 Uma excelente oportunidade para quem busca alto padrão, conforto, localização e uma vista privilegiada para o mar em Vila Velha. Agende sua visita e venha conhecer este imóvel exclusivo! LC]]></Description>
-        <ListPrice currency="BRL">3890000</ListPrice>
+        <ListPrice currency="BRL">3999000</ListPrice>
         <LivingArea unit="square metres">161</LivingArea>
         <Bedrooms>4</Bedrooms>
         <Bathrooms>5</Bathrooms>
@@ -478,7 +665,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-25137</ListingID>
-      <Title><![CDATA[Casa com 3 Quartos suíte &#8211; Sol da manhã &#8211; Serra Ville - LE]]></Title>
+      <Title><![CDATA[Casa com 3 Quartos suíte – Sol da manhã – Serra Ville - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-com-3-quartos-suite-sol-da-manha-serra-ville/</DetailViewUrl>
@@ -507,7 +694,7 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa com Piscina Privativa e Pomar – Sol da Manhã Oportunidade única para quem procura conforto, espaço e qualidade de vida em Serra Ville! Apresentamos esta espetacular casa com 160 m² de área construída em um terreno total de 300 m² , perfeitamente posicionada para receber o maravilhoso Sol da manhã . Um verdadeiro refúgio urbano pronto para receber a sua família! O que este imóvel exclusivo oferece: 3 Quartos amplos , incluindo 1 suíte aconchegante Sala de estar arejada , ideal para momentos em família. Cozinha espaçosa com excelente disposição interna. Varanda Área Externa Piscina privativa para os dias de descanso e lazer. Quintal amplo e totalmente murado , garantindo total privacidade e segurança para crianças e animais de estimação. Pequeno pomar já formado para colher frutas frescas no próprio quintal. Garagem generosa para até 4 carros . Localização Estratégica: Situada em Serra Ville , uma região em pleno crescimento e valorização. A casa fica estrategicamente próxima à nova estrada que liga a Serra Sede , facilitando o seu dia a dia com acesso rápido a comércios, serviços e vias principais. JH]]></Description>
         <ListPrice currency="BRL">450000</ListPrice>
-        <LivingArea unit="square metres">160</LivingArea>
+        <LivingArea unit="square metres">300</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>2</Bathrooms>
         <Garage type="Parking Space">4</Garage>
@@ -8073,6 +8260,56 @@
         <City><![CDATA[Vila Velha]]></City>
         <Neighborhood><![CDATA[Centro de Vila Velha]]></Neighborhood>
         <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-18363</ListingID>
+      <Title><![CDATA[Casa Linear 4 quartos – Vista da Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-linear-4-quartos-vista-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/9-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/8-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/12-1-scaled.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/10-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/11-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/13-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/23-scaled.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/22-scaled.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/21-scaled.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/19-scaled.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/18-scaled.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/15-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/7-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/5-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/6-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/17-scaled.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/14-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/06/4-2-scaled.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Detalhes do Imóvel: * 4 Quartos, sendo 1 suíte com closet * Móveis Planejados * Toda em Porcelanato * Piscina * Energia Solar * Quintal amplo com área gourmet e churrasqueira * 200 M de área construída, distrinuidos com conforto e funcionalidade * 300m de Terreno * 03 Vagas de Garagem Perto da Pracinha, Ativa Material de Construção, Ônibus passa em frente. JH]]></Description>
+        <ListPrice currency="BRL">649900</ListPrice>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">3</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Vista da Serra II]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Casa Imobiliaria ES</Name>
