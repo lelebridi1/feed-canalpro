@@ -6,10 +6,58 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-03T11:10:48</PublishDate>
+    <PublishDate>2026-10-04T11:50:35</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-26101</ListingID>
+      <Title><![CDATA[Apartamento | último andar | elevador | Viva Laguna | R$ 258 mil - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-ultimo-andar-elevador-viva-laguna-r-258-mil/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_86_d657ea6a-85f7-4704-96cd-9c5a921cbd52.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_67_0d401aaa-d3c7-486e-bc4e-4e6523dc2ada.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.34-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.31.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.32o.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.33.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.34.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.32.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.35.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/o.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_95_6dfa72fd-b528-48ea-98b6-4616c9b41ce8.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_92_0feb44f9-fca3-4de6-b3de-5f077e74a6dc.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_101_99a91d40-768e-4619-bd12-fdaa870412d1.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_89_09e6d0da-b535-430b-afc9-bb8230c11b5b.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_104_611b00c9-826b-4327-beb7-36828cb0a09b.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_66_fe61bd17-3091-43b4-846c-0578415e93dc.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[apartamento 2 quartos | último andar | elevador | R$ 258 mil Se você busca praticidade, lazer completo e proximidade com a Praia de Manguinhos , esta é uma excelente oportunidade. Apartamento com 45 m² , muito bem distribuídos, localizado no Viva Laguna , Praia da Baleia, Serra/ES. Destaques do imóvel • 2 quartos • 1 banheiro • Último andar • Elevador • 1 vaga de garagem • Portaria 24 horas Condomínio com lazer completo Piscinas adulto e infantil, salão de festas, quadra poliesportiva, playground, espaço kids, pet place, bicicletário, sala de jogos, churrasqueira, mercadinho. Além disso, você estará próximo a restaurantes, supermercado, farmácias e diversos serviços , com acesso rápido à Orla de Manguinhos. R$ 258 mil. Uma oportunidade para morar perto da praia ou investir em uma região com excelente estrutura e qualidade de vida. Agende sua visita e conheça. JHU-RNT]]></Description>
+        <ListPrice currency="BRL">258000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-23346</ListingID>
       <Title><![CDATA[Casa novinha + quintal enorme em Lagoa Juara Jacaraípe Serra/ES - LE]]></Title>
