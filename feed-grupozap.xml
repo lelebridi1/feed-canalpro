@@ -6,10 +6,51 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-11T12:10:53</PublishDate>
+    <PublishDate>2026-10-12T14:32:53</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-27004</ListingID>
+      <Title><![CDATA[Apartamento 1 quarto Mobiliado em Costa Dourada – Serra/ES - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-1-quarto-mobiliado-em-costa-dourada-serra-es/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23-1.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.22-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23-3.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23-2.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23-4.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.23-5.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.22.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-08.52.22-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento Mobiliado em Costa Dourada – Serra/ES Imóvel: Apartamento mobiliado, com 40,69 m² de área privativa e 47,71 m² de área total. O imóvel conta com 1 quarto, sala e cozinha, banheiro, área de serviço, varanda e 1 vaga de garagem, oferecendo praticidade e funcionalidade para o dia a dia. Condomínio: Condomínio com poucas unidades, proporcionando um ambiente tranquilo e familiar, ideal para quem busca mais tranquilidade e praticidade na moradia. Localização: Localizado no bairro Costa Dourada, na Serra/ES, o imóvel fica próximo à praia e possui fácil acesso à ES-010, à Avenida Talma Rodrigues Ribeiro e à Avenida Audifax Barcelos. A localização facilita o deslocamento para outras regiões e oferece praticidade para quem deseja morar perto do mar. Entre em contato para mais informações e agende uma visita! AM]]></Description>
+        <ListPrice currency="BRL">165000</ListPrice>
+        <LivingArea unit="square metres">47</LivingArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Costa Dourada]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-26782</ListingID>
       <Title><![CDATA[EXCLUSIVIDADE E SOFISTICAÇÃO A POUCAS QUADRAS DA PRAIA DE ITAPUÃ! - LE]]></Title>
