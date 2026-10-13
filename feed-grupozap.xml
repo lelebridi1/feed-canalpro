@@ -6,7 +6,7 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-12T14:32:53</PublishDate>
+    <PublishDate>2026-10-13T13:38:43</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
@@ -305,7 +305,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento Térreo com Quintal no Vista de Manguinhos Manguinhos é uma das regiões que merecem atenção no mercado imobiliário da Serra! Em um momento de expansão e valorização, a região se destaca como uma excelente oportunidade para quem deseja conquistar seu imóvel próprio ou investir pensando no futuro. Apresentamos este excelente apartamento térreo no condomínio Vista de Manguinhos, ideal para quem busca conforto, praticidade e um diferencial cada vez mais valorizado: quintal privativo na frente do imóvel! O apartamento possui 2 quartos, piso em granito e cozinha com armários, oferecendo mais praticidade e funcionalidade para o dia a dia. Por ser térreo e contar com quintal frontal, proporciona um espaço extra para criar um ambiente gourmet, montar um jardim ou aproveitar momentos especiais com a família. O condomínio oferece lazer completo, garantindo mais comodidade, diversão e qualidade de vida para você e sua família. Destaques do imóvel: 2 quartos Apartamento térreo Quintal privativo frontal Piso em granito Cozinha com armários Condomínio com lazer completo Localização em Manguinhos, na Serra Valor de venda: R$ 275.000,00 Invista em Manguinhos, uma região com potencial de crescimento e valorização imobiliária! Com a expansão da Serra e o desenvolvimento da região, este pode ser o momento ideal para garantir seu imóvel e aproveitar as oportunidades do mercado. Entre em contato para mais informações e agende sua visita. Não perca essa oportunidade de morar bem e investir com visão de futuro! DNO]]></Description>
-        <ListPrice currency="BRL">275000</ListPrice>
+        <ListPrice currency="BRL">290000</ListPrice>
         <LivingArea unit="square metres">45</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -907,7 +907,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-26475</ListingID>
-      <Title><![CDATA[CASA DUPLEX NO SETOR ÁSIA 4 QUARTOS E PISCINA - LE]]></Title>
+      <Title><![CDATA[Casa Duplex no Setor Ásia 4 Quartos e Piscina - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/refugio-particular-no-setor-asia-4-quartos-e-piscina/</DetailViewUrl>
@@ -2602,20 +2602,20 @@
         <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_165827-scaled.jpg</Item>
         <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_165941-scaled.jpg</Item>
         <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_170015-scaled.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_165959-scaled.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163305-scaled.jpg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163056-scaled.jpg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163111-scaled.jpg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163318-scaled.jpg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163956-scaled.jpg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163659-scaled.jpg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163936-scaled.jpg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_170034-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_170034-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20261009_165959-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163305-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163056-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163111-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163318-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163956-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163659-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/20260506_163936-scaled.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[EXCLUSIVIDADE E CONFORTO EM ITAPOÃ – VILA VELHA/ES Se você busca um apartamento que reúna conforto, praticidade e uma localização privilegiada , esta é uma excelente oportunidade! Este elegante apartamento de 69 m² conta com uma planta funcional e muito bem distribuída, oferecendo 2 quartos, sendo 2 suítes , garantindo privacidade e conforto para moradores e visitantes. Localizado em posição frente e com sol da manhã , proporciona ambientes agradáveis, iluminados e com excelente incidência solar. Além disso, o condomínio oferece lazer completo , criando uma estrutura perfeita para aproveitar momentos de descanso e diversão sem sair de casa. 01 vaga de garagem Frente | Sol da manhã 2 quartos | 2 suítes 69 m² Lazer completo Itapoã – Vila Velha/ES Valor de venda: R$ 795.000,00 Condomínio: R$ 1.050,00 Uma excelente escolha para quem deseja morar bem ou investir em uma das regiões mais valorizadas e desejadas de Vila Velha . Agende sua visita e venha conhecer este imóvel de perto! LC Costa do Hawaii]]></Description>
+        <Description><![CDATA[EXCLUSIVIDADE E CONFORTO EM ITAPOÃ – VILA VELHA/ES Se você busca um apartamento que reúna conforto, praticidade e uma localização privilegiada , esta é uma excelente oportunidade! Este elegante apartamento de 69 m² conta com uma planta funcional e muito bem distribuída, oferecendo 2 quartos, sendo 2 suítes , garantindo privacidade e conforto para moradores e visitantes. Localizado em posição frente e com sol da manhã , proporciona ambientes agradáveis, iluminados e com excelente incidência solar. Além disso, o condomínio oferece lazer completo , criando uma estrutura perfeita para aproveitar momentos de descanso e diversão sem sair de casa. 01 vaga de garagem Frente | Sol da manhã 2 quartos | 2 suítes 69 m² Lazer completo Itapoã – Vila Velha/ES Valor de venda: R$ 795.000,00 Condomínio: R$ 1.050,00 Uma excelente escolha para quem deseja morar bem ou investir em uma das regiões mais valorizadas e desejadas de Vila Velha . Agende sua visita e venha conhecer este imóvel de perto! LC Costa do Hawaii CEP 29.101-670]]></Description>
         <ListPrice currency="BRL">795000</ListPrice>
         <LivingArea unit="square metres">69</LivingArea>
         <Garage type="Parking Space">1</Garage>
