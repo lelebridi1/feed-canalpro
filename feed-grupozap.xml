@@ -6,7 +6,7 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-13T13:38:43</PublishDate>
+    <PublishDate>2026-10-14T11:17:28</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
@@ -163,7 +163,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Land Lot</PropertyType>
         <Description><![CDATA[OPORTUNIDADE DE INVESTIMENTO EM PRAIA GRANDE, FUNDÃO – ES 3 LOTES À VENDA | LOCALIZAÇÃO ESTRATÉGICA | POTENCIAL DE VALORIZAÇÃO Excelente oportunidade para quem busca investir em imóveis no litoral do Espírito Santo. São três lotes disponíveis para venda em Praia Grande, no município de Fundão. Com metragens de 300 m² e 312 m² e configurações diferenciadas de frente, os terrenos oferecem alternativas para quem deseja construir, investir ou avaliar possibilidades de desenvolvimento residencial ou comercial. O grande diferencial está na localização e na disposição dos terrenos, especialmente na opção com frente voltada para a rodovia. LOTES DISPONÍVEIS PARA VENDA LOTE 01 Área total: 312 m² Lote com 2 frentes, sendo uma voltada para a BR. Uma opção diferenciada para quem busca visibilidade, facilidade de acesso e potencial de aproveitamento estratégico do terreno. LOTE 02 Área total: 300 m² Lote do meio, ideal para quem procura uma oportunidade de investimento com excelente possibilidade de aproveitamento da área. LOTE 03 Área total: 312 m² Lote com 2 frentes, oferecendo versatilidade de acesso e possibilidades para diferentes projetos, conforme as características do terreno. POR QUE INVESTIR NESTA OPORTUNIDADE? Localização em Praia Grande, Fundão – ES. Três opções de terrenos com metragens diferenciadas. Oportunidade de aquisição conjunta. Alternativas para investimento patrimonial e projetos de construção. Um lote com frente para a BR, agregando um diferencial de localização. VALOR DE VENDA A partir de 210.000,00 NÃO PERCA ESTA OPORTUNIDADE! Seja para investir, construir ou ampliar seu patrimônio, esta pode ser a oportunidade que você procura em Praia Grande, Fundão – ES. Entre em contato para obter mais informações e agendar uma visita. Conheça os terrenos pessoalmente e avalie todo o potencial desta oportunidade imobiliária. PA]]></Description>
-        <ListPrice currency="BRL">210000</ListPrice>
+        <ListPrice currency="BRL">760000</ListPrice>
         <LivingArea unit="square metres">924</LivingArea>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -4655,49 +4655,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Parque Residencial Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-23952</ListingID>
-      <Title><![CDATA[Apartamento no Condomínio Ilha Bela em Colina de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-no-condominio-ilha-bela-em-colina-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.35-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.35.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.34-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.34-2.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.35-3.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.35-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.35-4.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.36-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.36-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.36-3.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.43.36.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento sol da manhã, vista livre no Condomínio Ilha Bela em Colina de Laranjeiras!! Destaques do imóvel: 2 quartos, Varanda, Vista livre eterna, Andar alto, super ventilado, Piso laminado e armários modulados, ambientes bem distribuídos, Condomínio com área de lazer completa e portaria 24hs ! Imóvel desocupado!! RM]]></Description>
-        <ListPrice currency="BRL">380000</ListPrice>
-        <LivingArea unit="square metres">52</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -12186,54 +12143,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-14268</ListingID>
-      <Title><![CDATA[Lindíssima casa duplex em Solar do porto - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/lindissima-casa-duplex-em-solar-do-porto/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-8.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-13.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-20.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-15.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-5.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-18.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-14.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-19.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-10.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-11.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-16.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-9.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-7.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-6.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-3.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-15.52.27-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Oportunidade para você e sua família Casa duplex em Solar do Porto O imóvel é composto de 3 quartos sendo um suíte. Na parte térreo você conta com sala de estar e jantar , cozinha americana , lavabo , quintal nos fundos e duas vagas de garagem. Na parte superior são 3 quartos com suíte e closet, corredor espaçoso e bem arejado. O melhor está em seu acabamento com piso em porcelanato Biancogrês de 1,20 M, bancadas em granito, nichos no banheiro e sacada na suíte. O bairro Solar do Porto fica ao lado de Porto Canoa onde você pode desfrutar de todo o comércio e infraestrutura necessários para melhor comodidade da sua família. Solar do Porto está a 10 minutos da Laranjeiras com acesso a Avenida Norte Sul e BR 101. Fica com acesso rápido a região de Jacaraípe pela Audifax Barcelos. Agende agora sua visita e não perca tempo!!! DNO]]></Description>
-        <ListPrice currency="BRL">669000</ListPrice>
-        <LivingArea unit="square metres">130</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
