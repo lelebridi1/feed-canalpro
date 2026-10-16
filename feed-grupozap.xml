@@ -6,10 +6,453 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-15T10:55:24</PublishDate>
+    <PublishDate>2026-10-16T10:47:20</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-27345</ListingID>
+      <Title><![CDATA[Apartamento 2+1 Sol Da Manhã – Cond. Vista do Limoeiro clube completo - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-21-sol-da-manha-cond-vista-do-limoeiro-clube-completo/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.25.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.28.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.28-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.26.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.24.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.26-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.27.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.27-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.27-2.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.17.27-3.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento 2+1 quartos com lazer completo no Vista do Limoeiro – a 5 minutos de Jardim Camburi Apartamento no condomínio Vista do Limoeiro, em São Diogo II, composto por 2+1 quartos, sala ampla para dois ambientes, cozinha com armários planejados e bancada em granito, área de serviço integrada e banheiro. O imóvel recebe o sol da manhã, proporcionando boa iluminação natural e ambientes mais arejados. O condomínio oferece estrutura completa de lazer, com academia, duas áreas de playground, salão de festas com churrasqueira, bicicletário e piscinas adulto e infantil, proporcionando comodidade para toda a família. Localizado em São Diogo II, o condomínio fica próximo a escolas, farmácias e comércios, além de oferecer fácil acesso à ES-010, facilitando o deslocamento para diversas praias da Serra. Está também a aproximadamente 5 minutos de Jardim Camburi, em Vitória. Uma ótima opção para quem busca praticidade, lazer e boa localização para morar. 29163-162 FRAN]]></Description>
+        <ListPrice currency="BRL">299999</ListPrice>
+        <LivingArea unit="square metres">53</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Jardim Limoeiro]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27331</ListingID>
+      <Title><![CDATA[Apartamento Exclusivo de 140 m² | Conforto, Elegância e Sofisticação - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-exclusivo-de-140-m%c2%b2-conforto-elegancia-e-sofisticacao/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121244-scaled.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122035-scaled.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121426-scaled.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121409-scaled.jpg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121200-scaled.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121352-scaled.jpg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121440-scaled.jpg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122128-scaled.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122148-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122151-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121515-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121551-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121657-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121627-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121946-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121610-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121733-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_121746-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122725-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/20250319_122853-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Descubra um apartamento que reúne amplitude, conforto e praticidade em cada detalhe. Com 140 m² de área privativa , este imóvel é ideal para quem valoriza ambientes espaçosos, excelente iluminação natural e uma planta que privilegia a integração dos espaços. Destaques do imóvel: 3 quartos, sendo 1 suíte , proporcionando conforto e privacidade para toda a família; Sol da manhã , garantindo luminosidade natural e maior bem-estar; Ampla sala para dois ambientes , perfeita para receber convidados e desfrutar de momentos especiais; Cozinha em conceito aberto, montada , integrada à área social, trazendo modernidade e funcionalidade; Piso em porcelanato , que agrega elegância e sofisticação aos ambientes; Banheiros com armários , oferecendo praticidade e organização; Varanda com fechamento em vidro , ideal para aproveitar melhor o espaço; 1 vaga de garagem . Lazer e comodidade O condomínio oferece uma estrutura de lazer para aproveitar os melhores momentos sem sair de casa, com piscina, churrasqueira e salão de festas, criando o ambiente ideal para reunir familiares e amigos. Uma excelente oportunidade para quem busca espaço, conforto e qualidade de vida em um imóvel diferenciado. Valor de venda: R$ 1.050.000,00 Agende sua visita e venha conhecer pessoalmente este apartamento que pode ser o próximo endereço dos seus sonhos! LC Romanza 29.101-300]]></Description>
+        <ListPrice currency="BRL">1050000</ListPrice>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Vila Velha]]></City>
+        <Neighborhood><![CDATA[Itapoã]]></Neighborhood>
+        <PostalCode>29100-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27249</ListingID>
+      <Title><![CDATA[Linda casa linear 3 quartos suíte, com área gourmet - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/linda-casa-linear-3-quartos-suite-com-area-gourmet/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.25.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.26-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.26-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.26.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.27-1.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.27.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.31-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.31-2.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.31.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.32.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.27-2.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.28-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.28-2.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.28.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.29-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.29-2.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.30-1.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.38.30-2.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Sobre Casa linear 3 quartos com ampla área gourmet, em Colina de Laranjeiras- Serra Casa com área total de terreno de 200m², área construída de 155m², bem distribuídos em 3 quartos sendo um com suíte, escritório, sala de estar e jantar integrada, cozinha funcional, com área de serviço, banheiro social, lavabo, além de uma linda área gourmet com churrasqueira. O imóvel conta ainda com 2 vagas de garagem. Ideal para quem busca praticidade, acessibilidade e conforto para toda a família. Localização estratégica no Colina de Laranjeiras, fácil acesso a BR-101, aeroporto, shoppings, hospitais, escolas, próximo a escolas, creches, padarias, farmácias etc. proporcionando praticidade para o dia a dia e comodidade para toda a família. Venha conhecer de perto está linda residência e descobrir tudo de bom que ela pode oferecer para você e sua família! Aceita imóvel de menor valor 2 quartos, suíte, elevador na negociação nos bairros: Jardim Camburi, Colina de Laranjeiras. Aceita financiamento bancário MG]]></Description>
+        <ListPrice currency="BRL">1100000</ListPrice>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27223</ListingID>
+      <Title><![CDATA[Excelente 2 Quartos Quintal Sol da Manhã no Viva Laguna - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-2-quartos-quintal-sol-da-manha-no-viva-laguna/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.47.50.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.09-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.08.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.08-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.13.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.11-2.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.10-3.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.11.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.10.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.02.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.07.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.01-4.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.01.01-3.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento de 2 quartos mobiliado com quintal no Condomínio Viva Laguna! Se você procura conforto, praticidade e qualidade de vida, este imóvel é uma excelente opção! Localizado no Condomínio Viva Laguna, este apartamento conta com 2 quartos, mobiliado, quintal privativo e vaga de garagem, oferecendo praticidade e comodidade para você e sua família. O imóvel possui sol da manhã, proporcionando excelente iluminação natural e ambientes mais agradáveis. Conta ainda com ar-condicionado, cozinha americana integrada, piso em porcelanato e área de serviço, reunindo funcionalidade e modernidade para o seu dia a dia. Um dos grandes diferenciais é o quintal privativo, ideal para quem valoriza um espaço extra para relaxar, aproveitar momentos em família ou receber amigos. O imóvel também dispõe de churrasqueira, perfeita para confraternizações e momentos especiais. O Condomínio Viva Laguna oferece uma excelente estrutura de lazer, com piscina, espaço kids, sala de jogos, salão de festas e quadra poliesportiva, proporcionando diversão e bem-estar para toda a família. Tudo isso em um ambiente que une conforto, praticidade e lazer, tornando este apartamento uma ótima opção para quem deseja morar bem. FB/JH]]></Description>
+        <ListPrice currency="BRL">320000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27218</ListingID>
+      <Title><![CDATA[Oportunidade no Vila de Manguinhos para locação! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-no-vila-de-manguinhos-para-locacao/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.55-1.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.53.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.53-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-06-30-at-14.59.43.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.54.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.55.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-07-06-at-14.48.54-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Localizado em um dos melhores bairros da Serra, em Morada de Laranjeiras, Apartamento no Condomínio Vila de Manguinhos 📍 | Sol intermediário | Área edificada: 38 m² | Andar Alto Excelente apartamento, pronto para morar, composto por: • 2 quartos; • Sala; • Varanda privativa; • Cozinha com modulados; • Banheiro social; • Lazer completo. 💰 Aluguel: R$ 2.000,00 (condomínio incluso). 🤝 Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . 📍 Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. 📞 Agende sua visita e venha conhecer seu novo lar! Casaimobies &#8211; DS]]></Description>
+        <ListPrice currency="BRL">2000</ListPrice>
+        <LivingArea unit="square metres">38</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27201</ListingID>
+      <Title><![CDATA[Apartamento 2 Quartos com suíte e closet – Valparaiso – Dream Park - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-com-suite-e-closet-valparaiso-dream-park/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.17.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.16.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.16-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.14.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.14-1.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.13-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.07.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.19.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.18.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.18-2.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.18-1.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.17-2.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.13.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.12.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.01.12-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.00.50.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.00.43.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/pisc-dream.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/d39b33a2-88bc-436e-989e-3372a50f0606.jpg</Item>
+        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.00.44-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Condomínio Dream Parque em Valparaíso Apartamento 2 quartos com suíte e closet | Valparaíso – Serra/ES Este apartamento é ideal para quem busca conforto, praticidade e qualidade de vida. São 2 quartos, sendo 1 suíte com closet, sala ampla para dois ambientes, cozinha com armários planejados e armários planejados em todos os ambientes, proporcionando melhor aproveitamento dos espaços, organização e funcionalidade para o dia a dia. O condomínio oferece uma excelente estrutura de lazer para toda a família, com churrasqueira, piscina, quadra esportiva, playground, espaço gourmet, home cinema, salão de festas infantil, lan house, salão de festas e salão de jogos. Um ambiente pensado para proporcionar momentos de diversão, convivência e bem-estar sem precisar sair de casa. Localizado no bairro Valparaíso, na Serra, o imóvel está em uma região tranquila, próximo ao Parque da Cidade e com infraestrutura completa para facilitar a rotina. O bairro se destaca pelo crescimento e potencial de valorização imobiliária, tornando este apartamento uma excelente oportunidade tanto para quem busca um novo lar quanto para quem deseja investir em um imóvel com boas perspectivas de valorização. TJZ]]></Description>
+        <ListPrice currency="BRL">545000</ListPrice>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27018</ListingID>
+      <Title><![CDATA[Apartamento para aluguel no Cond Vila da Mata Planície da Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-para-aluguel-no-cond-vila-da-mata-planicie-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-18-at-12.11.08.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.51.14.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.51.14d.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.51.15.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.51.16ssaa.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.51.16.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/aaa.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento para aluguel | condomínio Vila da Mata Planície da Serra Apartamento no 5º andar , com excelente custo-benefício para quem busca praticidade e um imóvel pronto para morar. ✨ 2 quartos ✨ Modulados novos ✨ Móveis novos ✨ 5º andar ✨ Condomínio Vila da Mata 💰 aluguel: R$ 1.600 condomínio incluso Uma ótima oportunidade para morar com conforto e praticidade em Planície da Serra. JHU]]></Description>
+        <ListPrice currency="BRL">1600</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Planície da Serra]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-25812</ListingID>
+      <Title><![CDATA[Apartamento mobiliado para alugar, pronto para morar! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-mobiliado-para-alugar-pronto-para-morar/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.06.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.05.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.02-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.02.58.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.02.59.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.08.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.07-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.02.59-2.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.11.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-09.03.10.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Oportunidade para morar em uma unidade toda mobiliada no condomínio Vale da Lagoa! | Sol da manhã | Área edificada: 40 m² Excelente apartamento, pronto para morar, composto por: • 2 quartos com camas e guarda-roupas; • Sala completa; • Cozinha com armários; • Banheiro social; • Lazer completo. Aluguel: R$ 2.300,00 (Com condomínio incluso). IPTU: R$ 250,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! Casaimobies &#8211; RNT]]></Description>
+        <ListPrice currency="BRL">2300</ListPrice>
+        <LivingArea unit="square metres">40</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Nova Zelândia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27168</ListingID>
+      <Title><![CDATA[Condomínio Vila de Manguinhos para locação! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/condominio-vila-de-manguinhos-para-locacao/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.58-1-1.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.58-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.55-1-1.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.57-3.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.56-3-1.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/download-12.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/download-1-2.png</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.56-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.55-3-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-16-at-10.03.57-1-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Localizado em um dos melhores bairros da Serra, em Morada de Laranjeiras, Apartamento no Condomínio Vila de Manguinhos 📍 | Sol intermediário | Área edificada: 55 m² | Térreo com varanda espaçosa Excelente apartamento, pronto para morar, composto por: • 2 quartos; • Sala; • Varanda privativa; • Cozinha com modulados; • Banheiro social; • Lazer completo. 💰 Aluguel: R$ 2.600,00 (condomínio incluso). 🤝 Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . 📍 Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. 📞 Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
+        <ListPrice currency="BRL">2600</ListPrice>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-26599</ListingID>
+      <Title><![CDATA[Casa linear em Residencial Centro da Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-linear-em-residencial-centro-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.41.51-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.41.25.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.42.30.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.47.11.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.47.40.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.48.11.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.48.32.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.43.03.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.41.51.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.41.51-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa linear com quinatl amplo &#8211; Residencial Centro da serra Casa linear composta por 2 quartos, banheiro, cozinha americana, sala, área de serviço, oferecendo uma planta prática e funcional para o dia a dia. O imóvel conta ainda com um amplo quintal, que proporciona diversas possibilidades: você pode criar uma área gourmet, um espaço de lazer para a família ou até mesmo aproveitar o espaço para um futuro projeto visando a geração de renda. Localizada em rua tranquila e residencial,com fácil acesso à principal via do bairro, trazendo praticidade para a rotina e acessonaos comércios e serviços da região. Uma ótima oportuidade para quem busca espaço, tranquilidade e potencial de valorização! Não aceita financiamento bancário CAR]]></Description>
+        <ListPrice currency="BRL">265000</ListPrice>
+        <LivingArea unit="square metres">305</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-27080</ListingID>
       <Title><![CDATA[Belíssima casa 3 Q c/suíte/Cond Chácara Flora – Morada de Laranjeiras! - LE]]></Title>
@@ -534,7 +977,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Seu novo lar está esperando por você em Porto Canoa! Imagine morar em um apartamento novo, praticamente todo mobiliado, com uma estrutura completa de lazer e uma localização que facilita sua rotina. Localizado no Condomínio Vista Mata da Serra , este imóvel é ideal para quem busca conforto, praticidade e qualidade de vida, sem abrir mão da comodidade de ter tudo por perto. Destaques do apartamento 3 quartos 54,53 m² de área 6º andar, em torre de 8 pavimentos Imóvel novo, nunca habitado Praticamente todo mobiliado Armários na cozinha e nos quartos 1 banheiro 1 vaga de garagem Sem incidência direta do sol da manhã ou da tarde Um condomínio completo para sua família! Mais do que um lugar para morar, um espaço para aproveitar bons momentos e desfrutar de uma rotina com mais conforto. Piscina Academia Quadra esportiva Salão de festas Espaço infantil Mercado de conveniência Elevador Portaria 24 horas Feira semanal dentro do próprio condomínio! Um diferencial que proporciona ainda mais praticidade para suas compras e para o dia a dia. Localização que faz a diferença! Situado em Porto Canoa, na Serra/ES, o apartamento está a poucos metros da avenida principal, oferecendo fácil acesso a diversos serviços e comodidades. Nas proximidades, você encontra: Supermercado Extrabom Academia Wellness Ciclovia para caminhadas, corridas e passeios Comércios e serviços essenciais da região Tudo isso para você aproveitar mais o seu tempo e ter uma rotina muito mais prática. Investimento: R$ 465.000,00 ACEITA FINANCIAMENTO BANCÁRIO! E para facilitar ainda mais sua conquista, o proprietário aceita carro popular como parte do pagamento, mediante avaliação e negociação. Uma excelente oportunidade para quem deseja conquistar um apartamento novo, praticamente todo mobiliado, em um condomínio com lazer completo e localização estratégica. Gostou? Agende sua visita e venha conhecer de perto tudo o que esse imóvel tem a oferecer! TR]]></Description>
+        <Description><![CDATA[Seu novo lar está esperando por você em Porto Canoa! Imagine morar em um apartamento novo, praticamente todo mobiliado, com uma estrutura completa de lazer e uma localização que facilita sua rotina. Localizado no Condomínio Vista Mata da Serra , este imóvel é ideal para quem busca conforto, praticidade e qualidade de vida, sem abrir mão da comodidade de ter tudo por perto. Destaques do apartamento 3 quartos 54,53 m² de área 6º andar, em torre de 8 pavimentos Imóvel novo, nunca habitado Praticamente todo mobiliado Armários na cozinha e nos quartos 1 banheiro 1 vaga de garagem Sem incidência direta do sol da manhã ou da tarde Um condomínio completo para sua família! Mais do que um lugar para morar, um espaço para aproveitar bons momentos e desfrutar de uma rotina com mais conforto. Piscina Academia Quadra esportiva Salão de festas Espaço infantil Mercado de conveniência Elevador Portaria 24 horas Feira semanal dentro do próprio condomínio! Um diferencial que proporciona ainda mais praticidade para suas compras e para o dia a dia. Localização que faz a diferença! Situado em Porto Canoa, na Serra/ES, o apartamento está a poucos metros da avenida principal, oferecendo fácil acesso a diversos serviços e comodidades. Nas proximidades, você encontra: Supermercado Extrabom Academia Wellness Ciclovia para caminhadas, corridas e passeios Comércios e serviços essenciais da região Tudo isso para você aproveitar mais o seu tempo e ter uma rotina muito mais prática. Investimento: R$ 465.000,00 ACEITA FINANCIAMENTO BANCÁRIO! E para facilitar ainda mais sua conquista, o proprietário aceita carro popular como parte do pagamento, mediante avaliação e negociação. Uma excelente oportunidade para quem deseja conquistar um apartamento novo, praticamente todo mobiliado, em um condomínio com lazer completo e localização estratégica. Gostou? Agende sua visita e venha conhecer de perto tudo o que esse imóvel tem a oferecer! TR Vista da Mata da Serra Cep: 29168-603]]></Description>
         <ListPrice currency="BRL">465000</ListPrice>
         <LivingArea unit="square metres">54</LivingArea>
         <Bedrooms>3</Bedrooms>
@@ -1146,53 +1589,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-26389</ListingID>
-      <Title><![CDATA[Condomínio Veredas Buritis | Colina de Laranjeiras | Locação - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/condominio-veredas-buritis-colina-de-laranjeiras-locacao/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.00.57.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.00.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.00-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.01-1.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.01-2.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.05-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.05.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.02-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.01-3.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.02-2.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.02-3.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.03.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.04.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.01-4.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.04-1.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.01.06-4.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento para locação no Condomínio Veredas Buritis em Colina de Laranjeiras | Serra &#8211; ES 02 quartos sendo 01 suíte; Sol da manhã; 63m²; varanda goumet; andar alto e muito bem ventilado; 01 vaga coberta ao lado da entrada do bloco; Lazer completo com estrutura de clube. Localização privilegiada em Colina de Laranjeiras, ao lado do Shopping Mont Serrat. Um condomínio Club para quem valoriza conforto, lazer, praticidade e localização. RM.]]></Description>
-        <ListPrice currency="BRL">2800</ListPrice>
-        <LivingArea unit="square metres">63</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-26359</ListingID>
       <Title><![CDATA[Lindo Apartamento de 3 Quartos no Condomínio Vista dos Ipês - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -1406,7 +1802,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Um empreendimento pensado para quem busca alto padrão, conforto e uma experiência completa de morar bem , em uma das regiões mais valorizadas de Vitória. Este elegante apartamento conta com 4 quartos, sendo 2 suítes , em uma planta cuidadosamente planejada para oferecer amplitude, conforto e privacidade. Localizado em um empreendimento de arquitetura contemporânea e em construção , o projeto reúne uma estrutura de lazer diferenciada, digna de um verdadeiro clube privativo. LAZER COMPLETO E SOFISTICADO O condomínio oferece uma infraestrutura excepcional para todas as idades, com: Piscina oceânica Quadra de tênis profissional Quadra poliesportiva Campo de futebol Piscinas e áreas de convivência Salão gourmet Sauna Salão de jogos Espaço fitness Mercado exclusivo Amplas áreas de lazer e convivência Um projeto que combina arquitetura moderna, natureza, entretenimento e comodidade , criando uma verdadeira experiência de resort dentro de casa. LOCALIZAÇÃO PRIVILEGIADA Situado na Enseada do Suá , uma das regiões mais desejadas de Vitória, o empreendimento proporciona fácil acesso a serviços, gastronomia, centros comerciais e importantes pontos da cidade. IMÓVEL EM CONSTRUÇÃO 4 quartos | 2 suítes | Lazer de clube | Alto padrão | Enseada do Suá Entrega prevista: 2029 Valor de venda: R$ 3.661.718,00 Uma oportunidade para adquirir seu imóvel em um empreendimento de alto padrão, com uma estrutura de lazer incomparável e tudo o que você espera de um endereço exclusivo. LC Vernissage Vitória]]></Description>
+        <Description><![CDATA[Um empreendimento pensado para quem busca alto padrão, conforto e uma experiência completa de morar bem , em uma das regiões mais valorizadas de Vitória. Este elegante apartamento conta com 4 quartos, sendo 2 suítes , em uma planta cuidadosamente planejada para oferecer amplitude, conforto e privacidade. Localizado em um empreendimento de arquitetura contemporânea e em construção , o projeto reúne uma estrutura de lazer diferenciada, digna de um verdadeiro clube privativo. LAZER COMPLETO E SOFISTICADO O condomínio oferece uma infraestrutura excepcional para todas as idades, com: Piscina oceânica Quadra de tênis profissional Quadra poliesportiva Campo de futebol Piscinas e áreas de convivência Salão gourmet Sauna Salão de jogos Espaço fitness Mercado exclusivo Amplas áreas de lazer e convivência Um projeto que combina arquitetura moderna, natureza, entretenimento e comodidade , criando uma verdadeira experiência de resort dentro de casa. LOCALIZAÇÃO PRIVILEGIADA Situado na Enseada do Suá , uma das regiões mais desejadas de Vitória, o empreendimento proporciona fácil acesso a serviços, gastronomia, centros comerciais e importantes pontos da cidade. IMÓVEL EM CONSTRUÇÃO 4 quartos | 2 suítes | Lazer de clube | Alto padrão | Enseada do Suá Entrega prevista: 2029 Valor de venda: R$ 3.661.718,00 Uma oportunidade para adquirir seu imóvel em um empreendimento de alto padrão, com uma estrutura de lazer incomparável e tudo o que você espera de um endereço exclusivo. LC Vernissage Vitória Vernissage Vitória]]></Description>
         <ListPrice currency="BRL">3661718</ListPrice>
         <LivingArea unit="square metres">169</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -1458,7 +1854,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO DE ALTO PADRÃO | PORTEIRA FECHADA | A POUCOS PASSOS DA PRAIA DE ITAPARICA Uma excelente oportunidade para quem busca sofisticação, conforto, praticidade e qualidade de vida , em uma localização privilegiada, a poucos passos da Praia de Itaparica . Este elegante apartamento possui 3 quartos, sendo 1 suíte , com ambientes cuidadosamente planejados e mobiliados, sendo comercializado em porteira fechada — uma solução perfeita para quem deseja entrar e morar, sem a necessidade de grandes investimentos adicionais em mobília e decoração. O condomínio oferece uma completa estrutura de lazer e segurança, proporcionando conforto para toda a família: Piscina adulto e infantil Academia Salão de festas Quadra poliesportiva Portaria 24 horas Excelente localização, a poucos passos da Praia de Itaparica UMA OPORTUNIDADE COMPLETA Além de reunir uma estrutura de lazer diferenciada, o imóvel se destaca pela proximidade com a praia e pela praticidade de ser vendido porteira fechada , tornando-se uma opção interessante tanto para moradia quanto para investimento. 3 quartos | 1 suíte | Porteira fechada | Lazer completo | Portaria 24h | Próximo à Praia de Itaparica Valor de investimento: R$ 1.600.000,00 Condomínio: R$ 950,00 Um imóvel pronto para proporcionar conforto, praticidade e a experiência de viver perto do mar. LC]]></Description>
+        <Description><![CDATA[APARTAMENTO DE ALTO PADRÃO | PORTEIRA FECHADA | A POUCOS PASSOS DA PRAIA DE ITAPARICA Uma excelente oportunidade para quem busca sofisticação, conforto, praticidade e qualidade de vida , em uma localização privilegiada, a poucos passos da Praia de Itaparica . Este elegante apartamento possui 3 quartos, sendo 1 suíte , com ambientes cuidadosamente planejados e mobiliados, sendo comercializado em porteira fechada — uma solução perfeita para quem deseja entrar e morar, sem a necessidade de grandes investimentos adicionais em mobília e decoração. O condomínio oferece uma completa estrutura de lazer e segurança, proporcionando conforto para toda a família: Piscina adulto e infantil Academia Salão de festas Quadra poliesportiva Portaria 24 horas Excelente localização, a poucos passos da Praia de Itaparica UMA OPORTUNIDADE COMPLETA Além de reunir uma estrutura de lazer diferenciada, o imóvel se destaca pela proximidade com a praia e pela praticidade de ser vendido porteira fechada , tornando-se uma opção interessante tanto para moradia quanto para investimento. 3 quartos | 1 suíte | Porteira fechada | Lazer completo | Portaria 24h | Próximo à Praia de Itaparica Valor de investimento: R$ 1.600.000,00 Condomínio: R$ 950,00 Um imóvel pronto para proporcionar conforto, praticidade e a experiência de viver perto do mar. LC Europa Towers]]></Description>
         <ListPrice currency="BRL">1600000</ListPrice>
         <LivingArea unit="square metres">121</LivingArea>
         <Bedrooms>3</Bedrooms>
@@ -1555,54 +1951,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Nova Zelândia]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-26101</ListingID>
-      <Title><![CDATA[Apartamento | último andar | elevador | Viva Laguna | R$ 258 mil - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-ultimo-andar-elevador-viva-laguna-r-258-mil/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_86_d657ea6a-85f7-4704-96cd-9c5a921cbd52.jpg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_67_0d401aaa-d3c7-486e-bc4e-4e6523dc2ada.jpg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.34-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.31.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.32o.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.33.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.34.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.32.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.35.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/o.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_95_6dfa72fd-b528-48ea-98b6-4616c9b41ce8.jpg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_92_0feb44f9-fca3-4de6-b3de-5f077e74a6dc.jpg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_101_99a91d40-768e-4619-bd12-fdaa870412d1.jpg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_89_09e6d0da-b535-430b-afc9-bb8230c11b5b.jpg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_104_611b00c9-826b-4327-beb7-36828cb0a09b.jpg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/imgi_66_fe61bd17-3091-43b4-846c-0578415e93dc.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[apartamento 2 quartos | último andar | elevador | R$ 258 mil Se você busca praticidade, lazer completo e proximidade com a Praia de Manguinhos , esta é uma excelente oportunidade. Apartamento com 45 m² , muito bem distribuídos, localizado no Viva Laguna , Praia da Baleia, Serra/ES. Destaques do imóvel • 2 quartos • 1 banheiro • Último andar • Elevador • 1 vaga de garagem • Portaria 24 horas Condomínio com lazer completo Piscinas adulto e infantil, salão de festas, quadra poliesportiva, playground, espaço kids, pet place, bicicletário, sala de jogos, churrasqueira, mercadinho. Além disso, você estará próximo a restaurantes, supermercado, farmácias e diversos serviços , com acesso rápido à Orla de Manguinhos. R$ 258 mil. Uma oportunidade para morar perto da praia ou investir em uma região com excelente estrutura e qualidade de vida. Agende sua visita e conheça. JHU-RNT]]></Description>
-        <ListPrice currency="BRL">258000</ListPrice>
-        <LivingArea unit="square metres">45</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -1874,7 +2222,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO 2 QUARTOS COM SUÍTE | PRAIA DA COSTA – VILA VELHA/ES Excelente oportunidade para quem busca conforto, praticidade e qualidade de vida em uma das regiões mais desejadas de Vila Velha! Com 72 m² , este apartamento possui uma planta funcional e bem distribuída, com 2 quartos, sendo 1 suíte , oferecendo conforto e privacidade para toda a família. O imóvel conta ainda com um grande diferencial: 2 vagas de garagem livres e cobertas , proporcionando mais comodidade e segurança no dia a dia. Localizado em posição lateral e face sul , o apartamento oferece ambientes agradáveis e uma configuração que favorece o conforto térmico. O condomínio dispõe de lazer completo na cobertura , proporcionando uma excelente estrutura para momentos de lazer, descanso e confraternização, sem precisar sair de casa. Praia da Costa – Vila Velha/ES 72 m² 2 quartos | 1 suíte 2 vagas livres e cobertas Lazer completo na cobertura Posição lateral | Face sul Valor de venda: R$ 860.000,00 Condomínio: R$ 650,00 Um imóvel que reúne boa metragem, excelente estrutura de condomínio e uma localização privilegiada na Praia da Costa , ideal para moradia ou investimento. Agende sua visita e venha conhecer! LC]]></Description>
+        <Description><![CDATA[APARTAMENTO 2 QUARTOS COM SUÍTE | PRAIA DA COSTA – VILA VELHA/ES Excelente oportunidade para quem busca conforto, praticidade e qualidade de vida em uma das regiões mais desejadas de Vila Velha! Com 72 m² , este apartamento possui uma planta funcional e bem distribuída, com 2 quartos, sendo 1 suíte , oferecendo conforto e privacidade para toda a família. O imóvel conta ainda com um grande diferencial: 2 vagas de garagem livres e cobertas , proporcionando mais comodidade e segurança no dia a dia. Localizado em posição lateral e face sul , o apartamento oferece ambientes agradáveis e uma configuração que favorece o conforto térmico. O condomínio dispõe de lazer completo na cobertura , proporcionando uma excelente estrutura para momentos de lazer, descanso e confraternização, sem precisar sair de casa. Praia da Costa – Vila Velha/ES 72 m² 2 quartos | 1 suíte 2 vagas livres e cobertas Lazer completo na cobertura Posição lateral | Face sul Valor de venda: R$ 860.000,00 Condomínio: R$ 650,00 Um imóvel que reúne boa metragem, excelente estrutura de condomínio e uma localização privilegiada na Praia da Costa , ideal para moradia ou investimento. Agende sua visita e venha conhecer! LC Ponta de Areia]]></Description>
         <ListPrice currency="BRL">860000</ListPrice>
         <LivingArea unit="square metres">74</LivingArea>
         <Bedrooms>2</Bedrooms>
@@ -1974,7 +2322,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento de 2 quartos à venda em Itapoã – Vila Velha/ES Excelente apartamento de 66 m² , localizado em Itapoã, Vila Velha , uma das regiões mais desejadas da cidade. O imóvel é de frente e recebe o agradável sol da manhã , proporcionando ambientes iluminados e ventilados. Encontra-se montado , com armários planejados em marcenaria, oferecendo praticidade, organização e excelente aproveitamento dos espaços. Conta com 2 quartos , ambientes bem distribuídos, fechamento de varanda em vidro e 1 vaga de garagem . O condomínio oferece lazer completo , proporcionando conforto e opções de entretenimento para toda a família. Destaques do imóvel: 61,18 m² 2 quartos Frente Sol da manhã Montado Armários em marcenaria Fechamento de vidro 1 vaga de garagem Condomínio com lazer completo Excelente localização em Itapoã, Vila Velha Valor de venda: R$ 859.000,00 Condomínio R$672,00 Uma excelente oportunidade para quem busca conforto, praticidade e qualidade de vida em uma das regiões mais valorizadas de Vila Velha. OBS: Não aceita Airbnb nem short stay. LC]]></Description>
+        <Description><![CDATA[Apartamento de 2 quartos à venda em Itapoã – Vila Velha/ES Excelente apartamento de 66 m² , localizado em Itapoã, Vila Velha , uma das regiões mais desejadas da cidade. O imóvel é de frente e recebe o agradável sol da manhã , proporcionando ambientes iluminados e ventilados. Encontra-se montado , com armários planejados em marcenaria, oferecendo praticidade, organização e excelente aproveitamento dos espaços. Conta com 2 quartos , ambientes bem distribuídos, fechamento de varanda em vidro e 1 vaga de garagem . O condomínio oferece lazer completo , proporcionando conforto e opções de entretenimento para toda a família. Destaques do imóvel: 61,18 m² 2 quartos Frente Sol da manhã Montado Armários em marcenaria Fechamento de vidro 1 vaga de garagem Condomínio com lazer completo Excelente localização em Itapoã, Vila Velha Valor de venda: R$ 859.000,00 Condomínio R$672,00 Uma excelente oportunidade para quem busca conforto, praticidade e qualidade de vida em uma das regiões mais valorizadas de Vila Velha. OBS: Não aceita Airbnb nem short stay. LC Monte Verde]]></Description>
         <ListPrice currency="BRL">859000</ListPrice>
         <LivingArea unit="square metres">66</LivingArea>
         <Bedrooms>2</Bedrooms>
@@ -2026,7 +2374,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apresentamos este magnífico apartamento frente para o mar , localizado na Praia de Itapoã, em um dos endereços mais exclusivos e valorizados da região, conhecido como “Beverly Hills” de Vila Velha . Com impressionantes 240 m² , o imóvel foi projetado para proporcionar uma experiência única de conforto, sofisticação e exclusividade. São 4 suítes , ambientes amplos e elegantes e alto padrão de acabamento , com destaque para o sofisticado piso em porcelanato e a cortina de vidro , que valoriza a integração dos ambientes e proporciona uma vista privilegiada para o mar. O edifício conta com elevador panorâmico , agregando ainda mais exclusividade e requinte ao empreendimento. Para momentos de lazer e confraternização, o condomínio oferece uma estrutura VIP e completa , com ambientes cuidadosamente planejados, incluindo espaço gourmet e salão de festas , além de uma ampla área de lazer para toda a família. Um imóvel verdadeiramente diferenciado para quem busca alto padrão, localização privilegiada, conforto e a exclusividade de morar de frente para o mar . Destaques do imóvel: 240 m² de área privativa 4 suítes Frente para o mar Alto padrão de acabamento Piso em porcelanato Cortina de vidro Elevador panorâmico Lazer VIP e completo Espaço gourmet Salão de festas Localização nobre na Praia de Itapoã (Beverly Hills) Valor de venda: R$ 6.702.270,00 Condomínio: aproximadamente R$ 1.800,00/mês Um endereço para poucos. Uma vista para sempre. Um imóvel à altura de quem busca o extraordinário. LC]]></Description>
+        <Description><![CDATA[Apresentamos este magnífico apartamento frente para o mar , localizado na Praia de Itapoã, em um dos endereços mais exclusivos e valorizados da região, conhecido como “Beverly Hills” de Vila Velha . Com impressionantes 240 m² , o imóvel foi projetado para proporcionar uma experiência única de conforto, sofisticação e exclusividade. São 4 suítes , ambientes amplos e elegantes e alto padrão de acabamento , com destaque para o sofisticado piso em porcelanato e a cortina de vidro , que valoriza a integração dos ambientes e proporciona uma vista privilegiada para o mar. O edifício conta com elevador panorâmico , agregando ainda mais exclusividade e requinte ao empreendimento. Para momentos de lazer e confraternização, o condomínio oferece uma estrutura VIP e completa , com ambientes cuidadosamente planejados, incluindo espaço gourmet e salão de festas , além de uma ampla área de lazer para toda a família. Um imóvel verdadeiramente diferenciado para quem busca alto padrão, localização privilegiada, conforto e a exclusividade de morar de frente para o mar . Destaques do imóvel: 240 m² de área privativa 4 suítes Frente para o mar Alto padrão de acabamento Piso em porcelanato Cortina de vidro Elevador panorâmico Lazer VIP e completo Espaço gourmet Salão de festas Localização nobre na Praia de Itapoã (Beverly Hills) Valor de venda: R$ 6.702.270,00 Condomínio: aproximadamente R$ 1.800,00/mês Um endereço para poucos. Uma vista para sempre. Um imóvel à altura de quem busca o extraordinário. LC Marina Bay]]></Description>
         <ListPrice currency="BRL">6702270</ListPrice>
         <LivingArea unit="square metres">240</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -2078,7 +2426,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Um projeto pensado para quem valoriza arquitetura contemporânea, conforto e um estilo de vida sofisticado . Este magnífico apartamento possui 162 m² , 4 suítes e uma planta cuidadosamente planejada para proporcionar amplitude, privacidade e integração entre os ambientes. O grande destaque fica por conta do varandão com preparação para espaço gourmet , perfeito para receber amigos e familiares enquanto contempla uma privilegiada vista para o mar . O empreendimento oferece uma estrutura de lazer VIP e sofisticada , desenvolvida para atender todos os momentos da família, com destaque para: Piscina com raia de 25 metros Brinquedoteca Quadra poliesportiva Playground Vista para o mar Varandão com preparação para espaço gourmet Ambientes planejados para oferecer conforto, lazer e exclusividade Um imóvel destinado a um público que busca alto padrão, localização privilegiada, lazer completo e a experiência de morar com uma bela vista para o mar . UM NOVO PADRÃO DE MORAR BEM 4 suítes | 162 m² | Vista mar | Varandão gourmet | Lazer VIP Valor de venda: R$ 5.300.000,00 Imóvel em construção. Uma oportunidade para investir em um empreendimento de alto padrão e fazer parte de um projeto que reúne sofisticação, exclusividade e qualidade de vida . LC]]></Description>
+        <Description><![CDATA[Um projeto pensado para quem valoriza arquitetura contemporânea, conforto e um estilo de vida sofisticado . Este magnífico apartamento possui 162 m² , 4 suítes e uma planta cuidadosamente planejada para proporcionar amplitude, privacidade e integração entre os ambientes. O grande destaque fica por conta do varandão com preparação para espaço gourmet , perfeito para receber amigos e familiares enquanto contempla uma privilegiada vista para o mar . O empreendimento oferece uma estrutura de lazer VIP e sofisticada , desenvolvida para atender todos os momentos da família, com destaque para: Piscina com raia de 25 metros Brinquedoteca Quadra poliesportiva Playground Vista para o mar Varandão com preparação para espaço gourmet Ambientes planejados para oferecer conforto, lazer e exclusividade Um imóvel destinado a um público que busca alto padrão, localização privilegiada, lazer completo e a experiência de morar com uma bela vista para o mar . UM NOVO PADRÃO DE MORAR BEM 4 suítes | 162 m² | Vista mar | Varandão gourmet | Lazer VIP Valor de venda: R$ 5.300.000,00 Imóvel em construção. Uma oportunidade para investir em um empreendimento de alto padrão e fazer parte de um projeto que reúne sofisticação, exclusividade e qualidade de vida . LC Balcony Canal Residenses]]></Description>
         <ListPrice currency="BRL">5300000</ListPrice>
         <LivingArea unit="square metres">162</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -2419,7 +2767,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[EXCLUSIVIDADE FRENTE PARA O MAR | 184 M² | 4 QUARTOS Um imóvel para quem valoriza espaço, conforto, sofisticação e uma localização privilegiada . Este magnífico apartamento frente para o mar possui 184 m² muito bem distribuídos, oferecendo 4 quartos, sendo 2 suítes , proporcionando conforto e privacidade para toda a família. O imóvel conta com 3 vagas de garagem e acabamentos que aliam elegância e praticidade, com piso em porcelanato nas áreas sociais e piso vinílico nos quartos , criando ambientes aconchegantes e sofisticados. Destaques do imóvel: 184 m² de área privativa 4 quartos, sendo 2 suítes Frente para o mar 3 vagas de garagem Porcelanato nas áreas sociais Piso vinílico nos quartos Excelente planta e ambientes amplos LAZER CLUBE COMPLETO O condomínio oferece uma estrutura de lazer diferenciada para toda a família, incluindo: Piscina adulto Piscina infantil Salão de festas Academia 3 churrasqueiras Brinquedoteca E muito mais! Um verdadeiro clube particular , com espaços pensados para proporcionar momentos de lazer, convivência e bem-estar sem sair de casa. Valor de venda: R$ 3.490.000,00 Condomínio: R$ 1.470,00 Uma oportunidade única para viver de frente para o mar, com amplo espaço interno, excelente estrutura de lazer e todo o conforto que sua família merece. 📲 Agende sua visita e permita-se conhecer este imóvel excepcional. LC]]></Description>
+        <Description><![CDATA[EXCLUSIVIDADE FRENTE PARA O MAR | 184 M² | 4 QUARTOS Um imóvel para quem valoriza espaço, conforto, sofisticação e uma localização privilegiada . Este magnífico apartamento frente para o mar possui 184 m² muito bem distribuídos, oferecendo 4 quartos, sendo 2 suítes , proporcionando conforto e privacidade para toda a família. O imóvel conta com 3 vagas de garagem e acabamentos que aliam elegância e praticidade, com piso em porcelanato nas áreas sociais e piso vinílico nos quartos , criando ambientes aconchegantes e sofisticados. Destaques do imóvel: 184 m² de área privativa 4 quartos, sendo 2 suítes Frente para o mar 3 vagas de garagem Porcelanato nas áreas sociais Piso vinílico nos quartos Excelente planta e ambientes amplos LAZER CLUBE COMPLETO O condomínio oferece uma estrutura de lazer diferenciada para toda a família, incluindo: Piscina adulto Piscina infantil Salão de festas Academia 3 churrasqueiras Brinquedoteca E muito mais! Um verdadeiro clube particular , com espaços pensados para proporcionar momentos de lazer, convivência e bem-estar sem sair de casa. Valor de venda: R$ 3.490.000,00 Condomínio: R$ 1.470,00 Uma oportunidade única para viver de frente para o mar, com amplo espaço interno, excelente estrutura de lazer e todo o conforto que sua família merece. Agende sua visita e permita-se conhecer este imóvel excepcional. LC Francisco Viana]]></Description>
         <ListPrice currency="BRL">3490000</ListPrice>
         <LivingArea unit="square metres">184</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -2471,7 +2819,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento de 2 Quartos à Venda na Praia da Costa – Excelente Oportunidade para Investidores Excelente apartamento de 2 quartos, de frente , localizado em uma das regiões mais valorizadas de Vila Velha, na Praia da Costa , próximo ao Shopping Praia da Costa e a uma completa infraestrutura de comércio, serviços, gastronomia e lazer. O imóvel conta com 01 banheiro, 01 vaga de garagem, cozinha americana e varanda com fechamento em cortina de vidro , proporcionando um ambiente moderno, agradável e funcional. Atualmente, o apartamento encontra-se alugado , sendo uma excelente oportunidade para investidores que buscam um imóvel com renda de locação já estabelecida . O contrato de locação tem previsão de término em agosto de 2027 , quando o inquilino desocupará o imóvel após a conclusão do contrato. Destaques do imóvel: 2 quartos Apartamento de frente 1 banheiro 1 vaga de garagem Cozinha americana Varanda com cortina de vidro Atualmente alugado Excelente opção para investimento Localização privilegiada na Praia da Costa Próximo ao Shopping Praia da Costa Valor de venda: R$ 640.000,00 Condomínio: R$ 550,00 Uma oportunidade para quem deseja investir em um imóvel bem localizado, com excelente potencial de valorização e atualmente gerando renda através da locação. LC]]></Description>
+        <Description><![CDATA[Apartamento de 2 Quartos à Venda na Praia da Costa – Excelente Oportunidade para Investidores Excelente apartamento de 2 quartos, de frente , localizado em uma das regiões mais valorizadas de Vila Velha, na Praia da Costa , próximo ao Shopping Praia da Costa e a uma completa infraestrutura de comércio, serviços, gastronomia e lazer. O imóvel conta com 01 banheiro, 01 vaga de garagem, cozinha americana e varanda com fechamento em cortina de vidro , proporcionando um ambiente moderno, agradável e funcional. Atualmente, o apartamento encontra-se alugado , sendo uma excelente oportunidade para investidores que buscam um imóvel com renda de locação já estabelecida . O contrato de locação tem previsão de término em agosto de 2027 , quando o inquilino desocupará o imóvel após a conclusão do contrato. Destaques do imóvel: 2 quartos Apartamento de frente 1 banheiro 1 vaga de garagem Cozinha americana Varanda com cortina de vidro Atualmente alugado Excelente opção para investimento Localização privilegiada na Praia da Costa Próximo ao Shopping Praia da Costa Valor de venda: R$ 640.000,00 Condomínio: R$ 550,00 Uma oportunidade para quem deseja investir em um imóvel bem localizado, com excelente potencial de valorização e atualmente gerando renda através da locação. LC Blumen]]></Description>
         <ListPrice currency="BRL">640000</ListPrice>
         <LivingArea unit="square metres">80</LivingArea>
         <Bedrooms>2</Bedrooms>
@@ -2770,7 +3118,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO DE 120 M², MONTADO E COM VISTA LIVRE EM BARRO VERMELHO – VITÓRIA/ES Excelente apartamento de 120 m² , localizado no bairro Barro Vermelho, em Vitória/ES , em uma região valorizada com excelente infraestrutura e muita área verde. O imóvel possui 4 quartos, sendo 1 suíte , com um dos quartos atualmente transformado em um amplo closet , proporcionando ainda mais praticidade, organização e conforto à suíte. O apartamento está todo montado com marcenaria de excelente qualidade , com ambientes planejados e acabamentos que aliam funcionalidade, sofisticação e aproveitamento inteligente dos espaços. Destaques do imóvel: 120 m² ; 4 quartos, sendo 1 suíte ; 1 quarto transformado em closet ; Apartamento todo montado ; Marcenaria de excelente qualidade ; Frente ; Sol da manhã ; Vista livre ; Condomínio com lazer completo ; Excelente distribuição dos ambientes. Um imóvel diferenciado para quem busca conforto, qualidade de acabamento, praticidade e uma excelente localização em Vitória. Valor de venda: R$ 1.790.000,00 Condomínio: R$ 1.598,70 Barro Vermelho – Vitória/ES LC]]></Description>
+        <Description><![CDATA[APARTAMENTO DE 120 M², MONTADO E COM VISTA LIVRE EM BARRO VERMELHO – VITÓRIA/ES Excelente apartamento de 120 m² , localizado no bairro Barro Vermelho, em Vitória/ES , em uma região valorizada com excelente infraestrutura e muita área verde. O imóvel possui 4 quartos, sendo 1 suíte , com um dos quartos atualmente transformado em um amplo closet , proporcionando ainda mais praticidade, organização e conforto à suíte. O apartamento está todo montado com marcenaria de excelente qualidade , com ambientes planejados e acabamentos que aliam funcionalidade, sofisticação e aproveitamento inteligente dos espaços. Destaques do imóvel: 120 m² ; 4 quartos, sendo 1 suíte ; 1 quarto transformado em closet ; Apartamento todo montado ; Marcenaria de excelente qualidade ; Frente ; Sol da manhã ; Vista livre ; Condomínio com lazer completo ; Excelente distribuição dos ambientes. Um imóvel diferenciado para quem busca conforto, qualidade de acabamento, praticidade e uma excelente localização em Vitória. Valor de venda: R$ 1.790.000,00 Condomínio: R$ 1.598,70 Barro Vermelho – Vitória/ES LC Spazio Del Albero]]></Description>
         <ListPrice currency="BRL">1790000</ListPrice>
         <LivingArea unit="square metres">120</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -3014,7 +3362,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-24955</ListingID>
-      <Title><![CDATA[Apartamento de 4 quartos suíte, 130 m² lazer- Itapoã &#8211; Vila Velha - LE]]></Title>
+      <Title><![CDATA[Apartamento de 4 quartos suíte, 130 m² lazer- Itapoã – Vila Velha - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-de-4-quartos-suite-130-m%c2%b2-lazer-itapoa-vila-velha/</DetailViewUrl>
@@ -3043,7 +3391,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Excelente apartamento de 130 m² , localizado em uma das regiões mais desejadas de Itapoã, Vila Velha , ideal para quem busca espaço, conforto e qualidade de vida. O imóvel conta com 4 quartos, sendo 1 suíte , proporcionando ambientes amplos e funcionais para toda a família. Possui ainda 2 vagas de garagem e posição lateral, com sol da manhã , garantindo uma iluminação natural agradável e ambientes mais confortáveis. O condomínio oferece lazer completo , proporcionando praticidade e opções de entretenimento para todas as idades, sem abrir mão da comodidade de morar em uma excelente localização. Destaques do imóvel: 130 m² de área privativa 4 quartos 1 suíte 2 vagas de garagem Posição lateral Sol da manhã Condomínio com lazer completo Excelente localização em Itapoã, Vila Velha Valor de venda: R$ 1.250.000,00 Condomínio: R$ 870,00 Uma excelente oportunidade para quem deseja morar em Itapoã , com amplo espaço interno, lazer completo e toda a praticidade que a região oferece. Agende uma visita e venha conhecer este imóvel! LC]]></Description>
+        <Description><![CDATA[Excelente apartamento de 130 m² , localizado em uma das regiões mais desejadas de Itapoã, Vila Velha , ideal para quem busca espaço, conforto e qualidade de vida. O imóvel conta com 4 quartos, sendo 1 suíte , proporcionando ambientes amplos e funcionais para toda a família. Possui ainda 2 vagas de garagem e posição lateral, com sol da manhã , garantindo uma iluminação natural agradável e ambientes mais confortáveis. O condomínio oferece lazer completo , proporcionando praticidade e opções de entretenimento para todas as idades, sem abrir mão da comodidade de morar em uma excelente localização. Destaques do imóvel: 130 m² de área privativa 4 quartos 1 suíte 2 vagas de garagem Posição lateral Sol da manhã Condomínio com lazer completo Excelente localização em Itapoã, Vila Velha Valor de venda: R$ 1.250.000,00 Condomínio: R$ 870,00 Uma excelente oportunidade para quem deseja morar em Itapoã , com amplo espaço interno, lazer completo e toda a praticidade que a região oferece. Agende uma visita e venha conhecer este imóvel! LC Costa de Monaco]]></Description>
         <ListPrice currency="BRL">1250000</ListPrice>
         <LivingArea unit="square metres">130</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -3095,7 +3443,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento de Alto Padrão com Vista para o Mar em Itapoã – Vila Velha/ES Exclusividade, conforto e uma vista privilegiada para o mar! Apresentamos este sofisticado apartamento de 4 quartos, sendo 3 suítes , localizado em uma das regiões mais desejadas de Itapoã, Vila Velha . Com vista para o mar e posição frente, com sol da manhã , o imóvel proporciona ambientes iluminados, ventilados e uma atmosfera agradável em todos os momentos do dia. O apartamento conta com 4 quartos, sendo 3 suítes , excelente distribuição dos ambientes e 3 vagas de garagem , oferecendo espaço e praticidade para toda a família. O condomínio dispõe de lazer completo , proporcionando comodidade e opções de entretenimento sem sair de casa. Destaques do imóvel: • 4 quartos • 3 suítes • 3 vagas de garagem • Vista para o mar • Frente • Sol da manhã • Lazer completo • Localização privilegiada em Itapoã Valor de venda: R$ 3.890.000,00 Condomínio: R$ 1.200.000,00 Uma excelente oportunidade para quem busca alto padrão, conforto, localização e uma vista privilegiada para o mar em Vila Velha. Agende sua visita e venha conhecer este imóvel exclusivo! LC]]></Description>
+        <Description><![CDATA[Apartamento de Alto Padrão com Vista para o Mar em Itapoã – Vila Velha/ES Exclusividade, conforto e uma vista privilegiada para o mar! Apresentamos este sofisticado apartamento de 4 quartos, sendo 3 suítes , localizado em uma das regiões mais desejadas de Itapoã, Vila Velha . Com vista para o mar e posição frente, com sol da manhã , o imóvel proporciona ambientes iluminados, ventilados e uma atmosfera agradável em todos os momentos do dia. O apartamento conta com 4 quartos, sendo 3 suítes , excelente distribuição dos ambientes e 3 vagas de garagem , oferecendo espaço e praticidade para toda a família. O condomínio dispõe de lazer completo , proporcionando comodidade e opções de entretenimento sem sair de casa. Destaques do imóvel: • 4 quartos • 3 suítes • 3 vagas de garagem • Vista para o mar • Frente • Sol da manhã • Lazer completo • Localização privilegiada em Itapoã Valor de venda: R$ 3.890.000,00 Condomínio: R$ 1.200.000,00 Uma excelente oportunidade para quem busca alto padrão, conforto, localização e uma vista privilegiada para o mar em Vila Velha. Agende sua visita e venha conhecer este imóvel exclusivo! LC Jazz Residenses]]></Description>
         <ListPrice currency="BRL">3999000</ListPrice>
         <LivingArea unit="square metres">161</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -3147,7 +3495,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Um endereço privilegiado, ao lado do Shopping Vitória, com vista para o mar e todo o conforto que um imóvel de alto padrão oferece. Este magnífico apartamento de 174 m² está localizado na Enseada do Suá , uma das regiões mais valorizadas e desejadas de Vitória, ao lado do Shopping Vitória , proporcionando praticidade, conveniência e acesso a uma completa infraestrutura de serviços, gastronomia, compras e lazer. Com uma planta ampla e elegante, o imóvel dispõe de 4 suítes , oferecendo privacidade e conforto para toda a família. A vista para o mar proporciona um cenário exclusivo e uma atmosfera sofisticada aos ambientes. São 3 vagas de garagem e uma estrutura de condomínio com lazer VIP e completo , ideal para quem valoriza bem-estar, comodidade e qualidade de vida. ✨ DESTAQUES 174 m² de área privativa 4 suítes Vista privilegiada para o mar 3 vagas de garagem Lazer VIP e completo Localização nobre na Enseada do Suá Ao lado do Shopping Vitória Condomínio de alto padrão Excelente opção para moradia ou investimento 💰 VALORES Venda: R$ 4.700.000,00 Condomínio: R$ 2.700,00/mês Um imóvel que traduz o conceito de alto luxo em Vitória : amplitude, exclusividade, localização estratégica e uma vista para o mar que transforma o cotidiano em uma experiência especial. Agende sua visita e venha conhecer este apartamento exclusivo na Enseada do Suá. LC]]></Description>
+        <Description><![CDATA[Um endereço privilegiado, ao lado do Shopping Vitória, com vista para o mar e todo o conforto que um imóvel de alto padrão oferece. Este magnífico apartamento de 174 m² está localizado na Enseada do Suá , uma das regiões mais valorizadas e desejadas de Vitória, ao lado do Shopping Vitória , proporcionando praticidade, conveniência e acesso a uma completa infraestrutura de serviços, gastronomia, compras e lazer. Com uma planta ampla e elegante, o imóvel dispõe de 4 suítes , oferecendo privacidade e conforto para toda a família. A vista para o mar proporciona um cenário exclusivo e uma atmosfera sofisticada aos ambientes. São 3 vagas de garagem e uma estrutura de condomínio com lazer VIP e completo , ideal para quem valoriza bem-estar, comodidade e qualidade de vida. ✨ DESTAQUES 174 m² de área privativa 4 suítes Vista privilegiada para o mar 3 vagas de garagem Lazer VIP e completo Localização nobre na Enseada do Suá Ao lado do Shopping Vitória Condomínio de alto padrão Excelente opção para moradia ou investimento 💰 VALORES Venda: R$ 4.700.000,00 Condomínio: R$ 2.700,00/mês Um imóvel que traduz o conceito de alto luxo em Vitória : amplitude, exclusividade, localização estratégica e uma vista para o mar que transforma o cotidiano em uma experiência especial. Agende sua visita e venha conhecer este apartamento exclusivo na Enseada do Suá. LC Ilha de Trindade]]></Description>
         <ListPrice currency="BRL">4700000</ListPrice>
         <LivingArea unit="square metres">174</LivingArea>
         <Bedrooms>4</Bedrooms>
@@ -3244,7 +3592,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO 2 QUARTOS COM SUÍTE | FRENTE PARA O MAR — PRAIA DE ITAPOÃ Imagine acordar todos os dias com uma vista privilegiada para o mar ! 🌴☀️ Apartamento com: 2 quartos, sendo 1 suíte Frente para o mar Vista para o mar Ambiente confortável e excelente localização Lazer completo no condomínio Condomínio: R$ 495,00 Valor: R$ 780.000,00 Uma excelente oportunidade para quem busca qualidade de vida, conforto e a proximidade do mar , seja para morar ou investir. Entre em contato e agende sua visita! LC]]></Description>
+        <Description><![CDATA[APARTAMENTO 2 QUARTOS COM SUÍTE | FRENTE PARA O MAR — PRAIA DE ITAPOÃ Imagine acordar todos os dias com uma vista privilegiada para o mar ! 🌴☀️ Apartamento com: 2 quartos, sendo 1 suíte Frente para o mar Vista para o mar Ambiente confortável e excelente localização Lazer completo no condomínio Condomínio: R$ 495,00 Valor: R$ 780.000,00 Uma excelente oportunidade para quem busca qualidade de vida, conforto e a proximidade do mar , seja para morar ou investir. Entre em contato e agende sua visita! LC Dionisio Ruy]]></Description>
         <ListPrice currency="BRL">780000</ListPrice>
         <LivingArea unit="square metres">72</LivingArea>
         <Bedrooms>2</Bedrooms>
@@ -3341,7 +3689,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO EXCLUSIVO COM VISTA PARA O MAR – PRAIA DE ITAPARICA Imagine morar a poucos passos da praia, com vista para o mar, sol da manhã e todo o conforto de um apartamento montado e decorado . Este excelente apartamento na Praia de Itaparica reúne espaço, praticidade e uma localização privilegiada: 121 m² de área 3 quartos , sendo 2 suítes 2 vagas de garagem cobertas Vista para o mar Sol da manhã Varanda com fechamento Montado e decorado A poucos passos da praia Um imóvel pensado para quem busca conforto, espaço e qualidade de vida , seja para morar ou investir. Valor de venda: R$ 1.150.000,00 Condomínio: R$ 770,00 Praia de Itaparica – Vila Velha/ES Entre em contato e agende sua visita. Seu novo apartamento com vista para o mar pode estar aqui! LC]]></Description>
+        <Description><![CDATA[APARTAMENTO EXCLUSIVO COM VISTA PARA O MAR – PRAIA DE ITAPARICA Imagine morar a poucos passos da praia, com vista para o mar, sol da manhã e todo o conforto de um apartamento montado e decorado . Este excelente apartamento na Praia de Itaparica reúne espaço, praticidade e uma localização privilegiada: 121 m² de área 3 quartos , sendo 2 suítes 2 vagas de garagem cobertas Vista para o mar Sol da manhã Varanda com fechamento Montado e decorado A poucos passos da praia Um imóvel pensado para quem busca conforto, espaço e qualidade de vida , seja para morar ou investir. Valor de venda: R$ 1.150.000,00 Condomínio: R$ 770,00 Praia de Itaparica – Vila Velha/ES Entre em contato e agende sua visita. Seu novo apartamento com vista para o mar pode estar aqui! LC Moizés]]></Description>
         <ListPrice currency="BRL">1150000</ListPrice>
         <LivingArea unit="square metres">121</LivingArea>
         <Bedrooms>3</Bedrooms>
@@ -3684,7 +4032,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[APARTAMENTO 1 QUARTO – PRAIA DA COSTA | VILA VELHA/ES Excelente oportunidade a apenas 2 quadras do mar! Apartamento com 1 quarto , 1 banheiro , 1 vaga de garagem e cozinha americana , proporcionando praticidade e integração aos ambientes. Localização privilegiada: Praia da Costa, Vila Velha/ES, a poucos minutos da praia e próximo a toda a infraestrutura de comércio e serviços que a região oferece. Detalhes do imóvel: 1 quarto 1 banheiro 1 vaga de garagem Cozinha americana Apenas 2 quadras do mar Praia da Costa – Vila Velha/ES Valor: R$ 490.000,00 Uma ótima opção para moradia ou investimento , em uma das regiões mais procuradas de Vila Velha. Entre em contato para mais informações e agende sua visita! LC]]></Description>
+        <Description><![CDATA[APARTAMENTO 1 QUARTO – PRAIA DA COSTA | VILA VELHA/ES Excelente oportunidade a apenas 2 quadras do mar! Apartamento com 1 quarto , 1 banheiro , 1 vaga de garagem e cozinha americana , proporcionando praticidade e integração aos ambientes. Localização privilegiada: Praia da Costa, Vila Velha/ES, a poucos minutos da praia e próximo a toda a infraestrutura de comércio e serviços que a região oferece. Detalhes do imóvel: 1 quarto 1 banheiro 1 vaga de garagem Cozinha americana Apenas 2 quadras do mar Praia da Costa – Vila Velha/ES Valor: R$ 490.000,00 Uma ótima opção para moradia ou investimento , em uma das regiões mais procuradas de Vila Velha. Entre em contato para mais informações e agende sua visita! LC Bragatto]]></Description>
         <ListPrice currency="BRL">490000</ListPrice>
         <LivingArea unit="square metres">43</LivingArea>
         <Bedrooms>1</Bedrooms>
@@ -3779,7 +4127,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento de 3 quartos com suíte no Centro de Vila Velha – 140 m²* Uma excelente oportunidade para quem busca espaço, localização e praticidade em Vila Velha. Localizado no *Centro de Vila Velha, este amplo apartamento possui **140 m²* e está situado em um edifício próximo a todo tipo de comércio e serviços, proporcionando praticidade para o dia a dia. O imóvel conta com *3 quartos, sendo 1 suíte espaçosa, além de armários em um dos quartos e **armários planejados na cozinha*. A planta ampla oferece ambientes confortáveis e com ótimo potencial para personalização. Um dos grandes diferenciais é o *valor de venda de R$ 670.000,00*, representando uma oportunidade interessante para quem procura um imóvel amplo em uma região tradicional e valorizada de Vila Velha. *Destaques do imóvel:* * 140 m² * 3 quartos * 1 suíte espaçosa * Armário em um dos quartos * Armários na cozinha * Edifício bem localizado * Próximo a amplo comércio e serviços * Excelente relação entre metragem, localização e valor *Valor: R$ 670.000,00* Entre em contato para mais informações e agende uma visita para conhecer pessoalmente esta oportunidade. LC]]></Description>
+        <Description><![CDATA[Apartamento de 3 quartos com suíte no Centro de Vila Velha – 140 m²* Uma excelente oportunidade para quem busca espaço, localização e praticidade em Vila Velha. Localizado no *Centro de Vila Velha, este amplo apartamento possui **140 m²* e está situado em um edifício próximo a todo tipo de comércio e serviços, proporcionando praticidade para o dia a dia. O imóvel conta com *3 quartos, sendo 1 suíte espaçosa, além de armários em um dos quartos e **armários planejados na cozinha*. A planta ampla oferece ambientes confortáveis e com ótimo potencial para personalização. Um dos grandes diferenciais é o *valor de venda de R$ 670.000,00*, representando uma oportunidade interessante para quem procura um imóvel amplo em uma região tradicional e valorizada de Vila Velha. *Destaques do imóvel:* * 140 m² * 3 quartos * 1 suíte espaçosa * Armário em um dos quartos * Armários na cozinha * Edifício bem localizado * Próximo a amplo comércio e serviços * Excelente relação entre metragem, localização e valor *Valor: R$ 670.000,00* Entre em contato para mais informações e agende uma visita para conhecer pessoalmente esta oportunidade. LC Reis]]></Description>
         <ListPrice currency="BRL">670000</ListPrice>
         <LivingArea unit="square metres">140</LivingArea>
         <Bedrooms>3</Bedrooms>
@@ -3985,7 +4333,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-24418</ListingID>
-      <Title><![CDATA[PORTEIRA FECHADA Cond Top life &#8211; Suíte-2 vagas livres-Sol da manhã! - LE]]></Title>
+      <Title><![CDATA[PORTEIRA FECHADA Cond Top life – Suíte-2 vagas livres-Sol da manhã! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/porteira-fechada-cond-top-life-suite-2-vagas-livres-sol-da-manha/</DetailViewUrl>
@@ -4012,7 +4360,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[OPORTUNIDADE à venda apartamento PORTEIRA FECHADA no Top Life Mallorca &#8211; São Diogo II Imóvel REFORMADO, TUDO NOVO! pronto para morar, sendo sol da manhã, ambientes claros e bem divididos! &#8211; 2 quartos sendo 01 suíte; &#8211; 2 vagas livres; &#8211; fica tudo que está na foto ! &#8211; 5º andar de escada. &#8211; Valor do Condomínio : R$ 350,00 incluso água e gás. &#8211; condomínio com estrutura de lazer completo incluindo piscina, churrasqueira, mercadinho, quadra, playground e segurança 24hs. RM]]></Description>
-        <ListPrice currency="BRL">297000</ListPrice>
+        <ListPrice currency="BRL">295000</ListPrice>
         <LivingArea unit="square metres">51</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -4265,8 +4613,8 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Oportunidade para morar em um dos melhores bairros de Serra, Colina de Laranjeiras, Apartamento no térreo, no Condomínio Parque Fragata Térreo | Sol da manhã | Área edificada: 39 m² Excelente apartamento, pronto para morar, composto por: • 1 quartos com ar condicionado; • Sala; • Cozinha; • Banheiro social; • Lazer completo. Aluguel: R$ 1.700,00 (Com condomínio incluso). IPTU: R$ 190,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Shopping; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
-        <ListPrice currency="BRL">1700</ListPrice>
+        <Description><![CDATA[Oportunidade para morar em um dos melhores bairros de Serra, Colina de Laranjeiras, Apartamento no térreo, no Condomínio Parque Fragata Térreo | Sol da manhã | Área edificada: 35 m² Excelente apartamento, pronto para morar, composto por: • 1 quartos com ar condicionado; • Sala; • Cozinha; • Banheiro social; • Lazer completo. Aluguel: R$ 1.600,00 (Com condomínio incluso). IPTU: R$ 190,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Shopping; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
+        <ListPrice currency="BRL">1600</ListPrice>
         <LivingArea unit="square metres">39</LivingArea>
         <Bedrooms>1</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -8574,47 +8922,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-20480</ListingID>
-      <Title><![CDATA[Apartamento Térreo no Via Laranjeiras para locação - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-terreo-no-via-laranjeiras-para-locacao/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.54-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.55.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.54.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.56.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.57.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.57-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.57-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.58-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-20.34.58.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Localizado em um dos melhores bairros da Serra, em Morada de Laranjeiras, Apartamento térreo no Condomínio Via Laranjeiras Térreo | Sol da manhã | Área edificada: 55 m² Excelente apartamento, pronto para morar, composto por: • 2 quartos; • Sala; • Varanda privativa; • Cozinha com modulados; • Banheiro social; • Lazer completo. Aluguel: R$ 2.100,00 (condomínio incluso). Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
-        <ListPrice currency="BRL">2100</ListPrice>
-        <LivingArea unit="square metres">55</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-20406</ListingID>
       <Title><![CDATA[Apartamento no Via Laranjeiras para locação - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -10511,48 +10818,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-17232</ListingID>
-      <Title><![CDATA[Casa duplex com piscina Porteira fechada a poucos passos da praia - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-com-piscina-porteira-fechada-a-poucos-passos-da-praia/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.38.15.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.37.55.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.38.15lll.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.39.01.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.39.01-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.39.02-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-14.33.03.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.39.02.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-14.33.03-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-13.39.01-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa duplex com piscina Porteira fechada a poucos passos da praia | Jacaraípe – Serra/ES Oportunidade imperdível! casa completa, pronta para morar por apenas R$ 550 mil Se você busca conforto, lazer e localização privilegiada, essa casa vai te surpreender! Um imóvel moderno, espaçoso e porteira fechada , ideal para quem quer entrar e morar sem preocupação. destaques do imóvel: 150m² de área total 2 quartos com suíte no pavimento superior 1 suíte com varanda privativa Sala ampla para dois ambientes Cozinha americana completa com armários 3 banheiros Área externa com piscina e chuveirão Área de serviço Quintal parcialmente coberto 3 vagas de garagem Ar-condicionado já incluso para instalação Móveis planejados na cozinha e quartos Casa porteira fechada – fica praticamente tudo! Localização estratégica em Jacaraípe A poucos passos da praia, perto de comércios e com toda praticidade para viver bem ou investir em uma região valorizada. de R$ 550 mil – uma oportunidade rara para uma casa completa, com piscina e excelente acabamento! casa top, pronta para morar e perfeita para quem quer conforto perto do mar. agende sua visita! JHU-LUC]]></Description>
-        <ListPrice currency="BRL">550000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">3</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[São Francisco]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-17072</ListingID>
       <Title><![CDATA[Apartamento porteira fechada | design, sofisticação e exclusividade - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -12322,7 +12587,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-13959</ListingID>
-      <Title><![CDATA[Apartamento 3 quartos, suíte, lazer completo Villaggio Limoeiro - LE]]></Title>
+      <Title><![CDATA[Apartamento 3 quartos, suíte, varanda e lazer Villaggio Limoeiro - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-3-quartos-suite-lazer-completo-villagio-limoeiro/</DetailViewUrl>
@@ -12349,7 +12614,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento de 3 quartos no Villaggio Limoeiro, com vaga coberta, sol da manhã e ventilação nordeste, proporcionando ambientes iluminados e bem ventilados. Possui sala integrada à cozinha com armários planejados, acabamento de bom padrão e decoração aconchegante. Condomínio com lazer completo: piscina, salão de festas, churrasqueira, academia, quadra, playground e segurança 24h. Localizado em bairro em crescimento, com fácil acesso à BR-101 e próximo a comércios e serviços essenciais. Ideal para morar com conforto e praticidade. VIK]]></Description>
-        <ListPrice currency="BRL">590000</ListPrice>
+        <ListPrice currency="BRL">579000</ListPrice>
         <LivingArea unit="square metres">67</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>2</Bathrooms>
