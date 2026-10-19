@@ -6,7 +6,7 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-18T10:28:14</PublishDate>
+    <PublishDate>2026-10-19T12:15:46</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
@@ -1526,6 +1526,7 @@
         <ListPrice currency="BRL">1200000</ListPrice>
         <LivingArea unit="square metres">83</LivingArea>
         <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
         <Garage type="Parking Space">2</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -2910,7 +2911,7 @@
         <ListPrice currency="BRL">3490000</ListPrice>
         <LivingArea unit="square metres">184</LivingArea>
         <Bedrooms>4</Bedrooms>
-        <Bathrooms>6</Bathrooms>
+        <Bathrooms>4</Bathrooms>
         <Garage type="Parking Space">3</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -3168,6 +3169,8 @@
         <Description><![CDATA[EXCLUSIVIDADE E CONFORTO EM ITAPOÃ – VILA VELHA/ES Se você busca um apartamento que reúna conforto, praticidade e uma localização privilegiada , esta é uma excelente oportunidade! Este elegante apartamento de 69 m² conta com uma planta funcional e muito bem distribuída, oferecendo 2 quartos, sendo 2 suítes , garantindo privacidade e conforto para moradores e visitantes. Localizado em posição frente e com sol da manhã , proporciona ambientes agradáveis, iluminados e com excelente incidência solar. Além disso, o condomínio oferece lazer completo , criando uma estrutura perfeita para aproveitar momentos de descanso e diversão sem sair de casa. 01 vaga de garagem Frente | Sol da manhã 2 quartos | 2 suítes 69 m² Lazer completo Itapoã – Vila Velha/ES Valor de venda: R$ 795.000,00 Condomínio: R$ 1.050,00 Uma excelente escolha para quem deseja morar bem ou investir em uma das regiões mais valorizadas e desejadas de Vila Velha . Agende sua visita e venha conhecer este imóvel de perto! LC Costa do Hawaii CEP 29.101-670]]></Description>
         <ListPrice currency="BRL">795000</ListPrice>
         <LivingArea unit="square metres">69</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
         <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
