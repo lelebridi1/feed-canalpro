@@ -6,10 +6,141 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-22T11:13:49</PublishDate>
+    <PublishDate>2026-10-23T11:05:05</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-27562</ListingID>
+      <Title><![CDATA[Apartamento 2 com suíte no Vista dos Ipês para aluguel! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-com-suite-no-vista-dos-ipes-para-aluguel/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.06.47.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.08.08.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.08.05.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.08.01.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.58.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.40.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.39.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.38.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.37.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.07.36.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.06.52.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-09.06.48.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Cozinha-e-lavanderia-modernas-e-iluminadas.png</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Cozinha-Compacta-Branca-e-Turquesa.png</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Estacao-de-Trabalho-Integrada-Sem-Cortina.png</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Sobre Apartamento para aluguel no Bairro Residencial Vista do Mestre, Apartamento no Condomínio Vista dos Ipês | Área edificada: 46 m² Excelente apartamento, pronto para morar, composto por: • 2 quartos com suíte; • Sala; • Cozinha com armário; • Banheiro social; • Lazer completo. Aluguel: R$ 1.900 (+condomínio em torno de R$ 450,00). IPTU: R$ 200,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Shopping; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! MG Casaimobies]]></Description>
+        <ListPrice currency="BRL">1900</ListPrice>
+        <LivingArea unit="square metres">46</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Residencial Vista do Mestre]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27622</ListingID>
+      <Title><![CDATA[OPORTUNIDADE IMPERDÍVEL DE INVESTIMENTO EM CASTELÂNDIA, SERRA! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-imperdivel-de-investimento-em-castelandia-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/bfb31bb7-ea4a-47b8-8050-0092cff6c2c4.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/6443faf9-f670-4105-8c4f-4f0ba14c9980.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/19a1c009-df4f-4588-8977-6dcdaa514b5b.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[R$ 955.000,00 Excelente oportunidade para investidores ou famílias que buscam espaço, conforto e alta rentabilidade no mesmo local! Venda de 2 lotes unificados com escritura única , totalizando 600 m² de área , localizados estrategicamente em Castelândia, próximo ao Colégio Alternativo. (Atenção: A venda é realizada exclusivamente dos 2 lotes juntos). Casa Principal Ampla e Aconchegante: 4 quartos bem distribuídos 3 banheiros Cozinhas espaçosas 2 salas (estar e jantar) Renda Extra Garantida: 2 Kitnets: ideais para locação residencial 1 Ponto Comercial: pronto para o seu próprio negócio ou locação comercial DESTAQUES DO IMÓVEL: Área Total: 600 m² (2 lotes englobados) Documentação: Escritura única e regularizada Localização Privilegiada: Castelândia, Serra/ES — próximo ao Colégio Alternativo, com fácil acesso a comércios, escolas e vias principais. Não perca esta oportunidade única de adquirir um imóvel versátil, espaçoso e com altíssimo potencial de valorização e geração de renda! Agende sua visita hoje mesmo e venha conferir de perto! AL ( OBS: Imagens melhoradas por inteligência artificial, mantendo a originalidade da construção )]]></Description>
+        <ListPrice currency="BRL">955000</ListPrice>
+        <LivingArea unit="square metres">600</LivingArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Castelândia]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-27753</ListingID>
+      <Title><![CDATA[VIVA O LUXO DE TER UMA LAGOA NO QUINTAL DE CASA! - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/viva-o-luxo-de-ter-uma-lagoa-no-quintal-de-casa/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_lke0lflke0lflke0.jpg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_hjol6khjol6khjol.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/MODIFICADA-3.jpg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.13-3.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/MODIFICADA-2.jpg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.15.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.17.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.10.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.13.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.16.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.17-2.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.13-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.15-2.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.13-2-scaled.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.14-1.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.17-1.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/MODIFICADA-1.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-18.23.18-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[R$ 1.100.000,00 Já pensou em acordar todos os dias com uma vista deslumbrante, ar puro e o som suave da natureza, sem abrir mão do conforto de uma casa moderna e aconchegante? Esta incrível chácara na Serra/ES é o refúgio perfeito para quem busca qualidade de vida, privacidade e momentos inesquecíveis com a família e amigos. Acesso direto e privativo à lagoa: Perfeito para contemplação, esportes aquáticos ou momentos de relaxamento à beira-mar/lagoa. Casa ampla e bem iluminada: Ambientes arejados e integrados com excelente acabamento. 3 quartos aconchegantes, sendo 1 suíte espaçosa para o seu total conforto. 2 banheiros sociais/internos bem equipados. Salas integradas e cozinha espaçosa, ideais para receber visitas. Área externa arborizada com vista privilegiada para a natureza e a água. Região tranquila e segura na Serra/ES, unindo o sossego da vida no campo com a praticidade de estar próximo aos principais comércios e vias de acesso da cidade. Ideal para moradia ou para o seu refúgio de final de semana! Serra &#8211; ES, 29175-385 Entre em contato agora mesmo para agendar sua visita e conhecer de perto o seu novo lar! AL]]></Description>
+        <ListPrice currency="BRL">1100000</ListPrice>
+        <LivingArea unit="square metres">3700</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Residencial Jacaraípe]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-27722</ListingID>
       <Title><![CDATA[Apartamento Garden 2 Quartos (Suíte) no Giardino Di Bali - LE]]></Title>
@@ -40,9 +171,9 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Excelente oportunidade de lançamento apartamento térreo no cobiçado Residencial Giardino di Bali conta com 50,23m² de área privativa, destacando-se por ser uma unidade GARDEN com quintal privativo , de Xm² oferecendo o conforto e o espaço de uma casa com a segurança de um condomínio fechado. Com planta inteligente de 2 quartos (sendo 1 suíte) e acabamento impecável, é a escolha perfeita para quem busca viver em um verdadeiro oásis urbano ao lado de Vitória, com previsão de entrega para 31/03/2028 . Ficha Técnico-Funcional do Imóvel: Área Privativa: 50,23m² com excelente distribuição dos ambientes. Modelo Garden: Unidade térrea com espaço privativo ao ar livre (quintal), ideal para momentos em família, pets e jardinagem. Quartos: 2 dormitórios confortáveis, sendo 1 suíte privativa para o casal. Acabamento: Padrão de acabamento impecável, projetado para oferecer máximo conforto e estética moderna. Área Social: Sala de estar e jantar integrada de forma prática e bem distribuída. Cozinha e Serviços: Cozinha funcional com área de serviço integrada e acesso facilitado ao quintal. Banheiros: 2 banheiros no total (1 banheiro social completo de apoio e 1 banheiro privativo da suíte). Acessibilidade e Estrutura: Torres equipadas com 2 elevadores cada, garantindo conforto e praticidade no acesso. Infraestrutura e Conceito do Condomínio: O Residencial Giardino di Bali foi concebido como um paraíso de tranquilidade e bem-estar. O condomínio é cercado por uma área verde preservada e conta com paisagismo enriquecido por grande diversidade de plantas, além de estrutura de lazer completa e encantadora para toda a família, unindo segurança, beleza e vista ampla. Localização Estratégica: Localizado em posição altamente privilegiada em Jardim Limoeiro, o residencial fica colado nas rodovias Norte-Sul e ES-010, ao lado do SempreTem Superatacado e do Villaggio Limoeiro. A região oferece conveniência total a poucos passos de casa, com supermercados, bancos, escolas, farmácias e rápido acesso a Vitória. Informações Comerciais e Prazos: Previsão de Entrega: 31 de Março de 2028. Condições: Imóvel na planta (direto da construtora), encontra-se com um valor de saldo devedor de R$ 103.164,60. Conquiste o seu apartamento Garden no Giardino di Bali com quintal privativo e lazer completo. Entre em contato para simulação de crédito e agende sua visita personalizada! LG]]></Description>
-        <ListPrice currency="BRL">540000</ListPrice>
-        <LivingArea unit="square metres">80</LivingArea>
+        <Description><![CDATA[Excelente oportunidade de lançamento apartamento térreo no cobiçado Residencial Giardino di Bali conta com 120m² de área privativa, destacando-se por ser uma unidade GARDEN com quintal privativo , oferecendo o conforto e o espaço de uma casa com a segurança de um condomínio fechado. Com planta inteligente de 2 quartos (sendo 1 suíte) e acabamento impecável, é a escolha perfeita para quem busca viver em um verdadeiro oásis urbano ao lado de Vitória, com previsão de entrega para 31/03/2028 . Ficha Técnico-Funcional do Imóvel: Área Privativa: 50,23m² com excelente distribuição dos ambientes. Modelo Garden: Unidade térrea com espaço privativo ao ar livre (quintal), ideal para momentos em família, pets e jardinagem. Quartos: 2 dormitórios confortáveis, sendo 1 suíte privativa para o casal. Acabamento: Padrão de acabamento impecável, projetado para oferecer máximo conforto e estética moderna. Área Social: Sala de estar e jantar integrada de forma prática e bem distribuída. Cozinha e Serviços: Cozinha funcional com área de serviço integrada e acesso facilitado ao quintal. Banheiros: 2 banheiros no total (1 banheiro social completo de apoio e 1 banheiro privativo da suíte). Acessibilidade e Estrutura: Torres equipadas com 2 elevadores cada, garantindo conforto e praticidade no acesso. Vaga de Garagem: 2 vagas de garagem, uma para carro e outra para moto Infraestrutura e Conceito do Condomínio: O Residencial Giardino di Bali foi concebido como um paraíso de tranquilidade e bem-estar. O condomínio é cercado por uma área verde preservada e conta com paisagismo enriquecido por grande diversidade de plantas, além de estrutura de lazer completa e encantadora para toda a família, unindo segurança, beleza e vista ampla. Localização Estratégica: Localizado em posição altamente privilegiada em Jardim Limoeiro, o residencial fica colado nas rodovias Norte-Sul e ES-010, ao lado do SempreTem Superatacado e do Villaggio Limoeiro. A região oferece conveniência total a poucos passos de casa, com supermercados, bancos, escolas, farmácias e rápido acesso a Vitória. Informações Comerciais e Prazos: Previsão de Entrega: 31 de Março de 2028. Condições: Imóvel na planta (direto da construtora), encontra-se com um valor de saldo devedor de R$ 103.164,60. Conquiste o seu apartamento Garden no Giardino di Bali com quintal privativo e lazer completo. Entre em contato para simulação de crédito e agende sua visita personalizada! LG]]></Description>
+        <ListPrice currency="BRL">550000</ListPrice>
+        <LivingArea unit="square metres">120</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>2</Bathrooms>
         <Garage type="Parking Space">2</Garage>
@@ -1750,8 +1881,10 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Land Lot</PropertyType>
         <Description><![CDATA[Imagine ter um imóvel literalmente de frente para o mar , em uma das regiões com grande potencial de valorização da Serra/ES. Este excelente terreno possui 480 m² , é plano e oferece uma localização privilegiada no Balneário de Carapebus, Serra – ES , proporcionando inúmeras possibilidades para quem deseja investir, construir ou transformar o espaço em um projeto exclusivo à beira-mar. Atualmente, o terreno possui uma casa antiga duplex com terraço , que pode ser reformada e revitalizada ou, para quem busca um projeto totalmente personalizado, demolida para dar lugar a uma nova construção . A localização e as dimensões do terreno tornam esta propriedade uma excelente oportunidade tanto para investidores quanto para quem deseja construir uma residência diferenciada, aproveitando todo o potencial de uma localização privilegiada diante do mar. Destaques do imóvel: 480 m² de terreno ; Frente para o mar ; Balneário de Carapebus – Serra/ES; Terreno plano; Casa duplex antiga com terraço; Possibilidade de reforma ou demolição; Excelente potencial para novo projeto residencial ou investimento. Valor de venda: R$ 750.000,00 Uma oportunidade diferenciada para quem busca localização, potencial e a exclusividade de construir ou renovar um imóvel de frente para o mar. Agende uma visita e venha conhecer pessoalmente todo o potencial desta propriedade! LC]]></Description>
-        <ListPrice currency="BRL">750000</ListPrice>
+        <ListPrice currency="BRL">780000</ListPrice>
         <LivingArea unit="square metres">480</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>4</Bathrooms>
         <Garage type="Parking Space">6</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -2119,52 +2252,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[de Fátima]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-26184</ListingID>
-      <Title><![CDATA[Apartamento à venda 2q | Sol da manhã | Suíte | 2 vagas livres! - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-a-venda-2q-sol-da-manha-suite-2-vagas-livres/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.48-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.49-2.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.49-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.48-3.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.49.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.48-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.11.48.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-16.12.13.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-12.47.08.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-12.47.09-1.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-12.47.09-2.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-12.47.09.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-13.18.15.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-22-at-12.47.10-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à venda no Condomínio Top Life Mallorca a 10 min de Vitória!! Sol da Manhã; 02 quartos sendo 01 suíte; 3º andar de escada ( dois lances) Armários na cozinha, bancada espaçosa, coifa e fogão cooktop. 02 vagas livres! Lazer Completo com : piscina adulto e infantil, campo de futebol com churrasqueira, quadra poliesportiva, playground, salão de festas climatizado com churrasqueira, mini mercadinho, portaria 24hs!! Valor do condomínio : R$ 350,00 (incluso água e gás). Não deixe essa oportunidade passar! Agende sua visita agora mesmo! RM]]></Description>
-        <ListPrice currency="BRL">260000</ListPrice>
-        <LivingArea unit="square metres">50</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[São Diogo II]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -4939,47 +5026,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-24250</ListingID>
-      <Title><![CDATA[Oportunidade Apartamento para locação a poucos metros da praia! - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-apartamento-para-locacao-a-poucos-metros-da-praia/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.13.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.12.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.13-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.14.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.15.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.14-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.16.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.15-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-09.05.16-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Oportunidade para morar a poucos metros da praia de Manguinhos, Apartamento andar alto, vista livre no Condomínio Viva Laguna Vista para o mar| Sol da manhã | Área edificada: 40 m² Excelente apartamento, pronto para morar, composto por: • 2 quartos; • Sala; • Cozinha com armário; • Banheiro social; • Lazer completo. Aluguel: R$ 1.700,00 (Com condomínio incluso). IPTU: R$ 190,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Excelente localização, próximo a: • Farmácias; • Supermercados; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar! Casaimobies]]></Description>
-        <ListPrice currency="BRL">1700</ListPrice>
-        <LivingArea unit="square metres">40</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Praia da Baleia]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-24185</ListingID>
       <Title><![CDATA[Casa Duplex na Planta – Em Reserva da Morada - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -7277,7 +7323,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Edifício Martinica Apartamento com 3 quartos + 1, sendo 2 com suíte, bem arejados, sala ampla , cozinha e área de serviço bem espaçoso. Unidade com sol da manhã e excelente ventilação, proporcionando mais conforto e abundante iluminação natural em todos os ambientes com apenas 2 lances de escadas. O Edifício Martinica é torre única com 3 andares composto por 2 moradores por andar ideal para quem busca tranquilidade e conforto no melhor bairro de Vitória. Localizado em rua tranquila e residencial, próximo a mercados, escolas e comércios em geral, com fácil acesso ao transporte público e próximo a praia de Camburi. Agende sua visita e venha conhecer! AV/JBL]]></Description>
-        <ListPrice currency="BRL">750000</ListPrice>
+        <ListPrice currency="BRL">650000</ListPrice>
         <LivingArea unit="square metres">120</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>3</Bathrooms>
@@ -8924,6 +8970,57 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-20339</ListingID>
+      <Title><![CDATA[Apartamento 3 quartos com suíte no Cond. Veredas Buritis - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-3-quartos-com-suite-no-cond-veredas-buritis/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.10.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.10-2.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.09-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.09.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.10-1.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.08.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-071771955128257.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-021771955128295.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-031771955128412.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-041771955128365.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-04-11771955128277.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-051771955128352.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-06-11771955128288.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-06-21771955128328.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-07-11771955128136.jpeg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/whatsapp-image-2026-02-24-at-14-12-081771955128135.jpeg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.09-4.jpeg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.09-1.jpeg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.02.08-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Condomínio Veredas Buritis &#8211; um dos melhores Condomínios de Colinas de Laranjeira Características do imóvel: &#8211; 74 m2 &#8211; 3 quartos, sendo 1 suíte &#8211; Sol da manhã &#8211; Sala ampla com rebaixamento em gesso e iluminação indireta &#8211; Acabamento fino &#8211; Piso laminado e porcelanatos selecionados &#8211; Varanda gourmet com armários e bancada preparada para churrasqueira &#8211; Banheiros com box e armários planejados &#8211; Hall de entrada com detalhes em gesso 3D &#8211; 1 vaga de garagem livre Diferenciais do condomínio: &#8211; Aprox R$ 500 reais &#8211; Super bem localizado (ao lado do Shopping MontSerrat, Carone e próximo ao MC Donalds, faculdades e comércios) &#8211; 3 Piscinas &#8211; Academia completa &#8211; 3 áreas de churrasqueira com forno de pizza &#8211; Quadra e campo de futebol &#8211; Salão de beleza &#8211; Brinquedoteca &#8211; Playground &#8211; 2 salões de festas (adulto e infantil) Agende já sua visita! LU]]></Description>
+        <ListPrice currency="BRL">690000</ListPrice>
+        <LivingArea unit="square metres">74</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
