@@ -6,7 +6,7 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-25T10:49:08</PublishDate>
+    <PublishDate>2026-10-26T12:19:55</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
@@ -638,53 +638,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-27457</ListingID>
-      <Title><![CDATA[Apartamento 2 quartos c/elevador – Vila de Itapuã em M. de Laranjeiras - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-c-elevador-vila-de-itapua-em-m-de-laranjeiras/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/sala-2.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/salaaaaaaaaaaa.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/slacox.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/coz-1.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/cocoz.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/cococco.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/sssssssss.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/cama.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/qrto-casal.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/qttt.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/quart.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/banheiro.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/salao.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/salao2.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/mercadinho.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento à venda no Condomínio Vila de Itapuã – Morada de Laranjeiras, Serra/ES Apartamento com 2 quartos, sala aconchegante, cozinha equipada com bancada e armários, além de banheiro com armário e nicho revestido em pedra na área do box, oferecendo praticidade e funcionalidade em cada ambiente. O grande destaque fica por conta do acabamento, com piso em porcelanato em todos os ambientes, proporcionando elegância, sofisticação e facilidade na manutenção, além de rebaixamento em gesso, que valoriza o visual dos espaços e traz um toque moderno ao imóvel. Localizado em andar alto, o apartamento conta com sol da manhã e ventilação cruzada, favorecendo a iluminação natural e a circulação de ar. O condomínio dispõe de elevador, área de lazer completa e mercadinho, garantindo mais comodidade e qualidade de vida para os moradores. Situado em Morada de Laranjeiras, na Serra, o imóvel está em uma região com acesso a comércios, supermercados, serviços e vias importantes, ideal para quem busca praticidade e conforto no dia a dia. Uma excelente oportunidade para morar ou investir, com acabamento diferenciado, ambientes bem ventilados e uma localização estratégica! VIK/FRAN]]></Description>
-        <ListPrice currency="BRL">310000</ListPrice>
-        <LivingArea unit="square metres">44</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">2</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-27432</ListingID>
       <Title><![CDATA[Apartamento à venda no Condomínio Rossi Vila Geribá | Praia da Baleia - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -1271,7 +1224,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-26782</ListingID>
-      <Title><![CDATA[EXCLUSIVIDADE E SOFISTICAÇÃO A POUCAS QUADRAS DA PRAIA DE ITAPUÃ! - LE]]></Title>
+      <Title><![CDATA[ARTAMENTO EXCLUSIVO A POUCAS QUADRAS DA PRAIA DE ITAPUÃ! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/exclusividade-e-sofisticacao-a-poucas-quadras-da-praia-de-itapua/</DetailViewUrl>
@@ -1994,7 +1947,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-26326</ListingID>
-      <Title><![CDATA[Oportunidade de investimento frente mar – Balneário de Carapebus! - LE]]></Title>
+      <Title><![CDATA[Casa para investimento frente mar – Balneário de Carapebus! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/oportunidade-de-investimento-frente-mar-balneario-de-carapebus/</DetailViewUrl>
@@ -2044,7 +1997,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-26254</ListingID>
-      <Title><![CDATA[Exclusividade e qualidade de vida na Praia de Itaparica! - LE]]></Title>
+      <Title><![CDATA[Apartamento com qualidade de vida na Praia de Itaparica! - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/exclusividade-e-qualidade-de-vida-na-praia-de-itaparica/</DetailViewUrl>
@@ -2063,7 +2016,7 @@
         <ListPrice currency="BRL">1200000</ListPrice>
         <LivingArea unit="square metres">83</LivingArea>
         <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <Bathrooms>2</Bathrooms>
         <Garage type="Parking Space">2</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -2686,58 +2639,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-26037</ListingID>
-      <Title><![CDATA[2 Quartos sol da manhã em Colina de Laranjeiras – Cond. Ilha Bela - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/2-quartos-sol-da-manha-em-colina-de-laranjeiras-cond-ilha-bela/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.46.59-2.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.03-3.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.04.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.04-1.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.02-1.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.03-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.03.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.02-2.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.01-3.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.02.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.01.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.01-1.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.01-2.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.46.58-1.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.46.58.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.46.59.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.46.59-1.jpeg</Item>
-        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.00-3.jpeg</Item>
-        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.00.jpeg</Item>
-        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-11.47.00-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Condomínio Ilha Bela O apartamento possui 2 quartos , sala ampla para dois ambientes, varanda, cozinha com armários modulados e área de serviço integrada. O banheiro conta com armários, box e ventilação natural. Está localizado em andar alto , com vista permanente , boa iluminação natural pelo sol da manhã e ventilação cruzada , proporcionando ambientes arejados e confortáveis. O condomínio oferece uma estrutura completa de lazer, segurança e comodidade para toda a família, contando com academia, bicicletário, churrasqueira, coworking, espaço kids, minimercado, piscina aquecida, piscina infantil, playground, sala de jogos e salão de festas, espaço goumert . Para os momentos de lazer e convivência, dispõe ainda de pet care, piscina, quadra poliesportiva e elevadores , incluindo elevador de serviço. A segurança é um dos destaques, com câmeras de segurança, controle de acesso, portaria 24 horas e segurança 24 horas , proporcionando mais tranquilidade e praticidade no dia a dia. Localizado em Colina de Laranjeiras, na Serra , o imóvel está em uma região que oferece excelente infraestrutura para quem busca qualidade de vida, praticidade e comodidade no dia a dia . O bairro conta com ampla variedade de comércios e serviços, além de escolas, supermercados, farmácias, restaurantes e tudo o que você precisa para resolver a rotina sem precisar se deslocar para longe. Uma localização estratégica, com fácil acesso às principais vias da região e a aproximadamente 15 minutos das principais praias da Serra , permitindo aproveitar o melhor da cidade, tanto para morar quanto para investir. FRAN]]></Description>
-        <ListPrice currency="BRL">369999</ListPrice>
-        <LivingArea unit="square metres">52</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Colina de Laranjeiras]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-26004</ListingID>
       <Title><![CDATA[Apartamento térreo 2 quartos, sala ampla &#8211; Cond. Atlântico I - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -2987,7 +2888,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-25861</ListingID>
-      <Title><![CDATA[EXCLUSIVIDADE, SOFISTICAÇÃO E VISTA MAR - LE]]></Title>
+      <Title><![CDATA[APARTAMENTO EXCLUSIVO E SOFISTICADO COM VISTA MAR - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/exclusividade-sofisticacao-e-vista-mar/</DetailViewUrl>
@@ -3588,7 +3489,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-25354</ListingID>
-      <Title><![CDATA[EXCLUSIVIDADE E CONFORTO EM ITAPOÃ – VILA VELHA/ES - LE]]></Title>
+      <Title><![CDATA[APARTAMENTO EXCLUSIVO CONFORTAVEL EM ITAPOÃ – VILA VELHA/ES - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/exclusividade-e-conforto-em-itapoa-vila-velha-es/</DetailViewUrl>
@@ -4207,7 +4108,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-25114</ListingID>
-      <Title><![CDATA[Mansão de Alto Padrão de Frente para o Mar Morro do Moreno P. Costa - LE]]></Title>
+      <Title><![CDATA[Casa de Alto Padrão de Frente para o Mar Morro do Moreno P. Costa - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/mansao-de-alto-padrao-de-frente-para-o-mar-morro-do-moreno-p-costa/</DetailViewUrl>
@@ -4220,12 +4121,18 @@
         <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8547-scaled.jpg</Item>
         <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8548-scaled.jpg</Item>
         <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8550-scaled.jpg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8549-scaled.jpg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8568-scaled.jpg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8570-scaled.jpg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0059.jpg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8549-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8568-scaled.jpg</Item>
         <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8572-scaled.jpg</Item>
         <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8573-scaled.jpg</Item>
         <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/IMG_8574-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0050.jpg</Item>
+        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0051.jpg</Item>
+        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0052.jpg</Item>
+        <Item medium="image" caption="img18">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0053.jpg</Item>
+        <Item medium="image" caption="img19">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0054.jpg</Item>
+        <Item medium="image" caption="img20">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/IMG-20240814-WA0063.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -6520,7 +6427,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Procurando o equilíbrio perfeito entre conforto, praticidade e lazer completo? Conheça este lindo apartamento de 2 quartos com suíte no Condomínio Itaúna Aldeia Parque ! Destaques do Imóvel: 2 quartos, sendo 1 suíte (ar condicionado nos 2 quartos) Sala ampla integrada em 2 ambientes Varanda com planejados e gás encanado para instalação de churrasqueira Banheiros com planejados e ótimo acabamento Ampla sala com ar condicionado split Cozinha planejada e equipada com cooktop, forno e purificador Área de serviço com planejados e pia em mármore 1 vaga de garagem Lazer de Clube Completo: O Itaúna oferece uma estrutura incrível para toda a família: • Piscina adulto e infantil com deck • Salão de festas e espaço gourmet com churrasqueira • Academia equipada e espaço fitness • Campo de futebol, brinquedoteca e playground • Portaria e segurança 24h Localização Privilegiada: No coração de Colina de Laranjeiras (Serra/ES), pertinho do Shopping Montserrat, faculdades, supermercados e com fácil acesso a Vitória! Agende já uma visita! LU]]></Description>
-        <ListPrice currency="BRL">600000</ListPrice>
+        <ListPrice currency="BRL">585000</ListPrice>
         <LivingArea unit="square metres">68</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>2</Bathrooms>
