@@ -6,10 +6,102 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-10-31T11:44:44</PublishDate>
+    <PublishDate>2026-11-01T12:44:23</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-28574</ListingID>
+      <Title><![CDATA[Magnífico apartamento 2 quartos c/suite no Villaggio manguinhos - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/magnifico-apartamento-2-quartos-c-suite-no-villaggio-manguinhos/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-15.58.17.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.12-1-1.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.08.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.09.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.12.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.09-2.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Quarto-Moderno-com-Parede-Vazia.png</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.09-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Quarto-moderno-aconchegante-e-organizado.png</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Quarto-Minimalista-em-Tons-Suaves.png</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.03.10-2.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/4a7cbf93-fa75-4a1c-b138-6df0f6a3637e.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/6c1ea3ce-4ac0-424f-a7da-a4c1eb1893e3.jpeg</Item>
+        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/321baa18-bd75-4c45-9e06-ccffaf4e4d56.jpeg</Item>
+        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/09b0f0ed-15c8-4429-8993-e40bb3f1c7f5.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Uma oportunidade perfeita para morar com conforto, segurança e uma infraestrutura completa de lazer em um dos bairros mais valorizados da Serra, Morada de Laranjeiras. Magnífico apartamento 2 quartos c/suite no Villaggio manguinhos &#8211; Porto fino Descrição do Imóvel Espaço Otimizado: Apartamento aconchegante de 56 m² , ideal para quem busca praticidade sem abrir mão do conforto. moveis todos planejados de excelente qualidade, piso laminado e vinílico na cozinha, ar-condicionado nos quartos. Ambientes: 2 quartos (sendo 1 suíte) com excelente iluminação natural. Varanda Integrada: Varanda charmosa integrada à área de serviço, maximizando o espaço útil. Diferencial: Posição Sol da tarde: essa unidade é voltada para o sol poente oferecendo uma vista livre e privilegiada para o Mestre Álvaro . EV]]></Description>
+        <ListPrice currency="BRL">499000</ListPrice>
+        <LivingArea unit="square metres">56</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Morada de Laranjeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-28532</ListingID>
+      <Title><![CDATA[Casa Alto padrão 3 quartos c/ 2 suítes no Yahoo Residence - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-alto-padrao-3-quartos-c-2-suites-no-yahoo-residence/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_lohspjlohspjlohs.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_tuw8cttuw8cttuw8.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_owty9lowty9lowty.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_e10de7e10de7e10d.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_kdb4ekdb4ekdb4ek.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_3vh67q3vh67q3vh6.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_620uan620uan620u.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_hx2bdzhx2bdzhx2b.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_o6jg3ao6jg3ao6jg.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_qtuzooqtuzooqtuz.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_lairpelairpelair.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_qj2r0nqj2r0nqj2r.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_i8b5k6i8b5k6i8b5.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[CASA DE ALTO PADRÃO | YAHOO RESIDENCE Sofisticação, conforto e modernidade em um imóvel pensado para quem valoriza qualidade de vida e acabamento diferenciado! 📐 DIMENSÕES Terreno: 156 m² Área construída: 170 m² Imóvel distribuído em 02 pavimentos. CARACTERÍSTICAS DO IMÓVEL 03 quartos, sendo 02 suítes; 02 banheiros sociais, um em cada pavimento; Sala de estar; Cozinha; Lavanderia; Área gourmet com jacuzzi; 02 quartos com varandas, uma voltada para a frente da rua e outra para os fundos do terreno. DIFERENCIAIS Acabamento de alto padrão; Projeto com excelente aproveitamento dos espaços; Área gourmet com jacuzzi; Terreno totalmente independente; Escritura individualizada. CONDIÇÕES DE FINANCIAMENTO Aceita financiamento bancário após a emissão do Habite-se. YAHOO RESIDENCE Uma excelente oportunidade para quem busca um imóvel exclusivo, com conforto, privacidade e qualidade construtiva! EV]]></Description>
+        <ListPrice currency="BRL">1350000</ListPrice>
+        <LivingArea unit="square metres">156</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>4</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Manguinhos]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-28323</ListingID>
       <Title><![CDATA[APARTAMENTO AMPLO E SOFISTICADO NO CENTRO DE VILA VELHA - LE]]></Title>
