@@ -6,10 +6,96 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-11-13T13:59:08</PublishDate>
+    <PublishDate>2026-11-14T13:00:59</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-29869</ListingID>
+      <Title><![CDATA[Excelente Casa 3 Quartos Suíte 2 Banheiros &#8211; Bairro Palmeiras &#8211; Serra - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-casa-3-quartos-suite-2-banheiros-bairro-palmeiras-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Casa-Moderna-Iluminada-a-Noite.png</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Cozinha-Moderna-com-Balcao-de-Marmore-1.png</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Interior-Moderno-com-Cozinha-ao-Fundo-1.png</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Cozinha-Integrada-Moderna-e-Vazia-1.png</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Quarto-Minimalista-com-Janela-Escura-1.png</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Banheiro-moderno-com-marmore-e-madeira.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-14.41.15-2-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-14.41.15-1-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-14.41.12-2-1.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-14.41.12-1-1.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Excelente oportunidade para você que busca conforto, espaço, praticidade e qualidade de vida para sua família! O imóvel está construído em um terreno de 200 m², com 178 m² de área construída , oferecendo ambientes bem distribuídos e ótimo aproveitamento dos espaços. A casa conta com 3 quartos, sendo 1 suíte, 2 banheiros e vaga de garagem. Possui sala com ótimo espaço, cozinha com bancada em granito, revestimento cerâmico e acabamento moderno. Conta também com piso em porcelanato, teto com acabamento amadeirado e iluminação em LED, proporcionando um visual elegante e aconchegante. Na parte externa, dispõe de espaço para garagem, com acesso por portão, trazendo mais praticidade e comodidade. Localizada no bairro Palmeiras, na Serra/ES, a casa fica a poucos minutos de Serra Sede, com fácil acesso a mercados, escolas, comércios e diversos serviços da região. Uma localização que proporciona praticidade para sua rotina e comodidade para toda a família. Uma excelente oportunidade para quem deseja conquistar a casa própria, com espaço, bom acabamento e ótima localização! Não aceita financiamento. Entre em contato para mais informações e agende sua visita. Venha conhecer seu novo lar! JH/FB]]></Description>
+        <ListPrice currency="BRL">430000</ListPrice>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Palmeiras]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-29815</ListingID>
+      <Title><![CDATA[Excelente Casa Duplex 2 Quartos Suite &#8211; Resid Centro da Serra. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-casa-duplex-2-quartos-suite-resid-centro-da-serra/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Casa-tropical-moderna-com-patio-ensolarado-1.png</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Sala-de-Estar-Moderna-com-Escada-e-TV-1.png</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Cozinha-moderna-com-bancada-preta-1.png</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Cozinha-moderna-integrada-a-sala-1.png</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Sala-de-Jantar-Moderna-e-Minimalista-1.png</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Quarto-moderno-com-cama-e-penteadeira-1.png</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Quarto-Minimalista-com-Varanda-e-Penteadeira-1.png</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Quarto-moderno-com-closet-e-banheiro-1.png</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Closet-Moderno-com-Armarios-Organizados-1.png</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Banheiro-moderno-com-bancada-de-granito-limpa-1.png</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Banheiro-moderno-com-box-de-vidro-1.png</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/Lavanderia-Moderna-e-Organizada-1.png</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Excelente oportunidade para quem busca conforto, privacidade e espaço para viver com qualidade de vida! Localizada no Residencial Centro da Serra, em Macafé, esta casa duplex individual é ideal para quem deseja conquistar seu próprio espaço e ter liberdade para aproveitar cada ambiente do imóvel. A casa conta com 80 m² de área construída, em um terreno de 170 m², distribuídos em dois pavimentos. São 2 quartos, sendo 1 suíte, além de 2 varandas com vista, proporcionando ambientes agradáveis para aproveitar momentos de descanso e tranquilidade. Um dos grandes diferenciais do imóvel é o amplo quintal, que oferece diversas possibilidades para você personalizar de acordo com suas necessidades. O espaço é ideal para construir uma área gourmet, instalar uma piscina, criar um ambiente de lazer ou até mesmo montar um belo jardim para reunir familiares e amigos. Por ser uma casa individual, proporciona mais privacidade e liberdade, além de oferecer espaço para realizar novos projetos e deixar o imóvel ainda mais aconchegante. Outro ponto importante é que a casa possui documentação em dia, proporcionando mais segurança e tranquilidade na hora de realizar a compra. Uma excelente oportunidade para quem procura uma casa com espaço externo, potencial de valorização e liberdade para construir o ambiente que sempre desejou. Entre em contato para obter mais informações e agende uma visita. JH/FB]]></Description>
+        <ListPrice currency="BRL">470000</ListPrice>
+        <LivingArea unit="square metres">170</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Residencial Centro da Serra]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-29630</ListingID>
       <Title><![CDATA[Galpão em Chácara Parreiral para Locação - LE]]></Title>
@@ -25,7 +111,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Disponível para locação em Chácara Parreiral, Serra/ES. O galpão tem área interna ampla e sem pilares centrais, piso de concreto e portão de enrolar com abertura ampla. As faixas translúcidas na cobertura deixam entrar luz natural, e o imóvel conta com ambientes de apoio nos fundos. Locação mensal de R$ 9.000. Quer ver se o espaço atende à sua operação? Chame a gente e agende uma visita. TR]]></Description>
+        <Description><![CDATA[Galpão disponível para locação no bairro Chácara Parreiral, em Serra/ES. Com 400 m² de área total, o espaço oferece planta livre e sem pilares centrais, proporcionando total flexibilidade para diferentes tipos de operação. O piso é de concreto, resistente e adequado para armazenagem e movimentação de cargas. A cobertura conta com faixas translúcidas que garantem boa entrada de luz natural, reduzindo a necessidade de iluminação artificial durante o dia. O acesso é feito por portão de enrolar com abertura ampla, facilitando a entrada e saída de veículos e equipamentos. Nos fundos, há ambientes de apoio para suporte às atividades do dia a dia. Valores: &#8211; Aluguel mensal: R$ 9.000 Garantias aceitas: seguro-fiança, fiador e caução. Ideal para operações logísticas, depósitos, distribuidoras e atividades industriais leves. Entre em contato e agende sua visita! TR]]></Description>
         <ListPrice currency="BRL">9000</ListPrice>
         <LivingArea unit="square metres">400</LivingArea>
         <Bedrooms>1</Bedrooms>
@@ -93,7 +179,7 @@
     </Listing>
     <Listing>
       <ListingID>LE-29652</ListingID>
-      <Title><![CDATA[Galpão para locação em Capuba, Jacaraípe próximo ao radar - LE]]></Title>
+      <Title><![CDATA[Galpão para locação em Costa Bela , Jacaraípe próximo ao radar - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://casaimobiliariaes.com.br/ad/galpao-para-locacao-em-capuba-jacaraipe-proximo-ao-radar/</DetailViewUrl>
@@ -111,7 +197,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Localizado em Capuba, Jacaraípe, Serra/ES, em frente ao Radar de Capuba. O galpão conta com acesso de garagem pela rua dos fundos, que tem uma área de retorno para facilitar as manobras de entrada e saída. O espaço interno tem pé-direito alto, piso de concreto, portão de enrolar e iluminação natural pela cobertura. O imóvel também conta com escritório, copa e banheiro com box. Locação mensal de R$ 7.000. 350m² Quer ver se o espaço atende à sua operação? Chame a gente e agende uma visita. TR]]></Description>
+        <Description><![CDATA[Galpão comercial disponível para locação em Costa Bela, Jacaraípe, Serra/ES, localizado em frente ao Radar. Com 350 m² de área útil, o imóvel oferece: • Pé-direito alto, ideal para armazenagem e operações logísticas • Piso de concreto resistente • Portão de enrolar • Iluminação natural pela cobertura • Acesso de garagem pela rua dos fundos, com área de retorno para facilitar manobras de entrada e saída • Escritório integrado ao espaço • Copa • Banheiro com box O acesso pela rua dos fundos com área de retorno garante mais praticidade para veículos de carga realizarem manobras com segurança e eficiência. Valor da locação: R$ 7.000/mês Garantias aceitas: seguro-fiança, fiador ou caução. Agende uma visita e verifique se o espaço atende à sua operação! TR]]></Description>
         <ListPrice currency="BRL">7000</ListPrice>
         <LivingArea unit="square metres">350</LivingArea>
         <Bedrooms>1</Bedrooms>
@@ -142,11 +228,12 @@
         <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-10.52.17-1.jpeg</Item>
         <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-10.52.18.jpeg</Item>
         <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-10.52.17.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-10.59.03.jpeg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Em Chácara Parreiral, Serra/ES, o conjunto reúne dois galpões lado a lado, com 462 m² cada. A configuração permite organizar o estoque e a expedição em áreas distintas, no mesmo endereço. O conjunto conta com pé-direito alto, piso de concreto, portões de enrolar e iluminação natural pela cobertura. Locação mensal do conjunto por R$ 20.000. Quer ver se o espaço atende à sua operação? Chame a gente e agende uma visita. TR]]></Description>
+        <Description><![CDATA[Galpões disponível para locação em Chácara Parreiral, Serra/ES. O conjunto reúne dois galpões lado a lado, com 462 m² cada, totalizando 924 m² de área. A configuração permite organizar o estoque e a expedição em áreas distintas, dentro do mesmo endereço — ideal para operações que demandam setorização logística eficiente. Características dos galpões: • Pé-direito alto • Piso de concreto • Portões de enrolar • Iluminação natural pela cobertura Condições de locação: • Aluguel mensal: R$ 20.000 (conjunto completo) • Garantias aceitas: seguro-fiança, fiador ou caução Endereço: Chácara Parreiral, Serra/ES Agende uma visita e avalie se o espaço atende à sua operação. TR]]></Description>
         <ListPrice currency="BRL">20000</ListPrice>
         <LivingArea unit="square metres">924</LivingArea>
         <Bedrooms>1</Bedrooms>
@@ -273,7 +360,7 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Sobre Excelente apartamento mobiliado com 3 quartos 2 banheiros sendo um social um de serviço, para locação em Castelândia, Serra – ES Se procura espaço, conforto e uma excelente localização para a sua família, esta é a oportunidade ideal! Este fantástico apto que se destaca-se pelas divisões, bem distribuídos e por uma excelente área exterior. Características do Imóvel: 3 Quartos amplos e bem arejados Sala de estar acolhedora para momentos em família Cozinha com bom espaço para refeições Banheiro social Área de serviço. Aluguel: R$ 2.000,00, mais o condominio R$ 450.00 IPTU: R$ 200,00 (Média) Disposto a negociações. Garantias aceitas para locação pela imobiliária: caução no valor equivalente a 3 (três) meses de aluguel ou seguro fiança . Localizada num bairro residencial tranquilo, com comércio local próximo, escolas e fácil acesso aos transportes públicos da região da Serra. MG Comodidades do Imóvel Área de serviço. Cozinha. Portaria. Salão de festa. Churrasqueira. Excelente localização, próximo a: Farmácias; • Supermercados; • Shopping; • Escolas; • Fácil acesso aos principais serviços e comércios da região. Agende sua visita e venha conhecer seu novo lar!]]></Description>
         <ListPrice currency="BRL">2000</ListPrice>
-        <LivingArea unit="square metres">55</LivingArea>
+        <LivingArea unit="square metres">65</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Garage type="Parking Space">1</Garage>
@@ -1488,55 +1575,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>LE-28957</ListingID>
-      <Title><![CDATA[AMPLO APARTARTAMENTO SOL DA MANHÃ LAZER- PRAIA DA COSTA - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartartamento-frente-sol-da-manha-lazer-praia-da-costa/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.45.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.46.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.43.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.40.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.42-2.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.39.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.42-3.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.46-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.43-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.42-1.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.42.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.46-2.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.46-3.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-07-18-at-09.16.50-2.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-07-18-at-09.16.50-1.jpeg</Item>
-        <Item medium="image" caption="img16">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-07-18-at-09.16.49-1.jpeg</Item>
-        <Item medium="image" caption="img17">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.40.45-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Exclusividade, imponência ao lado do mar na Praia da Costa Um apartamento que traduz elegância, conforto e localização privilegiada. Com 124m², este imóvel impressiona pela amplitude e pela distribuição inteligente dos ambientes. São 3 quartos, sendo 1 suíte, além de uma sala generosa integrada à varanda com vista lateral para a rua — um convite diário para apreciar a brisa e a luminosidade natural. Uma vaga coberta. O edifício se destaca pela sua arquitetura imponente e por oferecer um lazer completo, sofisticado e pensado para um estilo de vida elevado: Piscina Academia equipada Espaço gourmet elegante Salão de festas refinado Churrasqueira para momentos exclusivos Tudo isso em um condomínio seguro e cuidadosamente mantido, ideal para quem valoriza tranquilidade sem abrir mão da sofisticação. Em uma das localizações mais desejadas da região — perto do mar e com fácil acesso a conveniências, gastronomia e serviços. Um imóvel para quem busca mais do que morar: viver com estilo. Agende sua visita e descubra pessoalmente o potencial deste apartamento. LC 29,101-380 Costa Marina]]></Description>
-        <ListPrice currency="BRL">980000</ListPrice>
-        <LivingArea unit="square metres">135</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>3</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vila Velha]]></City>
-        <Neighborhood><![CDATA[Praia da Costa]]></Neighborhood>
-        <PostalCode>29100-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>LE-28874</ListingID>
       <Title><![CDATA[LOTE À VENDA EM MANGUINHOS – SERRA/ES - LE]]></Title>
       <TransactionType>For Sale</TransactionType>
@@ -1646,52 +1684,6 @@
         <City><![CDATA[Vitória]]></City>
         <Neighborhood><![CDATA[Praia do Canto]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-28828</ListingID>
-      <Title><![CDATA[APARTAMENTO 2 QUARTOS FRENTE SOL DA MANHÃ EM ITAPOÃ &#8211; VILA VELHA - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-2-quartos-frente-sol-da-manha-em-itapoa-vila-velha/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.50.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.50-1.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.49-1.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.50-3.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.50-4.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.50-2.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.51-2.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.51-3.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.52-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.52-3.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.52.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.51-1.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.51.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-14.05.52-2.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Conforto, praticidade e localização privilegiada em Itapoã Se você busca um imóvel funcional, bem localizado e pronto para morar, este excelente apartamento, é uma excelente escolha. Localizado em Itapoã, a apenas 600 metros da praia, o imóvel está cercado por toda a conveniência do dia a dia: supermercado EPA, bancos, padarias e um comércio completo a poucos passos. O apartamento conta com 73m² muito bem distribuídos, posição nascente, garantindo ventilação agradável e ótima iluminação natural. São 2 quartos confortáveis, 2 banheiros, sala integrada para dois ambientes (estar e jantar), além de uma cozinha funcional com área de serviço. O grande diferencial está nos armários embutidos de excelente qualidade presentes nos quartos, sala e cozinha, oferecendo praticidade e organização em todos os espaços. O imóvel encontra-se em ótimo estado de conservação e acabamento, pronto para receber você e sua família com conforto. Conta ainda com 1 vaga de garagem. ✨ Um apartamento que une localização estratégica, conforto e excelente custo-benefício — perfeito para morar ou investir. LC Chateax de France 29.101-521]]></Description>
-        <ListPrice currency="BRL">560000</ListPrice>
-        <LivingArea unit="square metres">73</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>2</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Vila Velha]]></City>
-        <Neighborhood><![CDATA[Itapoã]]></Neighborhood>
-        <PostalCode>29100-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Casa Imobiliaria ES</Name>
@@ -5897,53 +5889,6 @@
         <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
         <City><![CDATA[Serra]]></City>
         <Neighborhood><![CDATA[São Francisco]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-25593</ListingID>
-      <Title><![CDATA[Excelente 2 Quartos Condomínio Parque Residencial Valparaiso - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/excelente-2-quartos-condominio-parque-residencial-valparaiso/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.37-2.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.36-2.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.38.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.31-1.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.31.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.35-1.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.33-1.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.32-1.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.32-2.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.07.33.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.07.34.jpeg</Item>
-        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.07.33-1.jpeg</Item>
-        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.37.jpeg</Item>
-        <Item medium="image" caption="img14">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.36.jpeg</Item>
-        <Item medium="image" caption="img15">https://casaimobiliariaes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.04.34.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 2 Quartos no Condomínio Parque Residencial Valparaíso – Serra/ES Excelente oportunidade para moradia ou investimento no Condomínio Parque Residencial Valparaíso, um dos complexos residenciais mais tradicionais e bem localizados da região. Um imóvel ideal para quem busca praticidade, segurança e um ambiente familiar. O apartamento conta com 2 quartos confortáveis, ambos com móveis planejados e ar-condicionado, além de uma sala de estar e jantar integrada, proporcionando um ambiente aconchegante e funcional. A cozinha é prática e possui área de serviço anexa, além de 1 banheiro social e 1 vaga de garagem. O condomínio oferece portaria e segurança com acesso controlado, proporcionando mais tranquilidade aos moradores, além de salão de festas para confraternizações e quadra de futsal/poliesportiva para momentos de lazer. A localização é outro grande diferencial. O Residencial Valparaíso possui fácil acesso à Avenida Central de Laranjeiras e à BR-101, ficando a poucos minutos de supermercados, padarias, farmácias, escolas e hospitais, como o Hospital Dr. Jayme Santos Neves e o Materno Infantil. Além disso, está próximo à estrutura de lazer do Parque da Cidade, oferecendo praticidade e comodidade para toda a família. Agende sua visita! FB]]></Description>
-        <ListPrice currency="BRL">290000</ListPrice>
-        <LivingArea unit="square metres">59</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Valparaíso]]></Neighborhood>
         <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
