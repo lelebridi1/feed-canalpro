@@ -6,10 +6,180 @@
     <Provider>Casa Imobiliaria ES</Provider>
     <Email>contato@casaimobiliariaes.com.br</Email>
     <ContactName>Casa Imobiliaria ES</ContactName>
-    <PublishDate>2026-11-22T14:07:19</PublishDate>
+    <PublishDate>2026-11-23T17:29:18</PublishDate>
     <Telephone>(27) 3070-4717</Telephone>
   </Header>
   <Listings>
+    <Listing>
+      <ListingID>LE-30332</ListingID>
+      <Title><![CDATA[Apartamento de 2 quartos no Condomínio Top Life Cancun - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-de-2-quartos-no-condominio-top-life-cancun/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.38-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.38.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.39.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.38-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.37.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.37-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.40-1.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.41-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.41-2.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.41.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-11.49.40-2.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[R$ 235.000,00 Já imaginou morar em um lugar que reúne conforto, praticidade e tudo o que você precisa para viver bem? Esta pode ser a oportunidade que você estava procurando! Apresentamos este excelente apartamento no Condomínio Top Life Cancun, uma ótima opção para quem deseja conquistar seu próprio imóvel, sair do aluguel ou investir em uma propriedade com grande potencial. O imóvel conta com: 2 quartos, proporcionando conforto e privacidade para toda a família; Sala aconchegante, ideal para momentos de descanso e convivência; Cozinha funcional; Banheiro; 1 vaga de garagem. O condomínio oferece a praticidade de morar em um ambiente planejado para proporcionar mais comodidade no dia a dia. Seja para começar uma nova etapa da sua vida, conquistar a casa própria ou realizar um investimento imobiliário, este apartamento merece sua atenção! Não deixe essa oportunidade passar. Entre em contato para receber mais informações. Agende sua visita agora mesmo. AL]]></Description>
+        <ListPrice currency="BRL">235000</ListPrice>
+        <LivingArea unit="square metres">45</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[São Diogo II]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-30232</ListingID>
+      <Title><![CDATA[Casas duplex e lineares em Costa Bela Jacaraipe a partir de 330 mil - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casas-duplex-e-lineares-em-costa-bela-jacaraipe-a-partir-de-330-mil/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/404979ff-3e4a-4284-b049-98d9d89f7c4e.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/285e2ece-96c9-4f60-b426-e6dab8b4e143.jpg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/6eefcebe-91be-4d09-8a97-0d1d575b16c2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/cc95efc0-d2d0-4e4a-95b5-a74803788848.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/da93dc69-0577-4884-ab76-e47001d3bd9f.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/c11c8e27-3cd8-4d79-a828-7113ec4185ee.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[CASAS À VENDA EM COSTA BELA, JACARAÍPE | 2 QUARTOS A PARTIR DE R$ 330 MIL! ENCONTRE A CASA IDEAL PARA SUA FAMÍLIA! Excelente oportunidade para quem deseja conquistar uma casa de 2 quartos em Costa Bela, Jacaraípe, com opções de plantas lineares e duplex, diferentes metragens e valores que cabem em diferentes planejamentos. São 6 unidades disponíveis, oferecendo opções para quem busca praticidade, conforto e um imóvel com excelente aproveitamento dos espaços. OPÇÕES DISPONÍVEIS CASAS DUPLEX Unidade 1 – R$ 370.000 72 m² | 2 quartos | 2 banheiros Duplex, lado esquerdo. Unidade 2 – R$ 400.000 72 m² | 2 quartos | 2 banheiros Duplex de esquina. CASAS LINEARES Unidade 3 – R$ 330.000 52,20 m² | 2 quartos | 1 banheiro Térrea. Unidade 4 – R$ 330.000 52,20 m² | 2 quartos | 1 banheiro Térrea. Unidade 5 – R$ 330.000 60,12 m² | 2 quartos | 1 banheiro Segundo pavimento. Unidade 6 – R$ 330.000 60,12 m² | 2 quartos | 1 banheiro Segundo pavimento. INFORMAÇÕES IMPORTANTES Previsão de conclusão das obras: janeiro de 2027. Prazo estimado para documentação: 4 meses. VALORES A PARTIR DE R$ 330.000,00! Seja para morar ou investir, esta é uma oportunidade de adquirir seu imóvel em Costa Bela, Jacaraípe, escolhendo entre diferentes configurações e metragens. Não perca a oportunidade de escolher sua unidade! Entre em contato para mais informações e agende seu atendimento. JHU]]></Description>
+        <ListPrice currency="BRL">330000</ListPrice>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Costa Bela]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-30360</ListingID>
+      <Title><![CDATA[Casa 2 Quartos com Suite e Varanda em Costa dourada – Jacaraípe. - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-2-quartos-com-suite-e-varanda-em-costa-dourada-jacaraipe/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.27-2.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.31.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.30-2.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.28-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.29.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.30-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.30.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.31-1.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.28-3.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.28-2.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.28.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.27-1.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.48.26.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[OPORTUNIDADE DE VENDA – CASA EM COSTA DOURADA, JACARAÍPE! Excelente oportunidade para você que busca conforto, praticidade e uma ótima localização! Casa com 2 quartos, ideal para quem deseja morar com tranquilidade ou investir em um imóvel. Localizada em Costa Dourada, Jacaraípe, próxima ao Terminal de Jacaraípe, bairro São Patrício, Lagoa do Juara, creche, supermercados e praias da região. Destaques da localização: Próxima ao Terminal de Jacaraípe Fácil acesso ao bairro São Patrício Próxima à Lagoa do Juara Perto de creche e supermercados A poucos minutos das praias Região com comércio e serviços essenciais Uma excelente oportunidade para conquistar seu imóvel próprio e viver com mais comodidade! Entre em contato para mais informações e agende sua visita! RNT]]></Description>
+        <ListPrice currency="BRL">470000</ListPrice>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Costa Dourada]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>LE-30326</ListingID>
+      <Title><![CDATA[Casa duplex Costa Dourada-Jacaraipe - LE]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/casa-duplex-costa-dourada-jacaraipe/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.18-1.jpeg</Item>
+        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.28.jpeg</Item>
+        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.29.jpeg</Item>
+        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.28-1.jpeg</Item>
+        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.28-2.jpeg</Item>
+        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.27-1.jpeg</Item>
+        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.21.jpeg</Item>
+        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.27-2.jpeg</Item>
+        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.27.jpeg</Item>
+        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.30.jpeg</Item>
+        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.29-1.jpeg</Item>
+        <Item medium="image" caption="img12">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.22.jpeg</Item>
+        <Item medium="image" caption="img13">https://casaimobiliariaes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-09.47.18.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[OPORTUNIDADE DE VENDA – CASA EM COSTA DOURADA, JACARAÍPE! Excelente oportunidade para você que busca conforto, praticidade e uma ótima localização! Casa com 2 quartos , ideal para quem deseja morar com tranquilidade ou investir em um imóvel. Localizada em Costa Dourada, Jacaraípe, próxima ao Terminal de Jacaraípe, bairro São Patrício, Lagoa do Juara, creche, supermercados e praias da região. Destaques da localização: Próxima ao Terminal de Jacaraípe Fácil acesso ao bairro São Patrício Próxima à Lagoa do Juara Perto de creche e supermercados A poucos minutos das praias Região com comércio e serviços essenciais Uma excelente oportunidade para conquistar seu imóvel próprio e viver com mais comodidade! Entre em contato para mais informações e agende sua visita! RNT]]></Description>
+        <ListPrice currency="BRL">450000</ListPrice>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
+        <City><![CDATA[Serra]]></City>
+        <Neighborhood><![CDATA[Costa Dourada]]></Neighborhood>
+        <PostalCode>29160-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Casa Imobiliaria ES</Name>
+        <Email>contato@casaimobiliariaes.com.br</Email>
+        <Website>https://casaimobiliariaes.com.br</Website>
+        <Telephone>(27) 3070-4717</Telephone>
+      </ContactInfo>
+    </Listing>
     <Listing>
       <ListingID>LE-30265</ListingID>
       <Title><![CDATA[Excelente Apto 2 Q Térreo com quintal no Cond. Viva Mare, Serra ES - LE]]></Title>
@@ -300,7 +470,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Na Avenida Talma Rodrigues Ribeiro, em Portal de Jacaraípe, o imóvel oferece amplo pátio para estacionamento e manobra de carretas e caminhões, com estrutura para operações de logística, armazenagem e distribuição. O telhado está sendo substituído, com conclusão prevista para a entrega do imóvel ao novo locatário. * Portaria durante o dia e segurança no período noturno * Balança veicular * Área de escritório * Refeitórios * 6 banheiros Aluguel mensal de R$ 90.000 Entre em contato e agende uma visita. TR]]></Description>
-        <ListPrice currency="BRL">90000</ListPrice>
+        <ListPrice currency="BRL">80000</ListPrice>
         <Bedrooms>1</Bedrooms>
       </Details>
       <Location displayAddress="Neighborhood">
@@ -1351,7 +1521,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Casa / Apartamento no 2º Pavimento – 2 Quartos em Nova Carapina II Excelente oportunidade para sair do aluguel! Imóvel bem dividido, claro e muito arejado, localizado no segundo pavimento no bairro Nova Carapina II. Características do imóvel: 2 Quartos amplos e bem ventilados; Sala aconchegante com ótimo espaço; Cozinha funcional e prática; Área de serviço independente; Banheiro social ; Localizado no 2º andar (proporciona mais privacidade, segurança e excelente ventilação). Localização: Situado em rua tranquila de Nova Carapina II, com fácil acesso a ponto de ônibus, escolas, supermercados, padarias e ao comércio da região. Valor: R$ 220.000,00 (À vista / Estudo proposta) &#8211; ACEITA CARRO COMO PARTE DE PAGAMENTO. Documentação: Contrato de compra e venda (não possui escritura, portanto não aceita financiamento bancário ). JH/MG]]></Description>
-        <ListPrice currency="BRL">220000</ListPrice>
+        <ListPrice currency="BRL">189000</ListPrice>
         <LivingArea unit="square metres">56</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -1388,7 +1558,7 @@
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[VENDE-SE – CASA APARTAMENTO (2º PAVIMENTO) EM NOVA CARAPINA II (SERRA) Ótima oportunidade para morar ou investir! Imóvel no segundo andar , super ventilado e com excelente privacidade. 2 quartos, sala, cozinha, banheiro e área de serviço ; Ambiente familiar, seguro e tranquilo; Próximo a ponto de ônibus, escola e comércio local; Documentação: Contrato de compra e venda (venda à vista / não financia). Valor: 200.000,00 JH/MG]]></Description>
-        <ListPrice currency="BRL">200000</ListPrice>
+        <ListPrice currency="BRL">180000</ListPrice>
         <LivingArea unit="square metres">49</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -2975,49 +3145,6 @@
         <City><![CDATA[Vila Velha]]></City>
         <Neighborhood><![CDATA[Centro de Vila Velha]]></Neighborhood>
         <PostalCode>29100-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Casa Imobiliaria ES</Name>
-        <Email>contato@casaimobiliariaes.com.br</Email>
-        <Website>https://casaimobiliariaes.com.br</Website>
-        <Telephone>(27) 3070-4717</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>LE-28475</ListingID>
-      <Title><![CDATA[Apartamento Térreo 1 Quarto com Quintal Privativo &#8211; Cond. Costa do Mar - LE]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://casaimobiliariaes.com.br/ad/apartamento-terreo-1-quarto-com-quintal-privativo-cond-costa-do-mar/</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img1" primary="true">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.34-1.jpeg</Item>
-        <Item medium="image" caption="img2">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.34.jpeg</Item>
-        <Item medium="image" caption="img3">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.33-5.jpeg</Item>
-        <Item medium="image" caption="img4">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.33-4.jpeg</Item>
-        <Item medium="image" caption="img5">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.32.jpeg</Item>
-        <Item medium="image" caption="img6">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.32-3.jpeg</Item>
-        <Item medium="image" caption="img7">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.33-3.jpeg</Item>
-        <Item medium="image" caption="img8">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.32-2.jpeg</Item>
-        <Item medium="image" caption="img9">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.32-1.jpeg</Item>
-        <Item medium="image" caption="img10">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.33-2.jpeg</Item>
-        <Item medium="image" caption="img11">https://casaimobiliariaes.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.06.33-1.jpeg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Lindo Apartamento Térreo com Quintal no Condomínio Costa do Mar – 47m² Perfeito para quem tem animais de estimação, gosta de plantas ou valoriza um espaço privativo ao ar livre. Características do Imóvel: 1 Quarto aconchegante e bem iluminado. Sala de estar ideal para dois ambientes. Cozinha prática já equipada com armário planejado . Banheiro social completo. Lavanderia integrada e funcional. Quintal privativo exclusivo (Espaço Garden) no piso térreo. 1 Vaga de garagem demarcada. Sobre o Condomínio Costa do Mar: O condomínio oferece uma infraestrutura segura, ambiente familiar e portaria, garantindo toda a tranquilidade que a sua família merece. Pronto para morar! Excelente oportunidade para investimento ou habitação própria. Agende já a sua visita! CEP 29175-177 LU]]></Description>
-        <ListPrice currency="BRL">175000</ListPrice>
-        <LivingArea unit="square metres">47</LivingArea>
-        <Bedrooms>1</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Garage type="Parking Space">1</Garage>
-      </Details>
-      <Location displayAddress="Neighborhood">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="ES"><![CDATA[Espirito Santo]]></State>
-        <City><![CDATA[Serra]]></City>
-        <Neighborhood><![CDATA[Costa Dourada]]></Neighborhood>
-        <PostalCode>29160-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Casa Imobiliaria ES</Name>
